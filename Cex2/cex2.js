@@ -1,20 +1,20 @@
 
 
-const c1 = document.getElementById("inEl")
+const inEl = document.getElementById("inEl")
 const c2 = document.getElementById("ul-el")
-const c3 = document.getElementById("save")
+const saveBtn = document.getElementById("save")
+const p1 = document.getElementById("p1")
 
 let mydata = []
 
-c3.addEventListener("click",boom())
+saveBtn.addEventListener("click",boom())
 
 
 function boom(){
-    mydata.push(c1.value)
-    console.log(mydata)
+    mydata.push(inEl.value)
 }
 
 
 for (let i=0; i<mydata.length;i++){
-    c2.textContent += "<li>"+ mydata[i] +"</li>"
+    p1.innerText +=  "lanja"+" "
 }
