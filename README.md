@@ -1,5 +1,5 @@
 # Capstone
-Capstone Project - Human Centered AI in Software Engineering 
+Capstone Project - User based Search Engine Optimization 
 
 
 Goal - 1 -> To create a Chrome Extension 
