@@ -11,7 +11,7 @@
 
     "content_scripts": [
         {
-          "matches": ["https://*.nytimes.com/*"],
+          "matches": ["https://google.com/*"],
           "css": ["contentScript.css"],
           "js": ["contentScript.js"]
         }
