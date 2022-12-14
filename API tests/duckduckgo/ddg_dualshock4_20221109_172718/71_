@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+			<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="https://gmpg.org/xfn/11"/>
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Enable DualShock Vibration / Force Feedback on Windows PC - JILAXZONE</title>
+	<link rel="canonical" href="https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/"/>
+	<meta property="og:locale" content="en_US"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:title" content="Enable DualShock Vibration / Force Feedback on Windows PC - JILAXZONE"/>
+	<meta property="og:description" content="The steps shall enable your DualShock controller to have vibration function enabled in any compatible games. The X360CE setup is"/>
+	<meta property="og:url" content="https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/"/>
+	<meta property="og:site_name" content="JILAXZONE"/>
+	<meta property="article:published_time" content="2021-01-05T00:38:22+00:00"/>
+	<meta property="article:modified_time" content="2021-01-05T00:38:30+00:00"/>
+	<meta property="og:image" content="https://jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_.jpg"/>
+	<meta property="og:image:width" content="1244"/>
+	<meta property="og:image:height" content="700"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:creator" content="@jilaxzone"/>
+	<meta name="twitter:site" content="@jilaxzone"/>
+	<meta name="twitter:label1" content="Written by"/>
+	<meta name="twitter:data1" content="Jonathan Jilaxzone"/>
+	<meta name="twitter:label2" content="Est. reading time"/>
+	<meta name="twitter:data2" content="4 minutes"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://18.220.152.234/#website","url":"https://18.220.152.234/","name":"JILAXZONE","description":"Jon&#039;s Interesting Life &amp; Amazing eXperiences ZONE!","publisher":{"@id":"https://18.220.152.234/#/schema/person/f31b9051babb5874e76ad7f9454d50e7"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://18.220.152.234/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#primaryimage","inLanguage":"en-US","url":"https://www.jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_.jpg","contentUrl":"https://www.jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_.jpg","width":1244,"height":700,"caption":"DualShock with PlayStation Logo. Image courtesy of Sony."},{"@type":"WebPage","@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#webpage","url":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/","name":"Enable DualShock Vibration / Force Feedback on Windows PC - JILAXZONE","isPartOf":{"@id":"https://18.220.152.234/#website"},"primaryImageOfPage":{"@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#primaryimage"},"datePublished":"2021-01-05T00:38:22+00:00","dateModified":"2021-01-05T00:38:30+00:00","breadcrumb":{"@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/"]}]},{"@type":"BreadcrumbList","@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://18.220.152.234/"},{"@type":"ListItem","position":2,"name":"Enable DualShock Vibration / Force Feedback on Windows PC"}]},{"@type":"Article","@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#article","isPartOf":{"@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#webpage"},"author":{"@id":"https://18.220.152.234/#/schema/person/f31b9051babb5874e76ad7f9454d50e7"},"headline":"Enable DualShock Vibration / Force Feedback on Windows PC","datePublished":"2021-01-05T00:38:22+00:00","dateModified":"2021-01-05T00:38:30+00:00","mainEntityOfPage":{"@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#webpage"},"wordCount":832,"commentCount":3,"publisher":{"@id":"https://18.220.152.234/#/schema/person/f31b9051babb5874e76ad7f9454d50e7"},"image":{"@id":"https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#primaryimage"},"thumbnailUrl":"https://www.jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_.jpg","keywords":["7 jilaxzone","controller vibration app pc","controller vibration not working","dualshock 2 pc vibration","dualshock no vibration pc","dualshock pc vibration","enable force feedback on dualshock controller","enable force feedback on generic controller","jilaxzone"],"articleSection":["Gaming and Games","How-To","Tech"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#respond"]}]},{"@type":["Person","Organization"],"@id":"https://18.220.152.234/#/schema/person/f31b9051babb5874e76ad7f9454d50e7","name":"Jonathan Jilaxzone","image":{"@type":"ImageObject","@id":"https://18.220.152.234/#personlogo","inLanguage":"en-US","url":"https://jilaxzone.com/wp-content/uploads/2016/07/jilaxzonefesbuk2.png","contentUrl":"https://jilaxzone.com/wp-content/uploads/2016/07/jilaxzonefesbuk2.png","width":660,"height":660,"caption":"Jonathan Jilaxzone"},"logo":{"@id":"https://18.220.152.234/#personlogo"},"sameAs":["https://jilaxzone.com"],"url":"https://www.jilaxzone.com/author/jilaxzone/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="JILAXZONE &raquo; Feed" href="https://www.jilaxzone.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="JILAXZONE &raquo; Comments Feed" href="https://www.jilaxzone.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="JILAXZONE &raquo; Enable DualShock Vibration / Force Feedback on Windows PC Comments Feed" href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/feed/"/>
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.jilaxzone.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.8"}};!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.jilaxzone.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-theme-css' href='https://www.jilaxzone.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.8' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpsf_wpsf-css' href='https://www.jilaxzone.com/wp-content/plugins/wp-spam-fighter/css/wpsf.css?ver=0.5.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='colormag_style-css' href='https://www.jilaxzone.com/wp-content/themes/colormag/style.css?ver=2.0.6' type='text/css' media='all'/>
+<style id='colormag_style-inline-css' type='text/css'>.colormag-button,blockquote,button,input[type="reset"],input[type="button"],input[type="submit"],#masthead.colormag-header-clean #site-navigation.main-small-navigation .menu-toggle,.fa.search-top:hover,#masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle,.main-navigation ul li.focus>a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.focus>a,.home-icon.front_page_on,.main-navigation a:hover,.main-navigation ul li ul li a:hover,.main-navigation ul li ul li:hover>a,.main-navigation ul li.current-menu-ancestor>a,.main-navigation ul li.current-menu-item ul li a:hover,.main-navigation ul li.current-menu-item>a,.main-navigation ul li.current_page_ancestor>a,.main-navigation ul li.current_page_item>a,.main-navigation ul li:hover>a,.main-small-navigation li a:hover,.site-header .menu-toggle:hover,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover>a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor>a,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item>a,#masthead .main-small-navigation li:hover>a,#masthead .main-small-navigation li.current-page-ancestor>a,#masthead .main-small-navigation li.current-menu-ancestor>a,#masthead .main-small-navigation li.current-page-item>a,#masthead .main-small-navigation li.current-menu-item>a,.main-small-navigation .current-menu-item>a,.main-small-navigation .current_page_item>a,.promo-button-area a:hover,#content .wp-pagenavi .current,#content .wp-pagenavi a:hover,.format-link .entry-content a,.pagination span,.comments-area .comment-author-link span,#secondary .widget-title span,.footer-widgets-area .widget-title span,.colormag-footer--classic .footer-widgets-area .widget-title span::before,.advertisement_above_footer .widget-title span,#content .post .article-content .above-entry-meta .cat-links a,.page-header .page-title span,.entry-meta .post-format i,.more-link,.no-post-thumbnail,.widget_featured_slider .slide-content .above-entry-meta .cat-links a,.widget_highlighted_posts .article-content .above-entry-meta .cat-links a,.widget_featured_posts .article-content .above-entry-meta .cat-links a,.widget_featured_posts .widget-title span,.widget_slider_area .widget-title span,.widget_beside_slider .widget-title span,.wp-block-quote,.wp-block-quote.is-style-large,.wp-block-quote.has-text-align-right{background-color:#d33}#site-title a,.next a:hover,.previous a:hover,.social-links i.fa:hover,a,#masthead.colormag-header-clean .social-links li:hover i.fa,#masthead.colormag-header-classic .social-links li:hover i.fa,#masthead.colormag-header-clean .breaking-news .newsticker a:hover,#masthead.colormag-header-classic .breaking-news .newsticker a:hover,#masthead.colormag-header-classic #site-navigation .fa.search-top:hover,#masthead.colormag-header-classic #site-navigation.main-navigation .random-post a:hover .fa-random,.dark-skin #masthead.colormag-header-classic #site-navigation.main-navigation .home-icon:hover .fa,#masthead .main-small-navigation li:hover>.sub-toggle i,.better-responsive-menu #masthead .main-small-navigation .sub-toggle.active .fa,#masthead.colormag-header-classic .main-navigation .home-icon a:hover .fa,.pagination a span:hover,#content .comments-area a.comment-edit-link:hover,#content .comments-area a.comment-permalink:hover,#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover,.comment .comment-reply-link:hover,.nav-next a,.nav-previous a,.footer-widgets-area a:hover,a#scroll-up i,#content .post .article-content .entry-title a:hover,.entry-meta .byline i,.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover,.search .entry-title a:hover,.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,.entry-meta .tag-links a:hover,.single #content .tags a:hover,.post-box .entry-meta .cat-links a:hover,.post-box .entry-meta .posted-on a:hover,.post.post-box .entry-title a:hover,.widget_featured_slider .slide-content .below-entry-meta .byline a:hover,.widget_featured_slider .slide-content .below-entry-meta .comments a:hover,.widget_featured_slider .slide-content .below-entry-meta .posted-on a:hover,.widget_featured_slider .slide-content .entry-title a:hover,.byline a:hover,.comments a:hover,.edit-link a:hover,.posted-on a:hover,.tag-links a:hover,.widget_highlighted_posts .article-content .below-entry-meta .byline a:hover,.widget_highlighted_posts .article-content .below-entry-meta .comments a:hover,.widget_highlighted_posts .article-content .below-entry-meta .posted-on a:hover,.widget_highlighted_posts .article-content .entry-title a:hover,.widget_featured_posts .article-content .entry-title a:hover,.related-posts-main-title .fa,.single-related-posts .article-content .entry-title a:hover{color:#d33}#site-navigation{border-top-color:#d33}#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor,#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item,#masthead.colormag-header-classic #site-navigation .menu-toggle,#masthead.colormag-header-classic #site-navigation .menu-toggle:hover,#masthead.colormag-header-classic .main-navigation ul>li:hover>a,#masthead.colormag-header-classic .main-navigation ul>li.current-menu-item>a,#masthead.colormag-header-classic .main-navigation ul>li.current-menu-ancestor>a,#masthead.colormag-header-classic .main-navigation ul li.focus>a,.promo-button-area a:hover,.pagination a span:hover{border-color:#d33}#secondary .widget-title,.footer-widgets-area .widget-title,.advertisement_above_footer .widget-title,.page-header .page-title,.widget_featured_posts .widget-title,.widget_slider_area .widget-title,.widget_beside_slider .widget-title{border-bottom-color:#d33}@media (max-width:768px){.better-responsive-menu .sub-toggle{background-color:#bf1515}}</style>
+<link rel='stylesheet' id='colormag-featured-image-popup-css-css' href='https://www.jilaxzone.com/wp-content/themes/colormag/js/magnific-popup/magnific-popup.min.css?ver=2.0.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='colormag-fontawesome-css' href='https://www.jilaxzone.com/wp-content/themes/colormag/fontawesome/css/font-awesome.min.css?ver=2.0.6' type='text/css' media='all'/>
+<link crossorigin="anonymous" rel='stylesheet' id='colormag_googlefonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600&#038;ver=2.0.6' type='text/css' media='all'/>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?ver=5.7.8' id='recaptcha-js'></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/html5shiv.min.js?ver=2.0.6' id='html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.jilaxzone.com/wp-json/"/><link rel="alternate" type="application/json" href="https://www.jilaxzone.com/wp-json/wp/v2/posts/6797"/><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.jilaxzone.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.jilaxzone.com/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 5.7.8"/>
+<link rel='shortlink' href='https://www.jilaxzone.com/?p=6797'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.jilaxzone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jilaxzone.com%2F2021%2F01%2F05%2Fenable-dualshock-vibration-force-feedback-on-windows-pc%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.jilaxzone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jilaxzone.com%2F2021%2F01%2F05%2Fenable-dualshock-vibration-force-feedback-on-windows-pc%2F&#038;format=xml"/>
+<meta name="generator" content="Site Kit by Google 1.43.0"/><script data-ad-client="ca-pub-5841201622716420" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-5841201622716420",enable_page_level_ads:true});</script>
+<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-50710191-3"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-50710191-3',{'optimize_id':'GTM-TH9GDPP'});</script>
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style><style type="text/css" id="custom-background-css">body.custom-background{background-color:#d33}</style>
+	<link rel="amphtml" href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/amp/"><link rel="icon" href="https://www.jilaxzone.com/wp-content/uploads/2016/07/cropped-jilaxzonefesbuk2-1-32x32.png" sizes="32x32"/>
+<link rel="icon" href="https://www.jilaxzone.com/wp-content/uploads/2016/07/cropped-jilaxzonefesbuk2-1-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://www.jilaxzone.com/wp-content/uploads/2016/07/cropped-jilaxzonefesbuk2-1-180x180.png"/>
+<meta name="msapplication-TileImage" content="https://www.jilaxzone.com/wp-content/uploads/2016/07/cropped-jilaxzonefesbuk2-1-270x270.png"/>
+</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-6797 single-format-standard custom-background wp-custom-logo wp-embed-responsive right-sidebar box-layout">
+
+<amp-auto-ads type="adsense" data-ad-client="ca-pub-5841201622716420">
+</amp-auto-ads>
+<amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-5841201622716420" data-ad-slot="6435167136" data-auto-format="mcrspv" data-full-width="">
+	<div overflow=""></div>
+</amp-ad>		<div id="page" class="hfeed site">
+				<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+				<header id="masthead" class="site-header clearfix ">
+				<div id="header-text-nav-container" class="clearfix">
+		
+			<div class="news-bar">
+				<div class="inner-wrap clearfix">
+					
+		<div class="breaking-news">
+			<strong class="breaking-news-latest">Latest:</strong>
+
+			<ul class="newsticker">
+									<li>
+						<a href="https://www.jilaxzone.com/2022/11/09/iphone-tip-how-to-turn-off-cursor-when-pairing-with-bluetooth-keyboard/" title="iPhone Tip: How to turn off Cursor when pairing with Bluetooth keyboard">
+							iPhone Tip: How to turn off Cursor when pairing with Bluetooth keyboard						</a>
+					</li>
+									<li>
+						<a href="https://www.jilaxzone.com/2022/10/30/aws-lightsail-easy-fix-for-aws-lightsail-instance-stuck-on-pending-status/" title="AWS Lightsail: Easy Fix for AWS Lightsail Instance Stuck on Pending Status">
+							AWS Lightsail: Easy Fix for AWS Lightsail Instance Stuck on Pending Status						</a>
+					</li>
+									<li>
+						<a href="https://www.jilaxzone.com/2022/10/25/heres-the-easy-fix-for-windows-11-expiring-but-unable-to-do-windows-update/" title="Here&#8217;s the easy fix for Windows 11 Expiring but unable to do Windows Update">
+							Here&#8217;s the easy fix for Windows 11 Expiring but unable to do Windows Update						</a>
+					</li>
+									<li>
+						<a href="https://www.jilaxzone.com/2022/10/25/iphone-heres-how-to-change-ios-16-stack-notifications-back-to-old-one-list-based-notifications/" title="iPhone: Here&#8217;s how to change iOS 16 Stack notifications back to old one (List-based notifications)">
+							iPhone: Here&#8217;s how to change iOS 16 Stack notifications back to old one (List-based notifications)						</a>
+					</li>
+									<li>
+						<a href="https://www.jilaxzone.com/2022/10/06/heres-how-you-can-pay-housing-loan-in-lump-sum-using-cpf-singapore/" title="Here&#8217;s how you can pay housing loan in lump sum using CPF &#8211; Singapore">
+							Here&#8217;s how you can pay housing loan in lump sum using CPF &#8211; Singapore						</a>
+					</li>
+							</ul>
+		</div>
+
+		
+		<div class="social-links clearfix">
+			<ul>
+				<li><a href="http://twitter.com/jilaxzone" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="http://instagram.com/jilaxzone" target="_blank"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.youtube.com/channel/UCzvRNoxOljsGnP2MptrahlQ" target="_blank"><i class="fa fa-youtube"></i></a></li>			</ul>
+		</div><!-- .social-links -->
+						</div>
+			</div>
+
+			
+		<div class="inner-wrap">
+			<div id="header-text-nav-wrap" class="clearfix">
+
+				<div id="header-left-section">
+											<div id="header-logo-image">
+							<a href="https://www.jilaxzone.com/" class="custom-logo-link" rel="home"><script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/','8Xxa2XQLv9',true,false,'W6upEwgxRwg');
+//]]></script><img width="700" height="200" src="https://www.jilaxzone.com/wp-content/uploads/2016/07/jilaxzone.com-logo-web-black-red.png" class="custom-logo" alt="jilaxzone.com" srcset="https://www.jilaxzone.com/wp-content/uploads/2016/07/jilaxzone.com-logo-web-black-red.png 700w, https://www.jilaxzone.com/wp-content/uploads/2016/07/jilaxzone.com-logo-web-black-red-300x86.png 300w" sizes="(max-width: 700px) 100vw, 700px" data-pagespeed-url-hash="2506780314" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>						</div><!-- #header-logo-image -->
+						
+					<div id="header-text" class="screen-reader-text">
+													<h3 id="site-title">
+								<a href="https://www.jilaxzone.com/" title="JILAXZONE" rel="home">JILAXZONE</a>
+							</h3>
+						
+													<p id="site-description">
+								Jon&#039;s Interesting Life &amp; Amazing eXperiences ZONE!							</p><!-- #site-description -->
+											</div><!-- #header-text -->
+				</div><!-- #header-left-section -->
+
+				<div id="header-right-section">
+											<div id="header-right-sidebar" class="clearfix">
+							<aside id="custom_html-5" class="widget_text widget widget_custom_html clearfix"><h3 class="widget-title">Choose your preferred language (BETA):</h3><div class="textwidget custom-html-widget"><button id="showEnglish">English</button>
+<button id="showChinese">Chinese</button>
+<button id="showSpanish">Spanish</button>
+<button id="showHindi">Hindi</button>
+<button id="showIndonesian">Indonesian</button>
+<button id="showOthers">Others</button>
+
+
+
+<script type="text/javascript">document.getElementById("showEnglish").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&tl=en&u='+window.location.href,'_blank');};document.getElementById("showChinese").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&tl=zh-CN&u='+window.location.href,'_blank');};document.getElementById("showSpanish").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&tl=es&u='+window.location.href,'_blank');};document.getElementById("showHindi").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&tl=hi&u='+window.location.href,'_blank');};document.getElementById("showIndonesian").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&tl=id&u='+window.location.href,'_blank');};document.getElementById("showOthers").onclick=function(){window.open('https://translate.google.com/translate?rurl=jilaxzone.com&sl=auto&u='+window.location.href,'_blank');};</script></div></aside>						</div>
+										</div><!-- #header-right-section -->
+
+			</div><!-- #header-text-nav-wrap -->
+		</div><!-- .inner-wrap -->
+
+		
+		<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+			<div class="inner-wrap clearfix">
+				
+					<div class="home-icon">
+						<a href="https://www.jilaxzone.com/" title="JILAXZONE">
+							<i class="fa fa-home"></i>
+						</a>
+					</div>
+				
+									<div class="search-random-icons-container">
+													<div class="top-search-wrap">
+								<i class="fa fa-search search-top"></i>
+								<div class="search-form-top">
+									
+<form action="https://www.jilaxzone.com/" class="search-form searchform clearfix" method="get" role="search">
+
+	<div class="search-wrap">
+		<input type="search" class="s field" name="s" value="" placeholder="Search"/>
+
+		<button class="search-icon" type="submit"></button>
+	</div>
+
+</form><!-- .searchform -->
+								</div>
+							</div>
+											</div>
+				
+				<p class="menu-toggle"></p>
+				<div class="menu-primary-container"><ul id="menu-jilaxzonemenu" class="menu"><li id="menu-item-5102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5102"><a href="https://www.jilaxzone.com/category/free/">FREE!</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="https://www.jilaxzone.com/category/life/">Life</a></li>
+<li id="menu-item-1265" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-1265"><a href="https://www.jilaxzone.com/category/tech/">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://www.jilaxzone.com/category/tech/android/">Android</a></li>
+	<li id="menu-item-3522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3522"><a href="https://www.jilaxzone.com/category/tech/apache-kafka/">Apache Kafka</a></li>
+	<li id="menu-item-1268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1268"><a href="https://www.jilaxzone.com/category/automation/">Automation</a></li>
+	<li id="menu-item-1619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1619"><a href="https://www.jilaxzone.com/category/tech/cryptocurrency/">Cryptocurrency</a></li>
+	<li id="menu-item-6502" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-6502"><a href="https://www.jilaxzone.com/category/tech/gaming_and_games/">Gaming and Games</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="https://www.jilaxzone.com/category/tech/ios/">iOS</a></li>
+	<li id="menu-item-8036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8036"><a href="https://www.jilaxzone.com/category/tech/raspberrypi/">Raspberry Pi</a></li>
+	<li id="menu-item-7923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7923"><a href="https://www.jilaxzone.com/category/tech/windows/">Windows</a></li>
+	<li id="menu-item-1273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1273"><a href="https://www.jilaxzone.com/category/tech/zerodollarapp/">Zero $$ App</a></li>
+</ul>
+</li>
+<li id="menu-item-1269" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1269"><a href="https://www.jilaxzone.com/category/how-to/">How-To</a></li>
+<li id="menu-item-1270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1270"><a href="https://www.jilaxzone.com/category/positivecashflow/">Positive Cash Flow</a></li>
+<li id="menu-item-1272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1272"><a href="https://www.jilaxzone.com/category/travelicious/">Travelicious</a></li>
+<li id="menu-item-7916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7916"><a href="https://www.jilaxzone.com/category/book-review/">Book Review</a></li>
+<li id="menu-item-1500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1500"><a href="https://www.jilaxzone.com/archives/">Archives</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21"><a href="https://www.jilaxzone.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-3908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3908"><a href="https://www.jilaxzone.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul></div>
+			</div>
+		</nav>
+
+				</div><!-- #header-text-nav-container -->
+				</header><!-- #masthead -->
+				<div id="main" class="clearfix">
+				<div class="inner-wrap clearfix">
+		
+	<div id="primary">
+		<div id="content" class="clearfix">
+
+			
+<article id="post-6797" class="post-6797 post type-post status-publish format-standard has-post-thumbnail hentry category-gaming_and_games category-how-to category-tech tag-7-jilaxzone tag-controller-vibration-app-pc tag-controller-vibration-not-working tag-dualshock-2-pc-vibration tag-dualshock-no-vibration-pc tag-dualshock-pc-vibration tag-enable-force-feedback-on-dualshock-controller tag-enable-force-feedback-on-generic-controller tag-jilaxzone">
+	
+				<div class="featured-image">
+									<a href="https://www.jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_.jpg" class="image-popup"><img width="800" height="445" src="https://www.jilaxzone.com/wp-content/uploads/2020/12/ps4-dualshock-4-playstation-logo-jilaxzone.com_-800x445.jpg" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="ps4 dualshock 4 playstation logo jilaxzone.com" loading="lazy" data-pagespeed-url-hash="2252284800" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></a>
+								</div>
+			
+	<div class="article-content clearfix">
+
+		<div class="above-entry-meta"><span class="cat-links"><a href="https://www.jilaxzone.com/category/tech/gaming_and_games/" rel="category tag">Gaming and Games</a>&nbsp;<a href="https://www.jilaxzone.com/category/how-to/" style="background:#ffa50a" rel="category tag">How-To</a>&nbsp;<a href="https://www.jilaxzone.com/category/tech/" style="background:#e835e5" rel="category tag">Tech</a>&nbsp;</span></div>
+		<header class="entry-header">
+			<h1 class="entry-title">
+				Enable DualShock Vibration / Force Feedback on Windows PC			</h1>
+		</header>
+
+		<div class="below-entry-meta">
+			<span class="posted-on"><a href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/" title="8:38 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2021-01-05T08:38:22+08:00">January 5, 2021</time><time class="updated" datetime="2021-01-05T08:38:30+08:00">January 5, 2021</time></a></span>
+			<span class="byline">
+				<span class="author vcard">
+					<i class="fa fa-user"></i>
+					<a class="url fn n" href="https://www.jilaxzone.com/author/jilaxzone/" title="Jonathan Jilaxzone">
+						Jonathan Jilaxzone					</a>
+				</span>
+			</span>
+
+							<span class="comments">
+						<a href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#comments"><i class="fa fa-comments"></i> 3 Comments</a>					</span>
+				<span class="tag-links"><i class="fa fa-tags"></i><a href="https://www.jilaxzone.com/tag/7-jilaxzone/" rel="tag">7 jilaxzone</a>, <a href="https://www.jilaxzone.com/tag/controller-vibration-app-pc/" rel="tag">controller vibration app pc</a>, <a href="https://www.jilaxzone.com/tag/controller-vibration-not-working/" rel="tag">controller vibration not working</a>, <a href="https://www.jilaxzone.com/tag/dualshock-2-pc-vibration/" rel="tag">dualshock 2 pc vibration</a>, <a href="https://www.jilaxzone.com/tag/dualshock-no-vibration-pc/" rel="tag">dualshock no vibration pc</a>, <a href="https://www.jilaxzone.com/tag/dualshock-pc-vibration/" rel="tag">dualshock pc vibration</a>, <a href="https://www.jilaxzone.com/tag/enable-force-feedback-on-dualshock-controller/" rel="tag">enable force feedback on dualshock controller</a>, <a href="https://www.jilaxzone.com/tag/enable-force-feedback-on-generic-controller/" rel="tag">enable force feedback on generic controller</a>, <a href="https://www.jilaxzone.com/tag/jilaxzone/" rel="tag">jilaxzone</a></span></div>
+		<div class="entry-content clearfix">
+			
+<ul><li>The steps shall enable your DualShock controller to have vibration function enabled in any compatible games.</li><li>The X360CE setup is optional, do it only if your game is unable to recognize the DualShock controller.</li><li>For other interesting articles like this, head to <a href="https://jilaxzone.com/?s=game" target="_blank" rel="noreferrer noopener">Games and Gaming</a>, <a href="https://jilaxzone.com/category/tech/" target="_blank" rel="noreferrer noopener">Tech</a>, <a href="https://jilaxzone.com/category/free/" target="_blank" rel="noreferrer noopener">FREE Games and Stuffs</a> and <a href="https://jilaxzone.com/" target="_blank" rel="noreferrer noopener">more on JILAXZONE</a>.</li></ul>
+
+
+
+<p>Long story short: If you have any DualShock or DualShock 2 or other 3rd party similar controllers and using them to play games on Windows, here how you can enable the rumble / vibration function so for supported games, you will feel the rumble effects.</p>
+
+
+
+<p>Check the steps below.</p>
+
+
+
+<h2>Here&#8217;s how to enable Vibration function for your DualShock controller on Windows PC</h2>
+
+
+
+<h3>1) Plug the DualShock controller to Windows PC</h3>
+
+
+
+<p>If you are using the original PlayStation / PlayStation 2 DualShock controller, you must use dualshock to USB adapter, however if you are using any third party / chinese-made dualshock controller, most of them have USB port already, so you just need to plug the controller to your Windows PC.</p>
+
+
+
+<h3>2) Download and Install DualShock Driver for Windows </h3>
+
+
+
+<p>Well, technically it’s not really a driver as in Windows driver, but it’s a piece of software that enables MFi controller to work on Windows. It maps the MFi controller to be another controller supported by Windows (Eg: Xbox 360 controller).</p>
+
+
+
+<p>The generic Windows driver will just recognize the DualShock controller as a normal gamepad, you need to use this specific DualShock Windows driver to enable the vibration function.</p>
+
+
+
+<p>Here&#8217;s the download link: </p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Download link</td><td><a href="https://github.com/aitte2/dualshock_driver/find/master" target="_blank" rel="noreferrer noopener">DualShock Driver with vibration on GitHub</a></td></tr></tbody></table></figure>
+
+
+
+<p>Download the &#8220;VID_0810&amp;PID_0001 Twin USB Gamepad 64Bit Setup.rar&#8221; file and unzip it, inside you&#8217;ll find &#8220;VID_0810&amp;PID_0001 Twin USB Gamepad 64Bit Setup2.exe&#8221;. Double click to start installing. After installation, you won&#8217;t see any icon created anywhere, since this is just installing driver for you.</p>
+
+
+
+<h3>3) Download X360CE</h3>
+
+
+
+<p>X360CE is short for “Xbox 360 Controller Emulator”. X360CE is community-build small application that allows your controller to function as Xbox 360 controller. Long story short, Xbox 360 controller was one of many controllers that Microsoft officially supported on its Windows platform which has many game developers support for it, so the idea by using this small application is to turning your generic Bluetooth controller (which some games may not recognize) into a Xbox 360 controller (that most if-not-all Windows controller-compatible games recognize).</p>
+
+
+
+<p><strong>Here’s where you can download X360CE:</strong></p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>Download link</td><td><a href="https://github.com/x360ce/x360ce" target="_blank" rel="noreferrer noopener">X360CE on GitHub</a></td></tr></tbody></table></figure>
+
+
+
+<p>Download the &#8220;Download &#8211; x360ce.zip&#8221; file and unzip it, inside you&#8217;ll find &#8220;x360ce.exe&#8221;.  </p>
+
+
+
+<h3>4) Setup X360CE and map your DualShock controller</h3>
+
+
+
+<p>X360CE allows you to customize the controller and buttons mappings and save it for either generic purpose or game specific. On the steps below, I’ll show you how to setup a generic one. You, however, free to customize it for each and every game titles you have.</p>
+
+
+
+<p><strong>To set it up and map the controller buttons, do the following steps:</strong></p>
+
+
+
+<p>a) Double click on&nbsp;<strong>“x360ce.exe”</strong>. When prompted by Windows, select allow to run.</p>
+
+
+
+<p>b) On the x360ce interface, assuming you are setting up for Player 1, go to <strong>“Controller 1”</strong> tab and click on <strong>“+ Add…” </strong>button to add your controller (ensure your controller has been paired and connected to Windows). Select the controller from the list available and click on <strong>“Add Selected Device”</strong>. In case you can’t see your controller, go back to step <strong>1) Plug the DualShock controller to Windows PC</strong>, ensure you have plugged it successfully.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="766" src="https://jilaxzone.com/wp-content/uploads/2020/12/xbox360ce-xbox-360-controller-emulator-jilaxzone.com_.png" alt="xbox360ce xbox 360 controller emulator jilaxzone.com" class="wp-image-6669" srcset="https://www.jilaxzone.com/wp-content/uploads/2020/12/xbox360ce-xbox-360-controller-emulator-jilaxzone.com_.png 800w, https://www.jilaxzone.com/wp-content/uploads/2020/12/xbox360ce-xbox-360-controller-emulator-jilaxzone.com_-300x287.png 300w, https://www.jilaxzone.com/wp-content/uploads/2020/12/xbox360ce-xbox-360-controller-emulator-jilaxzone.com_-768x735.png 768w" sizes="(max-width: 800px) 100vw, 800px" data-pagespeed-url-hash="998570212" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/><figcaption>X360CE &#8211; Xbox 360 Controller Emulator</figcaption></figure>
+
+
+
+<p>c) Once the controller has been selected, the controller will appear under <strong>&#8220;Controller 1&#8221;</strong> tab. Start mapping your controller to the Xbox 360 controller. The easiest way to do this that I recommend – especially if this is your first time using the X360CE – is by clicking on each button on the Xbox 360 controller image shown on the X360CE, then press the corresponding button on your controller.</p>
+
+
+
+<p>d) Once mapping is done, then go to <strong>&#8220;Force Feedback&#8221; </strong>tab. Tick <strong>&#8220;Enable&#8221; </strong>Force Feedback. Then at the bottom, there&#8217;s 2 section: Left Motor and Right Motor. On each section, change the <strong>&#8220;Test&#8221;</strong> slider from 0% to 100% to test the vibration function on the controller. If you do all the steps above correctly, you should feel the vibration.  </p>
+
+
+
+<p>e) Once done with buttons mapping and Force Feedback, click <strong>“Save All”</strong> button (located on top right of the X360CE).</p>
+
+
+
+<p>f) Once saved, <strong>do NOT close the X360CE</strong> software. Let it run, by minimizing its window while you are starting your game.</p>
+
+
+
+<h2>Bring it all together</h2>
+
+
+
+<p>Thanks to <a href="https://github.com/aitte2" target="_blank" rel="noreferrer noopener">aitte2</a>, <a href="https://github.com/x360ce/x360ce/commits?author=EJocys" target="_blank" rel="noreferrer noopener">EJocys</a> and the rest contributors that makes this possible: to have vibration function on DualShock controller used on Windows PC. Now I&#8217;m getting the full experience of the game I&#8217;m playing!</p>
+
+
+
+<p>In case you are having difficulties in any of the steps, don&#8217;t hesitate to write me down on the comment section below your issues and I&#8217;ll be gladly help you out. Cheers for now! </p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p><strong>Do you have anything you want me to cover on my next article?</strong> Write them down on the comment section down below.</p>
+
+
+
+<p>Alternatively, find more interesting topics on JILAXZONE: </p>
+
+
+
+<figure class="wp-block-table alignwide has-fixed-layout"><table><tbody><tr><td><a href="https://jilaxzone.com/category/free/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">FREE!</a></td><td><a href="https://jilaxzone.com/category/life/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Life</a></td><td><a href="https://jilaxzone.com/category/tech/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Tech</a></td></tr><tr><td><a href="https://jilaxzone.com/category/how-to/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">How-To</a></td><td><a href="https://jilaxzone.com/category/positivecashflow/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Positive Cash Flow</a></td><td><a href="https://jilaxzone.com/category/tech/android/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Android</a></td></tr><tr><td><a href="https://jilaxzone.com/category/travelicious/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Travel</a></td><td><a href="https://jilaxzone.com/archives/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">All articles</a></td><td><a href="https://jilaxzone.com/category/tech/ios/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">iOS &amp; iPhone</a></td></tr></tbody></table></figure>
+
+
+
+<p><a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://jilaxzone.com" target="_blank">JILAXZONE</a> &#8211; Jon&#8217;s Interesting Life &amp; Amazing eXperience ZONE.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p></p>
+
+
+
+<p><strong>Hi, thanks for reading my article.</strong>&nbsp;Since you are here and if you find this article is good and helping you in anyway, help me to spread the words by sharing this article to your family, friends, acquaintances&nbsp;so the benefits do not just stop at you, they will also get the same goodness and benefit from it.</p>
+
+
+
+<p>Thank you!</p>
+
+
+
+<p><strong>Live to Share. Share to Live.</strong> This blog is my life-long term project, for me to share my experiences and knowledge to the world which hopefully can be fruitful to those who read them and in the end hoping to become my life-long (passive) income.  </p>
+
+
+
+<p><strong>My apologies. </strong>If you see ads appearing on this site and getting annoyed or disturb by them. As much as I want to share everything for free, unfortunately the domain and hosting used to host all these articles are not free. That&#8217;s the reason I need the ads running to offset the cost. While I won&#8217;t force you to see the ads, but <strong>it will be great and helpful if you are willing to turn off the ad-blocker while seeing this site.</strong></p>
+		</div>
+
+	</div>
+
+	</article>
+
+		</div><!-- #content -->
+
+		
+		<ul class="default-wp-page clearfix">
+			<li class="previous"><a href="https://www.jilaxzone.com/2021/01/04/heres-how-to-enable-together-mode-in-microsoft-teams-so-online-meeting-is-no-longer-boring-microsoft-365/" rel="prev"><span class="meta-nav">&larr;</span> Here&#8217;s how to enable Together Mode in Microsoft Teams so online meeting  is no longer boring | Microsoft 365</a></li>
+			<li class="next"><a href="https://www.jilaxzone.com/2021/01/07/singtel-prepaid-fix-for-hi-sim-card-unable-to-connect-to-internet-singapore/" rel="next">SingTel Prepaid &#8211; Fix for Hi! SIM Card unable to connect to Internet | Singapore <span class="meta-nav">&rarr;</span></a></li>
+		</ul>
+
+		
+	<div class="related-posts-wrapper">
+
+		<h4 class="related-posts-main-title">
+			<i class="fa fa-thumbs-up"></i><span>You May Also Like</span>
+		</h4>
+
+		<div class="related-posts clearfix">
+
+							<div class="single-related-posts">
+
+											<div class="related-posts-thumbnail">
+							<a href="https://www.jilaxzone.com/2018/12/30/fare-review-exercise-singapore-mrt-and-public-bus-price-increase-per-29-december-2018/" title="Fare Review Exercise: Singapore MRT and Public Bus price increase per 29 December 2018">
+								<img width="390" height="205" src="https://www.jilaxzone.com/wp-content/uploads/2018/12/img_3234-2-390x205.jpg" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="" loading="lazy" data-pagespeed-url-hash="3925178489" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>							</a>
+						</div>
+					
+					<div class="article-content">
+						<h3 class="entry-title">
+							<a href="https://www.jilaxzone.com/2018/12/30/fare-review-exercise-singapore-mrt-and-public-bus-price-increase-per-29-december-2018/" rel="bookmark" title="Fare Review Exercise: Singapore MRT and Public Bus price increase per 29 December 2018">
+								Fare Review Exercise: Singapore MRT and Public Bus price increase per 29 December 2018							</a>
+						</h3><!--/.post-title-->
+
+						<div class="below-entry-meta">
+			<span class="posted-on"><a href="https://www.jilaxzone.com/2018/12/30/fare-review-exercise-singapore-mrt-and-public-bus-price-increase-per-29-december-2018/" title="9:54 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2018-12-30T09:54:04+08:00">December 30, 2018</time><time class="updated" datetime="2018-12-30T09:54:22+08:00">December 30, 2018</time></a></span>
+			<span class="byline">
+				<span class="author vcard">
+					<i class="fa fa-user"></i>
+					<a class="url fn n" href="https://www.jilaxzone.com/author/jilaxzone/" title="Jonathan Jilaxzone">
+						Jonathan Jilaxzone					</a>
+				</span>
+			</span>
+
+							<span class="comments">
+													<i class="fa fa-comment"></i><a href="https://www.jilaxzone.com/2018/12/30/fare-review-exercise-singapore-mrt-and-public-bus-price-increase-per-29-december-2018/#respond">0</a>												</span>
+				</div>					</div>
+
+				</div><!--/.related-->
+							<div class="single-related-posts">
+
+											<div class="related-posts-thumbnail">
+							<a href="https://www.jilaxzone.com/2020/03/03/next-gen-iphone-is-iphone-classic/" title="Next Gen iPhone is iPhone Classic">
+								<img width="390" height="205" src="https://www.jilaxzone.com/wp-content/uploads/2018/05/Apple-Watch-Elevated-Heart-Rate-Monitor-Notification-jilaxzone.com_-390x205.jpg" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Apple Watch Elevated Heart Rate Monitor Notification jilaxzone.com" loading="lazy" data-pagespeed-url-hash="2600470097" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>							</a>
+						</div>
+					
+					<div class="article-content">
+						<h3 class="entry-title">
+							<a href="https://www.jilaxzone.com/2020/03/03/next-gen-iphone-is-iphone-classic/" rel="bookmark" title="Next Gen iPhone is iPhone Classic">
+								Next Gen iPhone is iPhone Classic							</a>
+						</h3><!--/.post-title-->
+
+						<div class="below-entry-meta">
+			<span class="posted-on"><a href="https://www.jilaxzone.com/2020/03/03/next-gen-iphone-is-iphone-classic/" title="11:45 pm" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2020-03-03T23:45:27+08:00">March 3, 2020</time><time class="updated" datetime="2020-03-03T23:45:34+08:00">March 3, 2020</time></a></span>
+			<span class="byline">
+				<span class="author vcard">
+					<i class="fa fa-user"></i>
+					<a class="url fn n" href="https://www.jilaxzone.com/author/jilaxzone/" title="Jonathan Jilaxzone">
+						Jonathan Jilaxzone					</a>
+				</span>
+			</span>
+
+							<span class="comments">
+													<i class="fa fa-comment"></i><a href="https://www.jilaxzone.com/2020/03/03/next-gen-iphone-is-iphone-classic/#respond">0</a>												</span>
+				</div>					</div>
+
+				</div><!--/.related-->
+							<div class="single-related-posts">
+
+											<div class="related-posts-thumbnail">
+							<a href="https://www.jilaxzone.com/2020/12/07/recommended-game-to-play-luigi-mansion-3-multiplayer-couch-co-op-nintendo-switch/" title="Recommended game to play: Luigi Mansion 3 &#8211; Multiplayer Couch Co-op | Nintendo Switch">
+								<img width="390" height="205" src="https://www.jilaxzone.com/wp-content/uploads/2020/12/luigi-mansion-3-multiplayer-adventure-game-jilaxzone.com_-390x205.jpg" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="luigi mansion 3 multiplayer adventure game jilaxzone.com" loading="lazy" data-pagespeed-url-hash="2561592347" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>							</a>
+						</div>
+					
+					<div class="article-content">
+						<h3 class="entry-title">
+							<a href="https://www.jilaxzone.com/2020/12/07/recommended-game-to-play-luigi-mansion-3-multiplayer-couch-co-op-nintendo-switch/" rel="bookmark" title="Recommended game to play: Luigi Mansion 3 &#8211; Multiplayer Couch Co-op | Nintendo Switch">
+								Recommended game to play: Luigi Mansion 3 &#8211; Multiplayer Couch Co-op | Nintendo Switch							</a>
+						</h3><!--/.post-title-->
+
+						<div class="below-entry-meta">
+			<span class="posted-on"><a href="https://www.jilaxzone.com/2020/12/07/recommended-game-to-play-luigi-mansion-3-multiplayer-couch-co-op-nintendo-switch/" title="8:44 am" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2020-12-07T08:44:48+08:00">December 7, 2020</time><time class="updated" datetime="2020-12-07T08:44:55+08:00">December 7, 2020</time></a></span>
+			<span class="byline">
+				<span class="author vcard">
+					<i class="fa fa-user"></i>
+					<a class="url fn n" href="https://www.jilaxzone.com/author/jilaxzone/" title="Jonathan Jilaxzone">
+						Jonathan Jilaxzone					</a>
+				</span>
+			</span>
+
+							<span class="comments">
+													<i class="fa fa-comment"></i><a href="https://www.jilaxzone.com/2020/12/07/recommended-game-to-play-luigi-mansion-3-multiplayer-couch-co-op-nintendo-switch/#respond">0</a>												</span>
+				</div>					</div>
+
+				</div><!--/.related-->
+			
+		</div><!--/.post-related-->
+
+	</div>
+
+	
+<div id="comments" class="comments-area">
+
+			<h3 class="comments-title">
+			3 thoughts on &ldquo;<span>Enable DualShock Vibration / Force Feedback on Windows PC</span>&rdquo;		</h3>
+
+		
+		<ul class="comment-list">
+							<li class="comment even thread-even depth-1" id="li-comment-148137">
+					<article id="comment-148137" class="comment">
+						<header class="comment-meta comment-author vcard">
+							<div class="comment-author-link"><i class="fa fa-user"></i>Mike Wazosky</div><div class="comment-date-time"><i class="fa fa-calendar-o"></i>March 7, 2022 at 9:07 am</div><a class="comment-permalink" href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#comment-148137"><i class="fa fa-link"></i>Permalink</a>						</header><!-- .comment-meta -->
+
+						
+						<section class="comment-content comment">
+							<p>Thank you so much it worked !</p>
+<a rel='nofollow' class='comment-reply-link' href='#comment-148137' data-commentid="148137" data-postid="6797" data-belowelement="comment-148137" data-respondelement="respond" data-replyto="Reply to Mike Wazosky" aria-label='Reply to Mike Wazosky'>Reply</a>						</section><!-- .comment-content -->
+
+					</article><!-- #comment-## -->
+				</li><!-- #comment-## -->
+				<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-167615">
+					<article id="comment-167615" class="comment">
+						<header class="comment-meta comment-author vcard">
+							<div class="comment-author-link"><i class="fa fa-user"></i>Dappy</div><div class="comment-date-time"><i class="fa fa-calendar-o"></i>June 3, 2022 at 8:07 am</div><a class="comment-permalink" href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#comment-167615"><i class="fa fa-link"></i>Permalink</a>						</header><!-- .comment-meta -->
+
+						
+						<section class="comment-content comment">
+							<p>Thank you so much, yours is the only post so fat thy doesn&#8217;t have conflicting results, really appreciate it.</p>
+<a rel='nofollow' class='comment-reply-link' href='#comment-167615' data-commentid="167615" data-postid="6797" data-belowelement="comment-167615" data-respondelement="respond" data-replyto="Reply to Dappy" aria-label='Reply to Dappy'>Reply</a>						</section><!-- .comment-content -->
+
+					</article><!-- #comment-## -->
+				</li><!-- #comment-## -->
+				<li class="comment even thread-even depth-1" id="li-comment-169307">
+					<article id="comment-169307" class="comment">
+						<header class="comment-meta comment-author vcard">
+							<div class="comment-author-link"><i class="fa fa-user"></i>Ignacio</div><div class="comment-date-time"><i class="fa fa-calendar-o"></i>June 22, 2022 at 12:12 pm</div><a class="comment-permalink" href="https://www.jilaxzone.com/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#comment-169307"><i class="fa fa-link"></i>Permalink</a>						</header><!-- .comment-meta -->
+
+						
+						<section class="comment-content comment">
+							<p>Hi! On my dualshock 3 sixaxis the vibration doesn&#8217;t work 🙁<br/>
+Any ideas on what&#8217;s going on?</p>
+<p>thanks!</p>
+<a rel='nofollow' class='comment-reply-link' href='#comment-169307' data-commentid="169307" data-postid="6797" data-belowelement="comment-169307" data-respondelement="respond" data-replyto="Reply to Ignacio" aria-label='Reply to Ignacio'>Reply</a>						</section><!-- .comment-content -->
+
+					</article><!-- #comment-## -->
+				</li><!-- #comment-## -->
+		</ul><!-- .comment-list -->
+
+		
+	
+	
+            <script type="text/javascript">window.wpsf_timestamp_enabled=true;window.wpsf_threshold=10000;window.wpsf_message='This site is protected by an anti-spam feature that requires {0} seconds to have elapsed between the page load and the form submission. \n\n Please close this alert window.  The form may be resubmitted successfully in {1} seconds.';String.prototype.format=function(args){var str=this;return str.replace(String.prototype.format.regex,function(item){var intVal=parseInt(item.substring(1,item.length-1));var replace;if(intVal>=0){replace=args[intVal];}else if(intVal===-1){replace="{";}else if(intVal===-2){replace="}";}else{replace="";}return replace;});};String.prototype.format.regex=new RegExp("{-?[0-9]+}","g");</script>
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2021/01/05/enable-dualshock-vibration-force-feedback-on-windows-pc/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.jilaxzone.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required'/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required'/></p>
+                        <script type="text/javascript">window.wpsf_javascript_enabled=true;</script>
+                                                <script type="text/javascript">window.wpsf_timestamp_enabled=true;</script>
+                                                    <textarea id="more_comment" aria-required="true" rows="8" cols="45" name="more_comment" style="display: none;"></textarea>
+                                                <p id="wpsf_p" style="clear:both;"></p>
+                        <script type="text/javascript">window.wpsf_not_a_spammer_enabled=true;window.not_a_spammer_label="I am not a spammer";window.not_a_spammer_user_message="Please confirm that you are not a spammer";</script>
+                        <noscript>Please enable javascript in order to be allowed to comment</noscript>
+                        <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"/> <input type='hidden' name='comment_post_ID' value='6797' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p><p>Comment moderation is enabled. Your comment may take some time to appear.</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+	</div><!-- #primary -->
+
+
+<div id="secondary">
+	
+	<aside id="categories-4" class="widget widget_categories clearfix"><h3 class="widget-title"><span>Categories</span></h3>
+			<ul>
+					<li class="cat-item cat-item-5"><a href="https://www.jilaxzone.com/category/tech/android/" title="All related to Android ">Android</a> (311)
+</li>
+	<li class="cat-item cat-item-27"><a href="https://www.jilaxzone.com/category/tech/android/android-free-app/" title="Android Free App(s)">Android Free App</a> (104)
+</li>
+	<li class="cat-item cat-item-26"><a href="https://www.jilaxzone.com/category/tech/android/android-free-game/" title="Android Free Game(s)">Android Free Game</a> (64)
+</li>
+	<li class="cat-item cat-item-5393"><a href="https://www.jilaxzone.com/category/tech/android/android-know-how/" title="Android tips and tricks">Android Know-How</a> (37)
+</li>
+	<li class="cat-item cat-item-21"><a href="https://www.jilaxzone.com/category/tech/android/android-news/" title="News related to Android">Android News</a> (142)
+</li>
+	<li class="cat-item cat-item-2337"><a href="https://www.jilaxzone.com/category/tech/apache-kafka/" title="All things related to Apache Kafka">Apache Kafka</a> (1)
+</li>
+	<li class="cat-item cat-item-102"><a href="https://www.jilaxzone.com/category/automation/" title="Live an easier life with automation">Automation</a> (4)
+</li>
+	<li class="cat-item cat-item-6259"><a href="https://www.jilaxzone.com/category/book-review/" title="Independent and thorough book review">Book Review</a> (3)
+</li>
+	<li class="cat-item cat-item-592"><a href="https://www.jilaxzone.com/category/tech/cryptocurrency/">Cryptocurrency</a> (8)
+</li>
+	<li class="cat-item cat-item-3717"><a href="https://www.jilaxzone.com/category/free/" title="Who doesn’t love free stuffs? I do love them. And that’s why this category exists. To share the good and great FREE stuffs!">FREE!</a> (33)
+</li>
+	<li class="cat-item cat-item-4412"><a href="https://www.jilaxzone.com/category/tech/gaming_and_games/" title="This is the section related to games and gaming: Console, handheld, PC, new, old and retrogames.">Gaming and Games</a> (101)
+</li>
+	<li class="cat-item cat-item-372"><a href="https://www.jilaxzone.com/category/how-to/">How-To</a> (797)
+</li>
+	<li class="cat-item cat-item-842"><a href="https://www.jilaxzone.com/category/indonesia/">Indonesia</a> (13)
+</li>
+	<li class="cat-item cat-item-3050"><a href="https://www.jilaxzone.com/category/positivecashflow/investing-investment/" title="Everything related to investing and investment">Investing and Investment</a> (12)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.jilaxzone.com/category/tech/ios/" title="All related to iOS, iPhone and Apple, including but not limited to free apps, free games, tips and tricks, hack, issues and solutions, jailbreak">iOS</a> (643)
+</li>
+	<li class="cat-item cat-item-28"><a href="https://www.jilaxzone.com/category/tech/ios/ios-free-app/" title="iOS / iPhone Free App(s)">iOS Free App</a> (114)
+</li>
+	<li class="cat-item cat-item-29"><a href="https://www.jilaxzone.com/category/tech/ios/ios-free-game/" title="iOS / iPhone Free Game(s)">iOS Free Game</a> (58)
+</li>
+	<li class="cat-item cat-item-302"><a href="https://www.jilaxzone.com/category/tech/ios/ios-know-how/">iOS Know-How</a> (388)
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.jilaxzone.com/category/tech/ios/ios-news/">iOS News</a> (267)
+</li>
+	<li class="cat-item cat-item-194"><a href="https://www.jilaxzone.com/category/tech/ios/jailbreak-jailbroken/" title="Jailbreak apps/tweaks, methods to jailbreak iOS devices">Jailbreak Jailbroken</a> (2)
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.jilaxzone.com/category/life/" title="All about &#039;Life&#039; related activity">Life</a> (296)
+</li>
+	<li class="cat-item cat-item-6716"><a href="https://www.jilaxzone.com/category/tech/linux/" title="All about Linux – a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds.">Linux</a> (3)
+</li>
+	<li class="cat-item cat-item-6717"><a href="https://www.jilaxzone.com/category/tech/linux/linux-know-how/" title="Linux Tips and Tricks for various Linux distros.">Linux Know How</a> (3)
+</li>
+	<li class="cat-item cat-item-496"><a href="https://www.jilaxzone.com/category/poll/">Poll</a> (13)
+</li>
+	<li class="cat-item cat-item-370"><a href="https://www.jilaxzone.com/category/positivecashflow/">Positive Cash Flow</a> (100)
+</li>
+	<li class="cat-item cat-item-6503"><a href="https://www.jilaxzone.com/category/tech/raspberrypi/" title="All about Raspberry Pi - The tiny-but-mighty Single Computer Board">Raspberry Pi</a> (3)
+</li>
+	<li class="cat-item cat-item-6504"><a href="https://www.jilaxzone.com/category/tech/raspberrypi/raspberrypi-know-how/" title="Raspberry Pi tips and tricks">Raspberry Pi Know-How</a> (3)
+</li>
+	<li class="cat-item cat-item-1871"><a href="https://www.jilaxzone.com/category/travelicious/traveling/singapore/">Singapore</a> (74)
+</li>
+	<li class="cat-item cat-item-35"><a href="https://www.jilaxzone.com/category/tech/" title="Today Technology, how they affect our lives, how they help our lives">Tech</a> (951)
+</li>
+	<li class="cat-item cat-item-142"><a href="https://www.jilaxzone.com/category/the-7/">The 7</a> (83)
+</li>
+	<li class="cat-item cat-item-369"><a href="https://www.jilaxzone.com/category/travelicious/">Travelicious</a> (67)
+</li>
+	<li class="cat-item cat-item-139"><a href="https://www.jilaxzone.com/category/travelicious/traveling/">Traveling</a> (76)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.jilaxzone.com/category/uncategorized/">Uncategorized</a> (8)
+</li>
+	<li class="cat-item cat-item-6269"><a href="https://www.jilaxzone.com/category/tech/windows/" title="All about Windows - Microsoft Desktop (laptop and cloud) Operating System">Windows</a> (7)
+</li>
+	<li class="cat-item cat-item-6270"><a href="https://www.jilaxzone.com/category/tech/windows/windows-know-how/" title="Windows Tips and Tricks for your PC">Windows Know-How</a> (7)
+</li>
+	<li class="cat-item cat-item-371"><a href="https://www.jilaxzone.com/category/yummylicious/">Yummylicious</a> (8)
+</li>
+	<li class="cat-item cat-item-373"><a href="https://www.jilaxzone.com/category/tech/zerodollarapp/">Zero $$ App</a> (118)
+</li>
+			</ul>
+
+			</aside>
+	</div>
+		</div><!-- .inner-wrap -->
+				</div><!-- #main -->
+				<footer id="colophon" class="clearfix ">
+				<div class="footer-socket-wrapper clearfix">
+			<div class="inner-wrap">
+				<div class="footer-socket-area">
+		
+		<div class="footer-socket-right-section">
+			
+		<div class="social-links clearfix">
+			<ul>
+				<li><a href="http://twitter.com/jilaxzone" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="http://instagram.com/jilaxzone" target="_blank"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.youtube.com/channel/UCzvRNoxOljsGnP2MptrahlQ" target="_blank"><i class="fa fa-youtube"></i></a></li>			</ul>
+		</div><!-- .social-links -->
+				</div>
+
+				<div class="footer-socket-left-section">
+			<div class="copyright">Copyright &copy; 2022 <a href="https://www.jilaxzone.com/" title="JILAXZONE"><span>JILAXZONE</span></a>. All rights reserved.<br>Theme: <a href="https://themegrill.com/themes/colormag" target="_blank" title="ColorMag" rel="nofollow"><span>ColorMag</span></a> by ThemeGrill. Powered by <a href="https://wordpress.org" target="_blank" title="WordPress" rel="nofollow"><span>WordPress</span></a>.</div>		</div>
+				</div><!-- .footer-socket-area -->
+					</div><!-- .inner-wrap -->
+		</div><!-- .footer-socket-wrapper -->
+				</footer><!-- #colophon -->
+				<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+				</div><!-- #page -->
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-5841201622716420" data-ad-slot="6435167136"></ins>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script><script type='text/javascript' src='https://www.jilaxzone.com/wp-content/plugins/wp-spam-fighter/javascript/wp-spamfighter.js?ver=0.5.1' id='wpsf_wp-spam-fighter-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-includes/js/comment-reply.min.js?ver=5.7.8' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/jquery.bxslider.min.js?ver=2.0.6' id='colormag-bxslider-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/sticky/jquery.sticky.min.js?ver=2.0.6' id='colormag-sticky-menu-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/news-ticker/jquery.newsTicker.min.js?ver=2.0.6' id='colormag-news-ticker-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/magnific-popup/jquery.magnific-popup.min.js?ver=2.0.6' id='colormag-featured-image-popup-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/navigation.min.js?ver=2.0.6' id='colormag-navigation-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/fitvids/jquery.fitvids.min.js?ver=2.0.6' id='colormag-fitvids-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/skip-link-focus-fix.min.js?ver=2.0.6' id='colormag-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-content/themes/colormag/js/colormag-custom.min.js?ver=2.0.6' id='colormag-custom-js'></script>
+<script type='text/javascript' src='https://www.jilaxzone.com/wp-includes/js/wp-embed.min.js?ver=5.7.8' id='wp-embed-js'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.142 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-11-10 06:27:20 -->
+
+<!-- Compression = gzip -->

@@ -1,0 +1,3445 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>   <html class="lt-ie10 lt-ie9 ie8" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 9 ]>   <html class="lt-ie10 ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html dir="ltr" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]-->
+
+   <head>
+         <link rel="preconnect" href="https://assets.cdn.ifixit.com" crossorigin>
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link rel="preconnect" href="https://guide-images.cdn.ifixit.com" crossorigin>
+
+   <link rel="preload"
+      href="https://assets.cdn.ifixit.com/Assets/translations/en-translations.js?6338"
+      as="script"
+      importance="high"
+         >
+   <link rel="preload"
+      href="https://assets.cdn.ifixit.com/Assets/scripts/runtime.js.6d0d6aac0b5d16610db2.js"
+      as="script"
+      importance="high"
+         >
+   <link rel="preload"
+      href="/v3/polyfill.min.js?features=default,Object.entries,Object.fromEntries,Number.isInteger,IntersectionObserver,NodeList.prototype.forEach,WeakSet,WeakMap,fetch,Array.prototype.flatMap,Array.prototype.flat,Promise.prototype.finally,IntersectionObserver,String.prototype.matchAll"
+      as="script"
+      importance="high"
+         >
+
+      
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-59NVBFN');</script>
+<!-- End Google Tag Manager -->
+      <title>DualShock 4 CUH-ZCT2 - iFixit</title>
+
+      <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+      <meta name="description" content="The DualShock 4 CUH-ZCT2 was announced in 2016 to replace the CUH-ZCT1 controller released in 2013. This controller is similar to the previous model. DualShock 4 CHU-ZCT2U troubleshooting, repair, and service manuals." />
+      <meta name="title" content="DualShock 4 CUH-ZCT2 - iFixit" />
+      <meta name="keywords" content="DualShock 4 CUH-ZCT2, DualShock 4 CHU-ZCT2U, iFixit, Mac, MacBook, iPod, iPhone, Repair, Parts, XBox, PlayStation, Game Boy, Nintendo DSi, tools" />
+
+         <meta name="robots" content="index, follow" />
+
+               <link id="canonical-link" rel="canonical" href="https://www.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+      
+                  <link rel="alternate" hreflang="en" href="https://www.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+      <link rel="alternate" hreflang="ja" href="https://jp.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+      <link rel="alternate" hreflang="pt" href="https://pt.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+      <link rel="alternate" hreflang="x-default" href="https://www.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+
+            
+                                                                  <meta property="og:type" content="website" />
+                                                                     <meta property="og:image" content="https://guide-images.cdn.ifixit.com/igi/gVrsWdboLrMrWXXM.medium" />
+                                                                     <meta property="og:description" content="The DualShock 4 CUH-ZCT2 was announced in 2016 to replace the CUH-ZCT1 controller released in 2013. This controller is similar to the previous model." />
+                                                                     <meta property="og:url" content="https://www.ifixit.com/Device/DualShock_4_CHU-ZCT2U" />
+                                                                     <meta property="og:title" content="DualShock 4 CUH-ZCT2" />
+                                                                     <meta property="og:site_name" content="iFixit" />
+                              
+            <meta name="verify-v1" content="jw37yaG9O4vmztqkH8xsZEeQtGHqzC3GZXfwk5xUCeM=" />
+
+            
+      
+      
+               <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1"/>
+      
+               <link rel="stylesheet" type="text/css" media="print" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/Shared-print-ej-m-RsicBzcpqbxdfzumQ.css" />
+      
+               <link rel="alternate" href="android-app://com.dozuki.ifixit/https/www.ifixit.com/Device/DualShock_4_CHU-ZCT2U"/>
+      
+            
+            
+            
+      
+               <script>
+   var deferCss = {
+      hidden: true,
+      timeout: null,
+      unhide: function() {
+         if (deferCss.hidden) {
+            var hider = document.getElementById('cssHide');
+            hider && hider.parentElement.removeChild(hider);
+
+            var criticalCss = document.getElementById('criticalCss');
+            criticalCss && criticalCss.parentElement.removeChild(criticalCss);
+
+            deferCss.hidden = false;
+         }
+      },
+      applyAllCss: function() {
+         if (!deferCss.hidden) {
+            return;
+         }
+         clearTimeout(deferCss.timeout);
+         var links = document.querySelectorAll('.cssReady, .cssPreload');
+         var link;
+         for (var i = 0; i < links.length; ++i) {
+            link = links[i];
+                        link.onload = null;
+            link.rel = 'stylesheet';
+         }
+         deferCss.unhide();
+      },
+      cssLoaded: function(link, success) {
+         link.className = success ? "cssReady" : "cssFailed";
+         if (!success) {
+            console.error(link.href + " failed to load");
+         }
+         var stillWaiting = document.querySelector('.cssPreload');
+         if (!stillWaiting) {
+            deferCss.applyCssWhenDomLoaded();
+         }
+      },
+      applyCssWhenDomLoaded: function() {
+         // Loading hasn't finished yet
+         if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() { deferCss.applyAllCss(); });
+         } else {
+            // `DOMContentLoaded` has already fired
+            deferCss.applyAllCss();
+         }
+      },
+      setTimeout: function(timeout) {
+         deferCss.timeout = setTimeout(function() {
+            console.warn("Deferred CSS took too long to load. Displaying anyway...");
+            deferCss.applyCssWhenDomLoaded();
+         }, timeout);
+      }
+   };
+         deferCss.setTimeout(25000);
+   </script>
+<script>
+   /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+/* This file is meant as a standalone workflow for
+- testing support for link[rel=preload]
+- enabling async CSS loading in browsers that do not support rel=preload
+- applying rel preload css once loaded, whether supported or not.
+*/
+(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	// define on the loadCSS obj
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			// unbind listeners
+			if( link.addEventListener ){
+				link.removeEventListener( "load", enableStylesheet );
+				link.removeEventListener( "error", enableStylesheet );
+			} else if( link.attachEvent ){
+				link.detachEvent( "onload", enableStylesheet );
+				link.detachEvent( "onerror", enableStylesheet );
+			}
+			link.setAttribute( "onload", null ); 
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 7 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( function() {
+			link.onload && link.onload();
+			enableStylesheet();
+		}, 7000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+
+
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+</script>
+
+      
+      
+   <noscript>
+      
+   </noscript>
+         <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/guide-all-9Uv4wN-ALLQg88xeYbMK2w.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/font-awesome-TJ5Jj6UQsF_rIBN0ieR8rA.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/module-all-MVEEwrgyABRRLq-BRFNgzQ.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/core-B4gdDRstuqn_juCgcAlKYQ.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/core-primitives-FRiyWBrcs-VKZtKdQeWTiw.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/Shared-offline_fonts-PRAeCG3DeBqNPwAo2FlnSA.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-wiki_search_component-E5zLvgwaMC5I87zfAvRiwA.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-topic-rtso-fZMFD4Mz9VC0jGbNA.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-common-naf9IxngtDr9ikkYXesbXA.css"
+               rel="preload" as="style" onload="deferCss.cssLoaded(this, true)"
+         onerror="this.onerror = this.onload = null; deferCss.cssLoaded(this, false);"
+         class="cssPreload"
+         />
+
+   <noscript>
+         <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/guide-all-9Uv4wN-ALLQg88xeYbMK2w.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/font-awesome-TJ5Jj6UQsF_rIBN0ieR8rA.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/module-all-MVEEwrgyABRRLq-BRFNgzQ.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/core-B4gdDRstuqn_juCgcAlKYQ.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/core-primitives-FRiyWBrcs-VKZtKdQeWTiw.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Admin/ifixit/Shared-offline_fonts-PRAeCG3DeBqNPwAo2FlnSA.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-wiki_search_component-E5zLvgwaMC5I87zfAvRiwA.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-topic-rtso-fZMFD4Mz9VC0jGbNA.css"
+               rel="stylesheet"
+         />
+   <link type="text/css" href="https://assets.cdn.ifixit.com/Assets/Guide/ifixit/Wiki-common-naf9IxngtDr9ikkYXesbXA.css"
+               rel="stylesheet"
+         />
+
+   </noscript>
+
+      <script>
+   </script>
+
+
+      
+
+            
+            
+                  
+   <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      
+                  
+                           var createOptions = {};
+                     createOptions = {'legacyCookieDomain': 'ifixit.com'};
+            
+                           ga('create', 'UA-30506-1', 'auto', 'ifixit', createOptions);
+                     
+         ga('ifixit.set', 'anonymizeIp', true);
+               
+                        ga('ifixit.set', 'dimension1', '0');         ga('ifixit.set', 'dimension2', '0');
+         
+                  ga('ifixit.set', 'dimension4', 'regular');
+         
+         
+         // Enable Remarketing and Advertising Reporting Features in GA
+         ga('ifixit.require', 'displayfeatures');
+         </script>
+            <script>
+            window.addEventListener("load", function(event) {
+         
+                     if (!window.App.gaFired) {
+               ga('ifixit.send', 'pageview');
+               window.App.gaFired = true;
+            }
+               });
+   </script>
+         
+      <script type="text/javascript">
+         window.fbq=window.fbq||function(){};
+      </script>         <!-- Matomo -->
+<script>
+   var _paq = window._paq = window._paq || [];
+   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+   var _matomoActions = [["trackPageView"],["enableLinkTracking"]];
+   _matomoActions.forEach(function(action) {
+      _paq.push(action);
+   });
+   (function() {
+      var u="https://minerva.ifixit.com/";
+      _paq.push(['setTrackerUrl', u+'minerva.php']);
+      _paq.push(['setSiteId', '1']);
+      _paq.push(["setDomains", ["*.ifixit.com","store.ifixit.de","store.ifixit.fr","store.ifixit.it","store.ifixit.co.uk","ifixit-eu-pro.myshopify.com"] ]);
+      _paq.push(["enableCrossDomainLinking"]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'js/minerva.js'; s.parentNode.insertBefore(g,s);
+   })();
+</script>
+<!-- End Matomo Code -->         <!-- Matomo Tag Manager -->
+<script>
+   var c = "https://minerva.ifixit.com/js/tagmanager/container_Js7BxC6z.js";
+
+   var _mtm = window._mtm = window._mtm || [];
+   _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+
+   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+   g.async=true; g.src=c; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Tag Manager -->                     <link rel="apple-touch-icon" sizes="57x57" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets.cdn.ifixit.com/static/icons/ifixit/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://assets.cdn.ifixit.com/static/icons/ifixit/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://assets.cdn.ifixit.com/static/icons/ifixit/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://assets.cdn.ifixit.com/static/icons/ifixit/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://assets.cdn.ifixit.com/static/icons/ifixit/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://assets.cdn.ifixit.com/static/icons/ifixit/manifest.json">
+<link rel="mask-icon" href="https://assets.cdn.ifixit.com/static/icons/ifixit/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="ifixit">
+<meta name="application-name" content="ifixit">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://assets.cdn.ifixit.com/static/icons/ifixit/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+   
+      <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/runtime.js.6d0d6aac0b5d16610db2.js"></script>
+<script defer src="/v3/polyfill.min.js?features=default,Object.entries,Object.fromEntries,Number.isInteger,IntersectionObserver,NodeList.prototype.forEach,WeakSet,WeakMap,fetch,Array.prototype.flatMap,Array.prototype.flat,Promise.prototype.finally,IntersectionObserver,String.prototype.matchAll"></script>
+
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/translations/en-translations.js?6338"></script>
+
+
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/6495.cef2bbdd4b3ca7fddb5f.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/9198.ebec031df83bd00e8c5b.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/4708.da4fe915570b9fb76b99.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/4778.e4894d5ea09dbd76a6ed.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/2659.2f6f49c248625c80865f.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/7900.a511cce291e0ede4d9b8.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/3458.c4e27518911736b361ad.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/9944.92c308d81710f1033d32.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/5634.1ee455e4c08715a52b96.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/9486.3b37ab9f85b07530a45f.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/9196.29880f188b5c6862d0b6.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/3367.918527c02f1fcd8f3f7f.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/372.9f50d7b681fa3c80e1fd.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/6912.0cdc75449d65108e52c9.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/492.d198fe1f36eba432c2dc.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/1924.8a76b1e978e16efdf52b.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/650.a1339c087758ce31a823.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/5114.7e33734ce8db2aef907f.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/8818.6464814d2ed5f9816f35.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/5549.3b426094d2d3590e5cee.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/1495.4ba281283d02b08fb85a.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/guidepage.js.8df40106da06c8b1ef65.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/9244.d175b0b8d733c9dd2261.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/6561.bb0b2a5a07687d0c306e.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/footer.js.d4237d1c6961213f3dff.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/2632.bc9430c73b5ddf46ad94.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/6314.5d91c229c9c90444a666.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/1548.88d14d8f9d0c5c0a711b.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/7326.a40aa0f26657fa83f463.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/4524.3c3749e8448e65a90105.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/4227.20b4ffa30676e1e64788.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/ifixit-header-footer.js.0cfded04b287f5b11b7a.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/4022.c37624d64308469381bc.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/7020.4d3fd5ccaa85ec421eeb.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/5842.23125a6a5a5df1dbc48b.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/ifixit-header.js.75b09d05058a39a87572.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/utm-tracker.js.4a7fa12a15ecad902203.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/campaign-banner-wp.js.68af52e1cc6a33da8759.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/table-of-contents.js.8c5d8a43f14be0b7dce7.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/error-capture.js.e2917273852bdf477846.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/page-navigation-breadcrumbs.js.6f390599698ad225f8aa.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/2571.cceea39ace67525999ff.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/wiki-search-new-guide.js.e2cdb84f1d2ba9cbbb6b.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/7821.b9b96ffb2e72fc27bb6c.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/wikipages-wiki-view.js.ac2c1e8121bd3d9bb8cc.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/save-topic.js.55270d4096b23e919b2a.js"></script>
+   <script defer type="text/javascript" src="https://assets.cdn.ifixit.com/Assets/scripts/framemodules-show-translations.js.bcf0be69f77bd1a01077.js"></script>
+
+
+      
+      
+   <script type="text/javascript">
+      window.REPAIR_ORG_OPTIONS = {"alwaysShowWidget":false,"cookieExpirationDays":30}   </script>
+   <script async src="https://assets.repair.org/widget.js"></script>
+      <style id="criticalCss">
+         h4,
+li,
+p,
+td {
+   font-size: 14px;
+}
+h4 {
+   color: #525d66;
+   margin: 3px 0;
+}
+h2 a,
+h2 a:visited,
+h3 a,
+h3 a:visited {
+   color: #212426;
+}
+h3 a.focus,
+h3 a.focus:visited {
+   color: #1975f1;
+}
+.focus,
+.focus:visited {
+   color: #fe6f15;
+}
+.price {
+   color: #e83d16;
+   font-weight: 700;
+}
+#contentFloat {
+   float: left;
+   padding: 0 20px 24px;
+}
+.fullWidth #contentFloat {
+   padding: 0;
+   width: 100%;
+}
+@media only screen and (max-width: 1000px) {
+   .responsive.fullWidth #contentFloat {
+      padding: 0 12px 24px;
+   }
+}
+#content {
+   margin-top: 24px;
+   width: 593px;
+}
+@media only screen and (max-width: 1000px) {
+   .fullWidth.responsive #content,
+   .responsive #content {
+      width: 100%;
+   }
+}
+.fullWidth #content {
+   width: 100%;
+}
+@media only screen and (max-width: 1000px) {
+   .responsive #content,
+   .responsive #main,
+   .responsive #mainBody {
+      margin: auto !important;
+      padding: 0;
+      width: 100%;
+   }
+}
+.container {
+   position: relative;
+}
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+   .container {
+      padding: 0 24px;
+   }
+}
+tr.row {
+   background-color: #fff;
+   box-shadow: inset 0 0 1px #afbbc4;
+}
+.full-page-background #content {
+   margin-top: 30px;
+}
+input.ifixit-control:enabled {
+   border: none;
+   display: inline;
+   height: 1px;
+   margin: 0;
+   opacity: 0;
+   padding: 0;
+   position: absolute;
+   width: 1px;
+   z-index: -1;
+}
+input.ifixit-control + label > span {
+   -ms-flex-align: center;
+   -webkit-touch-callout: none;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   color: #212426;
+   display: inline-block;
+   display: -ms-inline-flexbox;
+   display: -webkit-inline-flex;
+   display: inline-flex;
+   font-size: 14px;
+   height: 18px;
+   line-height: 18px;
+   position: relative;
+   vertical-align: middle;
+}
+input.ifixit-control + label > span:after,
+input.ifixit-control + label > span:before {
+   background: #fff;
+   border: 1px solid #828d96;
+   border-radius: 4px;
+   box-sizing: border-box;
+   content: '';
+   display: inline-block;
+   -ms-flex-shrink: 0;
+   -webkit-flex-shrink: 0;
+   flex-shrink: 0;
+   height: 18px;
+   margin-right: 15px;
+   width: 18px;
+}
+input.ifixit-control + label > span:after {
+   background: #1975f1 no-repeat 50%/11px auto;
+   background-image: url(https://assets.cdn.ifixit.com/static/images/input/check1x.png);
+   border: none;
+   box-shadow: inset 0 0 0 6px;
+   color: transparent;
+   left: 0;
+   position: absolute;
+   top: 0;
+   -webkit-transform: scale(0);
+   -ms-transform: scale(0);
+   transform: scale(0);
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+   input.ifixit-control + label > span:after {
+      background-image: url(https://assets.cdn.ifixit.com/static/images/input/check2x.png);
+   }
+}
+.responsive.fullWidth #contentFloat {
+   padding-bottom: 0;
+}
+table {
+   background-color: transparent;
+   border-collapse: collapse;
+   border-spacing: 0;
+   max-width: 100%;
+}
+#sidebar-wiki-toc .toc li li li a {
+   padding-left: 46px;
+}
+.fa-plus-circle:before {
+   content: '\f055';
+}
+.fa-check-circle:before {
+   content: '\f058';
+}
+.fa-comment-o:before {
+   content: '\f0e5';
+}
+#contentFloat,
+#topContent {
+   padding: 0 24px !important;
+}
+.questionsContainer {
+   -ms-flex-align: center;
+   -ms-flex-pack: justify;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   border-bottom: 1px solid #e2e2e2;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-justify-content: space-between;
+   -webkit-justify-content: space-between;
+   justify-content: space-between;
+   margin: 45px 0 20px;
+   padding-bottom: 6px;
+}
+@media only screen and (max-width: 599px) {
+   .questionsContainer {
+      -ms-flex-item-align: start;
+      -ms-align-self: flex-start;
+      -webkit-align-self: flex-start;
+      align-self: flex-start;
+      border-bottom: none;
+      -ms-flex-direction: column;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+   }
+   .questionsContainer #askQuestionButton {
+      border-top: 1px solid #e2e2e2;
+      padding-top: 20px;
+      text-align: left;
+   }
+}
+.questionsContainer .header {
+   border-bottom: none !important;
+   margin: 0 !important;
+   padding-bottom: 0 !important;
+}
+#topContent h2,
+.topic.articleContainer h2 {
+   -ms-flex-align: center;
+   -ms-flex-pack: justify;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   border-bottom: 1px solid #e3e8ed;
+   color: #212426;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   font-size: 26px;
+   font-weight: 700;
+   -ms-justify-content: space-between;
+   -webkit-justify-content: space-between;
+   justify-content: space-between;
+   margin: 45px 0 20px;
+   padding-bottom: 6px;
+}
+
+.store-feature .grid {
+   gap: 8px;
+   display: -ms-grid;
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(178px, 1fr));
+}
+@media (-ms-high-contrast: none) {
+   .store-feature .grid {
+      display: -ms-flexbox;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -4px;
+      margin-right: -4px;
+   }
+   .store-feature .grid > * {
+      margin: 4px;
+   }
+}
+.store-feature h5.title {
+   background: hsla(0, 0%, 100%, 0.9);
+}
+.store-image {
+   max-height: 178px;
+   width: 178px;
+}
+@media only screen and (max-width: 599px) {
+   .store-cell {
+      height: 200px;
+      width: 100%;
+   }
+}
+.store-cell .price {
+   background-color: #e83d16;
+   border-bottom-left-radius: 3px;
+   color: #fff;
+   font-size: 1.4em;
+   font-weight: 400;
+   height: 27px;
+   line-height: 27px;
+   padding: 0 10px;
+   position: absolute;
+   right: 0;
+   top: 0;
+}
+.topic #questions table {
+   margin-top: 0;
+}
+.topic #questions table tr:first-of-type td {
+   border-top: 0;
+}
+.container {
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   padding: 20px;
+}
+.container.topic {
+   padding: 0;
+}
+@media only screen and (max-width: 599px) {
+   .container {
+      padding: 20px 12px;
+   }
+}
+.articleContainer h2,
+.articleContainer h3 {
+   clear: both;
+   color: #212426;
+   font-weight: 600;
+   margin: 30px 0 0;
+}
+.articleContainer h2 {
+   border: 0;
+   font-size: 26px;
+   font-weight: 700;
+   margin-bottom: 0;
+   margin-top: 80px;
+}
+.articleContainer h3 {
+   font-size: 20px;
+}
+.articleContainer p {
+   color: #212426;
+   font-size: 16px;
+   line-height: 1.55em;
+   max-width: 720px;
+}
+.articleContainer p:not(:last-child) {
+   margin-bottom: 24px;
+}
+.articleContainer table {
+   margin: 16px 0;
+   max-width: 720px;
+   overflow-x: hidden;
+   width: auto;
+}
+h3.blurbListTitle {
+   color: #212426;
+   font-size: 20px;
+   margin-bottom: 8px;
+   overflow: auto;
+}
+.headerLinkArrow {
+   color: #525d66;
+   font-size: 20px;
+   margin: 0 12px;
+   opacity: 0.5;
+}
+.blurbListWide .grid {
+   gap: 8px;
+   display: -ms-grid;
+   display: grid;
+   grid-template-columns: auto;
+}
+@media (-ms-high-contrast: none) {
+   .blurbListWide .grid {
+      display: -ms-flexbox;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -4px;
+      margin-right: -4px;
+   }
+   .blurbListWide .grid > * {
+      margin: 4px;
+   }
+}
+@media only screen and (min-width: 600px) {
+   .blurbListWide .grid {
+      grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
+   }
+}
+.blurbListWide .cell {
+   word-wrap: break-word;
+   border-radius: 4px;
+   box-shadow: 0 1px 2px rgba(17, 22, 26, 0.1), 0 2px 4px rgba(17, 22, 26, 0.1);
+   overflow: hidden;
+   position: relative;
+}
+@media (-ms-high-contrast: none) {
+   .blurbListWide .cell {
+      max-width: 304px;
+   }
+}
+.blurbListWide .cell .title {
+   -ms-flex-align: center;
+   -ms-flex-pack: justify;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   background-color: #fff;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-justify-content: space-between;
+   -webkit-justify-content: space-between;
+   justify-content: space-between;
+   min-height: 100%;
+}
+.blurbListWide .cell .title p {
+   -ms-flex-item-align: center;
+   -ms-align-self: center;
+   -webkit-align-self: center;
+   align-self: center;
+   color: #242c33;
+   font-size: 14px;
+   line-height: 1.25;
+   margin: 0;
+   padding: 8px 12px;
+}
+.blurbListWide .cell .title .thumb {
+   max-height: 100px;
+   -ms-order: 1;
+   -webkit-order: 1;
+   order: 1;
+}
+#questions {
+   clear: left;
+   margin-top: 16px;
+   position: relative;
+}
+#questions table {
+   max-width: none;
+   width: 100%;
+}
+#questions td {
+   border-top: 1px dotted #e3e8ed;
+   padding: 18px 12px;
+   vertical-align: top;
+}
+#questions td.questionStatus {
+   min-width: 182px;
+}
+#questions .questionTitle {
+   width: 495px;
+}
+.questionStatus p {
+   background-color: #f7f9fa;
+   border: 1px solid #e3e8ed;
+   border-radius: 4px;
+   line-height: 1.667em;
+   margin: 0;
+   padding: 3px 8px;
+   text-align: center;
+}
+@media only screen and (max-width: 599px) {
+   .questionStatus p {
+      font-size: 12px;
+   }
+}
+.questionStatus p.answers {
+   margin-bottom: 8px;
+   white-space: nowrap;
+}
+.questionStatus .acceptedAnswer {
+   color: #febc3e;
+}
+#questions .questionTitle h3 {
+   font-size: 1.333em;
+   line-height: 1.25em;
+   margin: 0;
+}
+#questions .questionTitle p {
+   line-height: 1.667em;
+   margin: 0;
+}
+.subtleButton {
+   background-color: #f7f9fa;
+   border-radius: 3px;
+   color: #212426 !important;
+   float: right;
+   font-size: 13px;
+   font-weight: 400;
+   height: 26px;
+   line-height: 25px;
+   margin-top: -8px;
+   padding: 0 13px;
+   position: relative;
+   top: 6px;
+}
+@media only screen and (max-width: 599px) {
+   .subtleButton {
+      background-color: transparent;
+      clear: right;
+      display: block;
+      margin: 20px auto;
+      padding: 0;
+      text-align: center;
+      width: 100%;
+   }
+}
+.subtleButton i {
+   font-size: 12px;
+   margin-right: 6px;
+}
+#questions {
+   margin: 24px 0;
+}
+#questions .firstRow {
+   border-top: none;
+}
+@media only screen and (max-width: 599px) {
+   #questions .questionStatus {
+      display: none;
+   }
+}
+#questions .questionTitle {
+   -ms-flex-pack: center;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-flex-direction: column;
+   -webkit-flex-direction: column;
+   flex-direction: column;
+   -ms-justify-content: center;
+   -webkit-justify-content: center;
+   justify-content: center;
+   width: 80%;
+}
+@media only screen and (max-width: 599px) {
+   #questions .questionTitle {
+      width: 100%;
+   }
+}
+.repairability-score-6 {
+   background-color: #d8d630;
+}
+#variant-save-topic-button {
+   margin-left: 0;
+}
+.workbench-topic-variant-dropdown .content-dropdown-list {
+   border-radius: 4px;
+   overflow: hidden;
+   padding: 0;
+   right: auto;
+   width: 280px;
+}
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+   .workbench-topic-variant-dropdown .content-dropdown-list {
+      right: 9px;
+   }
+}
+@media only screen and (max-width: 599px) {
+   .workbench-topic-variant-dropdown .content-dropdown-list {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
+      position: absolute;
+      right: -29px;
+      top: 5em;
+   }
+}
+.workbench-topic-variant-dropdown .content-dropdown-header {
+   background-color: #f7f9fa;
+   color: #242c33;
+   font-size: 14px;
+   height: 50px;
+   line-height: 50px;
+   padding-left: 17px;
+}
+.workbench-topic-variant-dropdown .dropdown-variant-list {
+   margin: 0;
+   max-height: 280px;
+   overflow: auto;
+   padding: 0;
+}
+.workbench-topic-variant-dropdown .dropdown-variant-list li {
+   box-sizing: border-box;
+   height: 55px;
+   hyphens: auto;
+   list-style: none;
+   margin: 0;
+   padding: 1rem;
+   position: relative;
+   word-break: break-all;
+}
+.workbench-topic-variant-dropdown .dropdown-variant-list li:not(:last-child) {
+   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.workbench-topic-variant-dropdown .workbench-topic-variant-selection {
+   height: 3em;
+   margin-top: 1em;
+}
+@media only screen and (max-width: 599px) {
+   .categoryListCell {
+      height: auto;
+      width: auto;
+   }
+   .categoryListCell img.store-image {
+      display: block;
+      margin: 0 auto;
+      width: inherit;
+   }
+   .categoryListCell img {
+      display: block;
+      margin: 0 auto;
+   }
+}
+@font-face {
+   font-display: optional;
+   font-family: Lato;
+   font-style: italic;
+   font-weight: 400;
+   src: url(https://fonts.gstatic.com/s/lato/v17/S6u8w4BMUTPHjxswWw.ttf) format('truetype');
+}
+@font-face {
+   font-display: optional;
+   font-family: Lato;
+   font-style: normal;
+   font-weight: 400;
+   src: url(https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHvxk.ttf) format('truetype');
+}
+@font-face {
+   font-display: optional;
+   font-family: Lato;
+   font-style: normal;
+   font-weight: 700;
+   src: url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVew8.ttf) format('truetype');
+}
+@media screen and (max-width: 400px) {
+   @-ms-viewport {
+      width: 320px;
+   }
+}
+body {
+   word-wrap: break-word;
+   background-color: transparent;
+   color: #525d66;
+   font-size: 10px;
+   overflow-wrap: break-word;
+   text-align: center;
+}
+* {
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   line-height: 1.42857;
+}
+body {
+   font-family: Lato, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+}
+input {
+   font-family: inherit;
+}
+h1,
+h2,
+h3 {
+   font-weight: 600;
+}
+li,
+p {
+   font-size: 14px;
+}
+h1 {
+   font-size: 35px;
+   font-weight: 700;
+   line-height: 1.2em;
+   margin: 3px 0;
+   padding: 0;
+}
+h1,
+h2 {
+   color: #212426;
+}
+h2 {
+   border-bottom: 4px solid #f7f9fa;
+   font-size: 22px;
+   margin: 24px 0 0;
+   padding: 0 0 2px;
+}
+h2,
+h3 {
+   line-height: 1.21em;
+}
+h3 {
+   color: #525d66;
+   font-size: 18px;
+   margin: 16px 0 0;
+}
+h3,
+h5 {
+   padding: 0;
+}
+h5 {
+   color: #212426;
+   font-size: 13px;
+   margin: 3px 0;
+}
+p {
+   margin: 8px 0;
+   padding: 0;
+}
+a,
+a:visited,
+a strong {
+   color: #1975f1;
+   text-decoration: none;
+}
+.muted,
+.muted:visited {
+   color: #668c9d;
+}
+a img {
+   border: none;
+}
+.hidden {
+   display: none !important;
+}
+#banner {
+   margin-bottom: 24px;
+   margin-top: 24px;
+}
+#page {
+   position: relative;
+}
+#page-sidebar {
+   bottom: 0;
+   display: block;
+   left: 0;
+   position: absolute;
+   top: 0;
+   visibility: hidden;
+}
+@media only screen and (min-width: 1001px) {
+   #page-sidebar {
+      visibility: visible;
+      width: 270px;
+   }
+   #page-sidebar:before {
+      bottom: 0;
+      content: '';
+      display: block;
+      left: 0;
+      position: absolute;
+      right: 0;
+      top: 0;
+      z-index: 1;
+   }
+   #page-sidebar .sticky {
+      position: absolute;
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+      width: 265px;
+      z-index: 2;
+   }
+   #page-sidebar {
+      left: 0;
+   }
+   #page-sidebar + #main {
+      background-color: #f7f9fa;
+      border-left: 1px solid #e3e8ed;
+      margin-left: 270px;
+      margin-right: 0;
+      width: auto;
+   }
+}
+@media only screen and (min-width: 1265px) {
+   #page-sidebar {
+      left: 49%;
+      margin-left: -620px;
+   }
+   #page-sidebar + #main {
+      left: 135px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 20px;
+      position: relative;
+      width: 998px;
+   }
+   #page-sidebar + #main:after {
+      background-color: #f7f9fa;
+      bottom: 0;
+      content: '';
+      left: 100%;
+      position: absolute;
+      top: 0;
+      width: calc(50vw - 634px);
+      z-index: -1;
+   }
+}
+#topContent {
+   padding: 0 24px;
+}
+#background {
+   background-color: transparent;
+   padding: 0;
+   position: relative;
+   z-index: 1;
+}
+#main {
+   margin: 0 auto;
+   width: 998px;
+}
+@media only screen and (max-width: 1000px) {
+   #main {
+      margin: auto;
+   }
+   .responsive #main {
+      width: 100%;
+   }
+   .responsive #main,
+   .responsive #mainBody {
+      margin: auto !important;
+      padding: 0;
+      width: 100%;
+   }
+}
+#mainBody {
+   border-radius: 8px;
+   min-height: 300px;
+   padding-top: 0.1px;
+   position: relative;
+   text-align: left;
+   text-align: start;
+}
+.throbber {
+   -webkit-animation: rotate-throbber 0.8s linear infinite;
+   -moz-animation: rotate-throbber 0.8s linear infinite;
+   animation: rotate-throbber 0.8s linear infinite;
+   border: 8px solid hsla(0, 0%, 100%, 0.2);
+   border-radius: 50px;
+   border-top-color: #fff;
+   height: 50px;
+   margin: 0 auto 20px;
+   width: 50px;
+}
+@-webkit-keyframes rotate-throbber {
+   0% {
+      -webkit-transform: rotate(0);
+   }
+   to {
+      -webkit-transform: rotate(1turn);
+   }
+}
+@-moz-keyframes rotate-throbber {
+   0% {
+      -moz-transform: rotate(0);
+   }
+   to {
+      -moz-transform: rotate(1turn);
+   }
+}
+@keyframes rotate-throbber {
+   0% {
+      transform: rotate(0);
+   }
+   to {
+      transform: rotate(1turn);
+   }
+}
+@media only screen and (max-width: 599px) {
+   .hidden-mobile {
+      display: none !important;
+   }
+}
+@media only screen and (min-width: 1001px) {
+   .hidden-desktop {
+      display: none !important;
+   }
+}
+.visible-mobile {
+   display: none !important;
+}
+@media only screen and (max-width: 599px) {
+   .visible-mobile {
+      display: block !important;
+   }
+}
+#mainBody {
+   background-color: transparent;
+   border-radius: 0;
+   box-shadow: none;
+}
+.clearer {
+   clear: both;
+   font-size: 0;
+   height: 0;
+   line-height: 0;
+   margin: 0;
+   padding: 0;
+}
+.clearfix:after,
+.clearfix:before {
+   content: '';
+   display: table;
+   line-height: 0;
+}
+.clearfix:after {
+   clear: both;
+}
+.row {
+   border-radius: 4px;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-flex-direction: row;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   margin-bottom: 20px;
+   position: relative;
+}
+@media only screen and (min-width: 600px) {
+   .row div[class~='column']:not(:last-of-type) {
+      margin-right: 20px;
+   }
+}
+.column {
+   -ms-flex: 1 1;
+   -webkit-flex: 1 1;
+   flex: 1 1;
+   max-width: 100%;
+}
+.full-page-background #main {
+   margin-top: 0;
+}
+@media only screen and (min-width: 1001px) {
+   .full-page-background #main {
+      padding: 0 10px;
+   }
+}
+.full-page-background #mainBody {
+   background: 0 0;
+   box-shadow: none;
+}
+form {
+   margin: 0;
+}
+@media only screen and (max-width: 1000px) {
+   .responsive input[type='text'] {
+      font-size: 16px;
+   }
+}
+.modalBox {
+   -webkit-overflow-scrolling: touch;
+   border: 0;
+   border-radius: 0;
+   bottom: 0;
+   left: 0;
+   overflow: auto;
+   padding: 30px 15px;
+   position: fixed;
+   right: 0;
+   top: 0;
+   z-index: 100000;
+}
+.modalContentBox {
+   height: auto !important;
+   margin: 0 auto;
+   max-width: 872px;
+   overflow: hidden;
+   padding: 0;
+   position: relative;
+   text-align: center;
+}
+.modalBox > .throbber {
+   margin-top: 200px;
+}
+#notifications {
+   background-color: #fef9ec;
+   border-bottom: 2px solid #fbd888;
+   color: #b27d06;
+   position: relative;
+   width: 100%;
+   z-index: 1100;
+}
+#notifications .close {
+   font-size: 16px;
+   position: absolute;
+   right: 5px;
+   top: 25%;
+}
+.skip-to-content {
+   height: 1px;
+   left: -999px;
+   overflow: hidden;
+   position: absolute;
+   top: auto;
+   width: 1px;
+   z-index: -999;
+}
+footer #newsletterIcon {
+   display: none;
+   margin-right: 6px;
+   position: relative;
+   top: 1px;
+}
+a.button {
+   -webkit-appearance: none;
+   background-color: #fff;
+   border: 1px solid #d2dadf;
+   border-radius: 4px;
+   color: #212426;
+   display: inline-block;
+   font-size: 14px;
+   padding: 8px 16px 8px;
+   position: relative;
+   text-align: center;
+}
+a.button,
+a.button:visited {
+   text-decoration: none;
+}
+a.button .fa {
+   font-size: 14px;
+   margin-right: 8px;
+   opacity: 0.5;
+   position: relative;
+   top: 1px;
+}
+.toc > .header {
+   display: none;
+}
+#sidebar-wiki-toc {
+   -ms-overflow-style: none;
+   overflow: auto;
+}
+#sidebar-wiki-toc::-webkit-scrollbar {
+   display: none;
+}
+#sidebar-wiki-toc .toc {
+   margin-bottom: 30px;
+}
+#sidebar-wiki-toc .toc-title {
+   border: 0;
+   margin: 20px 20px 16px;
+   padding: 0 0 2px;
+}
+#sidebar-wiki-toc .toc-title a {
+   color: #828d96;
+   display: block;
+   font-size: 16px;
+   font-weight: 700;
+   letter-spacing: 1px;
+   padding: 10px;
+   text-align: center;
+   text-decoration: none !important;
+   text-transform: uppercase;
+}
+#sidebar-wiki-toc ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+#sidebar-wiki-toc .toc a {
+   border-left: 4px solid transparent;
+   color: #525d66;
+   display: block;
+   margin-top: -2px;
+   padding: 3px 30px 4px 26px;
+   position: relative;
+   text-align: left;
+}
+#sidebar-wiki-toc .toc a.scrolled {
+   background-color: #fff;
+   border-left: 4px solid #1975f1;
+   z-index: 1;
+}
+#sidebar-wiki-toc li:first-child a {
+   margin-top: 0;
+}
+#sidebar-wiki-toc .toc > ul > li > a {
+   color: #212426;
+   font-weight: 700;
+   margin-top: 6px;
+   padding-bottom: 6px;
+   padding-top: 6px;
+}
+#sidebar-wiki-toc .toc li li a {
+   padding-left: 36px;
+}
+.content-dropdown-default {
+   position: relative;
+}
+.content-dropdown-default .content-dropdown-list {
+   background-color: #fff;
+   border-radius: 4px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
+   display: none;
+   list-style-type: none;
+   overflow: hidden;
+   padding: 10px 0;
+   position: absolute;
+   right: 0;
+   top: 50px;
+   z-index: 100;
+}
+@media only screen and (max-width: 599px) {
+   .content-dropdown-default .content-dropdown-list {
+      border-radius: 0;
+      box-shadow: none;
+      margin: 0;
+      overflow: visible;
+      position: relative;
+      top: 0;
+      width: auto;
+   }
+}
+.content-dropdown-default .content-dropdown-list a {
+   background-color: transparent;
+   border: 0;
+   border-radius: 0;
+   height: 32px;
+   line-height: 32px;
+   padding: 0;
+   text-align: left;
+   text-decoration: none;
+   width: 100%;
+}
+.page-navigation-container {
+   margin: 0;
+   position: relative;
+}
+@media only screen and (max-width: 1000px) {
+   .page-navigation-container {
+      width: auto;
+   }
+}
+.page-navigation-bar {
+   -ms-flex-pack: end;
+   background-color: #e3e8ed;
+   border-bottom-left-radius: 4px;
+   border-bottom-right-radius: 4px;
+   height: 50px;
+   -ms-justify-content: flex-end;
+   -webkit-justify-content: flex-end;
+   justify-content: flex-end;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+@media only screen and (max-width: 1000px) {
+   .page-navigation-bar {
+      border-radius: 0;
+   }
+}
+.page-navigation-bar .page-navigation-link > a {
+   padding-left: 20px;
+   padding-right: 20px;
+}
+.page-navigation-bar .page-navigation-link:last-child > a {
+   border-bottom-right-radius: 4px;
+   padding-right: 5px;
+}
+@media only screen and (max-width: 599px) {
+   .page-navigation-bar .page-navigation-link:last-child > a {
+      border-radius: 0;
+   }
+}
+.page-navigation-container .page-navigation-bar .page-navigation-link a {
+   line-height: 50px;
+}
+.page-navigation-container .page-navigation-link a {
+   color: #525d66;
+   display: inline-block;
+   padding-right: 20px;
+   white-space: nowrap;
+}
+@media only screen and (max-width: 599px) {
+   .page-navigation-container .page-navigation-link a {
+      padding: 0 5px;
+   }
+}
+.page-navigation-container .page-navigation-link .toggle-container {
+   padding-left: 10px;
+}
+.page-navigation-container .page-navigation-link .svg-icon {
+   color: #828d96;
+   margin: 0 10px;
+}
+.page-navigation-container .page-navigation-link .svg-icon svg {
+   bottom: 0.1em;
+   position: relative;
+   vertical-align: middle;
+}
+.page-navigation-container .page-navigation-link #dropdown-icon {
+   margin: 0 8px 0 16px;
+   vertical-align: unset;
+}
+.breadcrumbs-container {
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-flex: 1 1 auto;
+   -webkit-flex: 1 1 auto;
+   flex: 1 1 auto;
+}
+#show-translations-toggle.page-navigation-link .toggle-label {
+   color: #525d66;
+}
+#show-translations-toggle.page-navigation-link .toggle {
+   margin-right: 15px;
+}
+@font-face {
+   font-display: swap;
+   font-family: icomoon;
+   font-style: normal;
+   font-weight: 400;
+   src: url(https://assets.cdn.ifixit.com/static/fonts/ifixit/v4.5.0/icomoon.eot?20160111=);
+   src: url(https://assets.cdn.ifixit.com/static/fonts/ifixit/v4.5.0/icomoon.eot?20160111=#iefix)
+         format('embedded-opentype'),
+      url(https://assets.cdn.ifixit.com/static/fonts/ifixit/v4.5.0/icomoon-gzipped.woff?20210215=)
+         format('woff'),
+      url(https://assets.cdn.ifixit.com/static/fonts/ifixit/v4.5.0/icomoon.ttf?20160111=)
+         format('truetype'),
+      url(https://assets.cdn.ifixit.com/static/fonts/ifixit/v4.5.0/icomoon.svg?20160111=#icomoon)
+         format('svg');
+}
+.fa {
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   display: inline-block;
+   font: normal normal normal 14px/1 icomoon;
+   font-size: inherit;
+   text-rendering: auto;
+}
+.fa-times:before {
+   content: '\f00d';
+}
+.fa-list-ol:before {
+   content: '\f0cb';
+}
+.modalContentBox {
+   max-width: 983px;
+}
+.toggle-container {
+   display: inline-flex;
+   padding: 10px 0;
+}
+input.core-control[type='checkbox'].toggle {
+   margin: 0;
+   opacity: 0;
+   outline: 0;
+   position: fixed;
+   width: 0;
+}
+input.core-control[type='checkbox'].toggle + label {
+   display: flex;
+}
+input.core-control[type='checkbox'].toggle + label > span:first-of-type {
+   margin-right: 8px;
+}
+input.core-control[type='checkbox'].toggle + label > span.toggle {
+   align-self: center;
+   background: 0 0;
+   background-color: #d2dadf;
+   border-radius: 10px;
+   box-sizing: border-box;
+   display: inline-flex;
+   height: 16px;
+   width: 28px;
+}
+input.core-control[type='checkbox'].toggle + label > span.toggle:before {
+   background-color: #fff;
+   border-radius: 100%;
+   box-shadow: 0 1px 2px rgba(17, 22, 26, 0.1), 0 4px 8px rgba(17, 22, 26, 0.1);
+   content: '';
+   display: block;
+   height: 12px;
+   left: 2px;
+   position: relative;
+   top: 2px;
+   width: 12px;
+}
+input.core-control[type='checkbox'].toggle + label > span.toggle-label {
+   align-items: center;
+   color: #242c33;
+   font-family: Lato, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+   font-size: 14px;
+   font-style: normal;
+   line-height: 16px;
+}
+@media only screen and (max-width: 599px) {
+   #topContent {
+      padding: 0 12px;
+   }
+}
+@media only screen and (min-width: 1001px) {
+   .full-page-background #main {
+      padding: 0;
+   }
+}
+#topContent {
+   padding: 0 24px !important;
+}
+#topContent h2 {
+   -ms-flex-align: center;
+   -ms-flex-pack: justify;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   border-bottom: 1px solid #e3e8ed;
+   color: #212426;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   font-size: 26px;
+   font-weight: 700;
+   -ms-justify-content: space-between;
+   -webkit-justify-content: space-between;
+   justify-content: space-between;
+   margin: 45px 0 20px;
+   padding-bottom: 6px;
+}
+.subcategorySection .grid {
+   gap: 8px;
+   display: -ms-grid;
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(178px, 1fr));
+}
+@media (-ms-high-contrast: none) {
+   .subcategorySection .grid {
+      display: -ms-flexbox;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -4px;
+      margin-right: -4px;
+   }
+   .subcategorySection .grid > * {
+      margin: 4px;
+   }
+}
+@media only screen and (max-width: 599px) {
+   .subcategorySection {
+      margin: 0 auto;
+      width: 100%;
+   }
+}
+@media only screen and (max-width: 1000px) {
+   #main {
+      width: auto;
+   }
+}
+.subcategorySection {
+   clear: left;
+}
+.subcategorySection:before {
+   content: '';
+   display: table;
+}
+#bodyTop {
+   overflow: visible !important;
+}
+#banner {
+   margin: 24px 0;
+   position: relative;
+   z-index: 3;
+}
+@media only screen and (max-width: 599px),
+   only screen and (min-width: 600px) and (max-width: 1000px) {
+   #banner {
+      margin-top: 0;
+   }
+}
+#banner-wrap {
+   background-color: #11161a;
+   background-position: 50%;
+   background-repeat: no-repeat;
+   background-size: 981px;
+   border-radius: 4px;
+   margin: 0;
+   min-height: 237px;
+   overflow: visible;
+   position: relative;
+}
+#banner-wrap-bg-container {
+   height: 100%;
+   overflow: hidden;
+   position: absolute;
+   width: 100%;
+}
+#banner-wrap-bg {
+   display: block;
+   margin-top: -175px;
+   position: absolute;
+   width: 100%;
+   z-index: 0;
+}
+@media only screen and (max-width: 1000px) {
+   #banner-wrap-bg {
+      margin-left: -25%;
+      margin-top: 0;
+      width: 150%;
+   }
+}
+.banner-content {
+   background-image: -moz-linear-gradient(0deg, #323232 0, hsla(0, 0%, 39.2%, 0.7) 100%);
+   background-image: -webkit-gradient(
+      linear,
+      left bottom,
+      right bottom,
+      from(#323232),
+      to(hsla(0, 0%, 39.2%, 0.7))
+   );
+   background-image: -ms-linear-gradient(left, #323232 0, hsla(0, 0%, 39.2%, 0.7) 100%);
+   border-radius: 4px;
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -ms-align-items: center;
+   -webkit-align-items: center;
+   align-items: center;
+   min-height: 237px;
+   position: relative;
+   z-index: 1;
+}
+@media only screen and (max-width: 599px) {
+   .banner-content {
+      background-color: rgba(0, 0, 0, 0.7);
+      background-image: none;
+      display: block;
+   }
+}
+.banner-bucket {
+   float: left;
+   position: relative;
+}
+@media only screen and (max-width: 599px) {
+   .banner-bucket {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+   }
+   .banner-bucket .action-buttons,
+   .banner-bucket .banner-text {
+      margin: 12px 24px;
+   }
+}
+.banner-small-photo {
+   border-radius: 4px;
+   box-shadow: 0 3px 8px #11161a;
+   margin-top: 24px;
+   margin-bottom: 24px;
+   margin-left: 24px;
+   overflow: hidden;
+   width: 252px;
+}
+@media only screen and (max-width: 599px) {
+   .banner-small-photo {
+      margin: 0;
+      width: auto;
+      width: 100%;
+   }
+}
+.banner-small-photo img {
+   height: auto;
+   vertical-align: top;
+   width: 100%;
+}
+@media only screen and (max-width: 599px) {
+   .banner-small-photo img {
+      display: none;
+   }
+}
+a.banner-repairability-score {
+   color: #fff;
+   display: block;
+   font-size: 1.5em;
+   font-weight: 400;
+   height: 40px;
+   line-height: 40px;
+   margin: 0;
+   position: relative;
+   text-align: center;
+   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+.banner-repairability-score strong {
+   color: #fff;
+}
+.banner-summary {
+   max-width: 646px;
+   padding: 24px 24px 24px 36px;
+   width: 100%;
+}
+@media only screen and (max-width: 599px) {
+   .banner-summary {
+      margin: 24px 0;
+      padding: 0;
+   }
+}
+.banner-text {
+   color: #fff;
+   position: relative;
+   text-shadow: 0 1px 2px #000001;
+   z-index: 1;
+}
+.banner-text .topicHeaderText {
+   color: #fff !important;
+}
+.banner-text a {
+   color: #e3e8ed;
+}
+.banner-title {
+   color: #fff !important;
+   font-size: 3.6em;
+   font-weight: 600 !important;
+   margin: 0;
+   padding: 0;
+   text-shadow: 0 2px 4px #000001;
+}
+.banner-blurb,
+.wiki-author {
+   font-size: 1.4em;
+   line-height: 20px;
+}
+.wiki-author {
+   color: #fff;
+   margin-bottom: 8px;
+}
+.wiki-author a {
+   color: #fff;
+}
+.banner-content .action-buttons {
+   display: -ms-flexbox;
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-wrap: wrap;
+   flex-wrap: wrap;
+   -ms-flex-wrap: wrap;
+}
+.banner-content .action-buttons .button {
+   background-color: #212426;
+   background-color: rgba(0, 0, 0, 0.5);
+   border: none;
+   border-radius: 4px;
+   color: #fff;
+   font-size: 1.2em;
+   margin-bottom: 5px;
+   margin-right: 8px;
+   padding: 8px;
+   text-align: left;
+}
+.banner-content .action-buttons .button:last-child {
+   margin-right: 0;
+}
+.banner-content .action-buttons .button i {
+   color: hsla(0, 0%, 100%, 0.5);
+   font-size: 14px;
+   margin-right: 8px;
+   opacity: 1;
+   position: relative;
+   top: 2px;
+}
+.categoryAnchor {
+   display: inline-block;
+   height: 100%;
+   width: 100%;
+}
+.categoryListCell {
+   border-radius: 4px;
+   box-shadow: 0 1px 2px rgba(17, 22, 26, 0.1), 0 2px 4px rgba(17, 22, 26, 0.1);
+   height: 170px;
+   max-width: 181px;
+   overflow: hidden;
+   position: relative;
+}
+@media only screen and (max-width: 599px) {
+   .categoryListCell {
+      float: none;
+      margin: 0 auto 24px;
+      width: 300px;
+   }
+}
+.categoryListCell h5.title {
+   -webkit-backdrop-filter: blur(2px);
+   backdrop-filter: blur(2px);
+   background-color: #fff;
+   background-color: hsla(0, 0%, 100%, 0.75);
+   border-bottom-left-radius: 4px;
+   border-bottom-right-radius: 4px;
+   bottom: 0;
+   display: block;
+   font-size: 14px;
+   font-weight: 600;
+   margin: 0;
+   padding: 9px 4px;
+   position: absolute;
+   text-align: center;
+   width: 100%;
+}
+@media only screen and (max-width: 599px) {
+   .categoryListCell h5.title {
+      text-align: left;
+      width: 100%;
+   }
+}
+.categoryListCell img {
+   max-height: 133px;
+   min-width: 100%;
+   object-fit: contain;
+}
+@media (-ms-high-contrast: none) {
+   .categoryListCell img {
+      height: auto;
+      left: 50%;
+      position: relative;
+      transform: translateX(-50%);
+      width: auto;
+   }
+}
+@media only screen and (max-width: 599px) {
+   .categoryListCell {
+      height: auto;
+      width: auto;
+   }
+   .categoryListCell img {
+      display: block;
+      margin: 0 auto;
+   }
+}
+* {
+   box-sizing: border-box;
+}
+body,
+html {
+   font-family: Lato, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   text-rendering: optimizeSpeed;
+}
+.mainHeader {
+   display: flex;
+   height: 68px;
+}
+@media only screen and (max-width: 1439px) {
+   .mainHeader {
+      padding-left: 28px;
+      padding-right: 12px;
+   }
+}
+@media only screen and (max-width: 999px) {
+   .mainHeader {
+      padding-left: 12px;
+   }
+}
+      </style>
+   </head>
+
+   <body  class="page-background-gradient responsive fullWidth full-page-background"                  data-reactroot>
+      <a href="#content" class="skip-to-content ">Skip to main content</a>
+                           <div id="notifications" style="display:none;">
+   <div class="close"><i class="fa fa-times " ></i></div>
+   </div>
+               
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59NVBFN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+      
+      <div id="background">
+      <div class="react-component"
+      data-reactroot
+   data-name="Announcements"
+   data-props="[]">
+      </div>
+      <div class="react-component"
+      data-reactroot
+   data-name="PopupModal"
+   data-props="[]">
+      </div>
+            <div class="react-component"
+      data-reactroot
+   data-name="Header"
+   data-props="{&quot;isOnCart&quot;:false,&quot;links&quot;:[{&quot;title&quot;:&quot;Fix Your Stuff&quot;,&quot;url&quot;:&quot;\/Guide&quot;,&quot;sublinks&quot;:[{&quot;title&quot;:&quot;Repair Guides&quot;,&quot;description&quot;:&quot;Learn how to fix just about anything with our step-by-step guides.&quot;,&quot;url&quot;:&quot;\/Guide&quot;},{&quot;title&quot;:&quot;Answers Forum&quot;,&quot;description&quot;:&quot;Share solutions and get help from a friend.&quot;,&quot;url&quot;:&quot;\/Answers&quot;},{&quot;title&quot;:&quot;Teardowns&quot;,&quot;description&quot;:&quot;Get a sneak peek inside the latest gadgets.&quot;,&quot;url&quot;:&quot;\/Teardown&quot;},{&quot;title&quot;:&quot;Blog&quot;,&quot;description&quot;:&quot;Your destination for tech repair news.&quot;,&quot;url&quot;:&quot;\/News&quot;}]},{&quot;title&quot;:&quot;Community&quot;,&quot;url&quot;:&quot;\/Community&quot;,&quot;sublinks&quot;:[{&quot;title&quot;:&quot;Get Involved&quot;,&quot;description&quot;:&quot;Help teach people to make their stuff work again.&quot;,&quot;url&quot;:&quot;\/Community&quot;},{&quot;title&quot;:&quot;Right to Repair&quot;,&quot;description&quot;:&quot;Learn about the Right to Repair movement and how to be an advocate.&quot;,&quot;url&quot;:&quot;\/Right-to-Repair&quot;},{&quot;title&quot;:&quot;Repairability&quot;,&quot;description&quot;:&quot;Learn why fixable products make sense.&quot;,&quot;url&quot;:&quot;\/Right-to-Repair\/Repairable-Products&quot;},{&quot;title&quot;:&quot;Our Manifesto&quot;,&quot;description&quot;:&quot;Join the repair revolution!&quot;,&quot;url&quot;:&quot;\/Manifesto&quot;}]},{&quot;title&quot;:&quot;Store&quot;,&quot;url&quot;:&quot;\/Store&quot;,&quot;hasStoreDropdown&quot;:true,&quot;sublinks&quot;:[{&quot;title&quot;:&quot;Featured&quot;,&quot;description&quot;:&quot;Quality parts and tools backed by our lifetime guarantee.&quot;,&quot;url&quot;:&quot;\/Store&quot;},{&quot;title&quot;:&quot;Tools&quot;,&quot;description&quot;:&quot;Shop our wide selection of precision tools.&quot;,&quot;url&quot;:&quot;\/Tools&quot;},{&quot;title&quot;:&quot;Parts&quot;,&quot;description&quot;:&quot;Shop parts backed by our quality guarantee.&quot;,&quot;url&quot;:&quot;\/Parts&quot;},{&quot;title&quot;:&quot;Fix Kits&quot;,&quot;description&quot;:&quot;Fix it the easy way with our all-in-one repair kits.&quot;,&quot;url&quot;:&quot;\/Kits&quot;}]}],&quot;stores&quot;:[{&quot;name&quot;:&quot;United States&quot;,&quot;storeCode&quot;:&quot;us&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;isDisplayStore&quot;:true},{&quot;name&quot;:&quot;Australia&quot;,&quot;storeCode&quot;:&quot;au&quot;,&quot;currency&quot;:&quot;AUD&quot;,&quot;isDisplayStore&quot;:false},{&quot;name&quot;:&quot;Canada&quot;,&quot;storeCode&quot;:&quot;ca&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;isDisplayStore&quot;:false},{&quot;name&quot;:&quot;Germany&quot;,&quot;storeCode&quot;:&quot;de&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;isDisplayStore&quot;:false},{&quot;name&quot;:&quot;France&quot;,&quot;storeCode&quot;:&quot;fr&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;isDisplayStore&quot;:false},{&quot;name&quot;:&quot;United Kingdom&quot;,&quot;storeCode&quot;:&quot;uk&quot;,&quot;currency&quot;:&quot;GBP&quot;,&quot;isDisplayStore&quot;:false},{&quot;name&quot;:&quot;Europe&quot;,&quot;storeCode&quot;:&quot;eu&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;isDisplayStore&quot;:false}],&quot;dropdowns&quot;:{&quot;miniCart&quot;:{&quot;products&quot;:[]},&quot;languageDropdown&quot;:{&quot;languages&quot;:[{&quot;name&quot;:&quot;German&quot;,&quot;autoglottonym&quot;:&quot;Deutsch&quot;,&quot;currency&quot;:&quot;DEM&quot;,&quot;locale&quot;:&quot;de_DE&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/ba\/Flag_of_Germany.svg\/16px-Flag_of_Germany.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/ba\/Flag_of_Germany.svg\/32px-Flag_of_Germany.svg.png&quot;,&quot;isoCode&quot;:&quot;DE&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;English&quot;,&quot;autoglottonym&quot;:&quot;English&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;locale&quot;:&quot;en_US&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a4\/Flag_of_the_United_States.svg\/16px-Flag_of_the_United_States.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a4\/Flag_of_the_United_States.svg\/32px-Flag_of_the_United_States.svg.png&quot;,&quot;isSelected&quot;:true,&quot;isoCode&quot;:&quot;EN&quot;},{&quot;name&quot;:&quot;Spanish&quot;,&quot;autoglottonym&quot;:&quot;Espa\u00f1ol&quot;,&quot;currency&quot;:&quot;MXN&quot;,&quot;locale&quot;:&quot;es_MX&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Flag_of_Mexico.svg\/16px-Flag_of_Mexico.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fc\/Flag_of_Mexico.svg\/32px-Flag_of_Mexico.svg.png&quot;,&quot;isoCode&quot;:&quot;ES&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;French&quot;,&quot;autoglottonym&quot;:&quot;Fran\u00e7ais&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;locale&quot;:&quot;fr_FR&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/16px-Flag_of_France.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Flag_of_France.svg\/32px-Flag_of_France.svg.png&quot;,&quot;isoCode&quot;:&quot;FR&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Italian&quot;,&quot;autoglottonym&quot;:&quot;Italiano&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;locale&quot;:&quot;it_IT&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Flag_of_Italy.svg\/16px-Flag_of_Italy.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Flag_of_Italy.svg\/32px-Flag_of_Italy.svg.png&quot;,&quot;isoCode&quot;:&quot;IT&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Dutch&quot;,&quot;autoglottonym&quot;:&quot;Nederlands&quot;,&quot;currency&quot;:&quot;EUR&quot;,&quot;locale&quot;:&quot;nl_NL&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/16px-Flag_of_the_Netherlands.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/32px-Flag_of_the_Netherlands.svg.png&quot;,&quot;isoCode&quot;:&quot;NL&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Portuguese&quot;,&quot;autoglottonym&quot;:&quot;Portugu\u00eas&quot;,&quot;currency&quot;:&quot;PP&quot;,&quot;locale&quot;:&quot;pt_BR&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/05\/Flag_of_Brazil.svg\/16px-Flag_of_Brazil.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/05\/Flag_of_Brazil.svg\/32px-Flag_of_Brazil.svg.png&quot;,&quot;isoCode&quot;:&quot;PT&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Russian&quot;,&quot;autoglottonym&quot;:&quot;P\u0443\u0441\u0441\u043a\u0438\u0439&quot;,&quot;currency&quot;:&quot;RUR&quot;,&quot;locale&quot;:&quot;ru_RU&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Flag_of_Russia.svg\/16px-Flag_of_Russia.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Flag_of_Russia.svg\/32px-Flag_of_Russia.svg.png&quot;,&quot;isoCode&quot;:&quot;RU&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Turkish&quot;,&quot;autoglottonym&quot;:&quot;T\u00fcrk\u00e7e&quot;,&quot;currency&quot;:&quot;TRY&quot;,&quot;locale&quot;:&quot;tr_TR&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b4\/Flag_of_Turkey.svg\/16px-Flag_of_Turkey.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b4\/Flag_of_Turkey.svg\/32px-Flag_of_Turkey.svg.png&quot;,&quot;isoCode&quot;:&quot;TR&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Chinese&quot;,&quot;autoglottonym&quot;:&quot;\u4e2d\u6587&quot;,&quot;currency&quot;:&quot;HKD&quot;,&quot;locale&quot;:&quot;zh_CN&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fa\/Flag_of_the_People%27s_Republic_of_China.svg\/16px-Flag_of_the_People%27s_Republic_of_China.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fa\/Flag_of_the_People%27s_Republic_of_China.svg\/32px-Flag_of_the_People%27s_Republic_of_China.svg.png&quot;,&quot;isoCode&quot;:&quot;ZH&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Japanese&quot;,&quot;autoglottonym&quot;:&quot;\u65e5\u672c\u8a9e&quot;,&quot;currency&quot;:&quot;JPY&quot;,&quot;locale&quot;:&quot;ja_JP&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/Flag_of_Japan.svg\/16px-Flag_of_Japan.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/Flag_of_Japan.svg\/32px-Flag_of_Japan.svg.png&quot;,&quot;isoCode&quot;:&quot;JP&quot;,&quot;isSelected&quot;:false},{&quot;name&quot;:&quot;Korean&quot;,&quot;autoglottonym&quot;:&quot;\ud55c\uad6d\uc5b4&quot;,&quot;currency&quot;:&quot;KRW&quot;,&quot;locale&quot;:&quot;ko_KR&quot;,&quot;png16&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/09\/Flag_of_South_Korea.svg\/16px-Flag_of_South_Korea.svg.png&quot;,&quot;png32&quot;:&quot;https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/09\/Flag_of_South_Korea.svg\/32px-Flag_of_South_Korea.svg.png&quot;,&quot;isoCode&quot;:&quot;KO&quot;,&quot;isSelected&quot;:false}],&quot;translationPreferencesUrl&quot;:&quot;\/Login&quot;,&quot;machineTranslationRequested&quot;:false},&quot;userInfo&quot;:null}}">
+   <style>
+   
+* {
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+html,
+body {
+   margin: 0;
+   padding: 0;
+   text-rendering: optimizeSpeed;
+   position: relative;
+   font-family: Lato, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.header-wrapper {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: center;
+   -ms-flex-pack: center;
+   justify-content: center;
+   height: 68px;
+   background: #11161A;
+}
+
+.header-container {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   height: 100%;
+   width: 1400px;
+   padding: 0 12px;
+}
+
+.header-left {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   -webkit-transition: all 0.25s;
+   -o-transition: all 0.25s;
+   transition: all 0.25s;
+}
+
+.header-space {
+   -webkit-box-flex: 1;
+   -ms-flex: 1;
+   flex: 1;
+   -webkit-box-pack: end;
+   -ms-flex-pack: end;
+   justify-content: flex-end;
+}
+
+.logo-container {
+   width: 118px;
+   margin: 0 16px;
+}
+
+.headings-container {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-align: stretch;
+   -ms-flex-align: stretch;
+   align-items: stretch;
+   height: 100%;
+}
+
+.headings-container a.heading {
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   padding: 16px 24px;
+   color: white;
+   font-size: 14px;
+   font-weight: bold;
+   text-decoration: none;
+   margin: 0;
+}
+
+.menu-icon {
+   display: none;
+}
+
+@media only screen and (max-width: 999px) {
+   .header-container {
+      padding-left: 12px;
+   }
+
+   .headings-container {
+      display: none;
+   }
+
+   .menu-icon {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-negative: 0;
+      flex-shrink: 0;
+   }
+}
+
+@media only screen and (min-width: 1440px) {
+   .logo-container {
+      margin-left: 0;
+   }
+
+   .header-container {
+      padding: 0;
+   }
+}
+</style>
+<div class="header-wrapper">
+   <div class="header-container">
+      <div class="header-left">
+         <div class="menu-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#D2DADF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="4" y1="12" x2="20" y2="12" class="middle"></line><line x1="4" y1="6" x2="20" y2="6" class="top"></line><line x1="4" y1="18" x2="20" y2="18" class="bottom"></line></svg>         </div>
+         <div class="logo-container">
+            <svg
+   width="118"
+   height="36"
+   viewBox="0 0 118 36"
+   fill="none"
+   xmlns="http://www.w3.org/2000/svg"
+   focusable="false"
+   style="display: block"
+>
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M108.185 13.1401H104.585C103.636 13.1401 102.858 12.3534 102.858 11.3942C102.858 10.4357 103.636 9.64859 104.585 9.64859H115.53C116.479 9.64859 117.257 10.4357 117.257 11.3942C117.257 12.3534 116.479 13.1401 115.53 13.1401H111.93V25.1143C111.93 26.1717 111.103 27.0077 110.057 27.0077C109.012 27.0077 108.185 26.1717 108.185 25.1143V13.1401Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M96.2178 11.3942C96.2178 10.3372 97.0448 9.50126 98.0906 9.50126C99.1364 9.50126 99.9634 10.3372 99.9634 11.3942V25.1143C99.9634 26.1717 99.1364 27.0077 98.0906 27.0077C97.0448 27.0077 96.2178 26.1717 96.2178 25.1143V11.3942Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M86.7676 18.3556L92.1018 12.9633C92.8473 12.2101 92.8473 10.9884 92.1018 10.2348C91.3566 9.48139 90.1478 9.48139 89.4027 10.2348L84.0685 15.6271L78.7343 10.2348C77.989 9.48139 76.7807 9.48139 76.0352 10.2348C75.2897 10.9884 75.2897 12.2099 76.0352 12.9633L81.3694 18.3556L76.0352 23.7477C75.2897 24.5011 75.2897 25.7228 76.0352 26.4764C76.4079 26.8532 76.8962 27.0414 77.3849 27.0414C77.8731 27.0414 78.3618 26.8532 78.7343 26.4764L84.0685 21.0841L89.4025 26.4764C89.7755 26.8532 90.2635 27.0414 90.7522 27.0414C91.2406 27.0414 91.7293 26.8532 92.1018 26.4764C92.8471 25.7228 92.8471 24.5011 92.1018 23.7477L86.7676 18.3556Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M68.1737 11.3942C68.1737 10.3372 69.0006 9.50126 70.0462 9.50126C71.0923 9.50126 71.9193 10.3372 71.9193 11.3942V25.1143C71.9193 26.1717 71.0923 27.0077 70.0462 27.0077C69.0006 27.0077 68.1737 26.1717 68.1737 25.1143V11.3942Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M52.0474 11.542C52.0474 10.4846 52.8746 9.64859 53.9206 9.64859H63.4551C64.4038 9.64859 65.1577 10.4109 65.1577 11.3697C65.1577 12.3287 64.4038 13.091 63.4551 13.091H55.7934V16.7544H62.3607C63.3091 16.7544 64.0628 17.5167 64.0628 18.4755C64.0628 19.4347 63.3091 20.1966 62.3607 20.1966H55.7934V25.1143C55.7934 26.1717 54.9662 27.0077 53.9206 27.0077C52.8746 27.0077 52.0474 26.1717 52.0474 25.1143V11.542Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M44.0456 11.3942C44.0456 10.3372 44.8726 9.50126 45.9182 9.50126C46.9642 9.50126 47.791 10.3372 47.791 11.3942V25.1143C47.791 26.1717 46.9642 27.0077 45.9182 27.0077C44.8726 27.0077 44.0456 26.1717 44.0456 25.1143V11.3942Z"
+      fill="white"
+   />
+   <path
+      fillRule="evenodd"
+      clipRule="evenodd"
+      d="M22.7682 18.7576L26.2886 23.4561C26.5805 23.8461 26.5971 24.4944 26.3252 24.8986L26.1472 25.1625C25.8763 25.5659 25.3313 26.1268 24.9369 26.4092L24.5136 26.7101C24.1199 26.9919 23.4821 26.9816 23.0977 26.6865L18.4482 23.1233C18.0638 22.8282 17.4338 22.8282 17.0491 23.1233L12.3999 26.6865C12.015 26.9816 11.3739 26.9961 10.9773 26.7202L10.67 26.507C10.2731 26.2295 9.72042 25.6753 9.44417 25.2755L9.17896 24.8911C8.90271 24.4919 8.91463 23.8461 9.20524 23.4561L12.7305 18.7554C13.0211 18.3652 13.0211 17.7294 12.7305 17.3397L9.20524 12.6376C8.91463 12.2476 8.90359 11.6041 9.18205 11.2052L9.48171 10.7772C9.75906 10.3783 10.314 9.8274 10.7132 9.55372L10.9749 9.3738C11.3739 9.09878 12.015 9.11686 12.3999 9.41063L17.0491 12.974C17.4338 13.2689 18.0638 13.2689 18.4482 12.974L23.0977 9.41063C23.4821 9.11686 24.1364 9.07757 24.5533 9.3258L25.0396 9.61622C25.4563 9.86423 25.988 10.4172 26.2223 10.8442L26.3937 11.1569C26.6269 11.5829 26.5805 12.251 26.2886 12.641L22.7682 17.3419C22.4763 17.7317 22.4763 18.3688 22.7682 18.7576ZM17.8061 -2.79848e-09C7.97194 -2.79848e-09 -1.14211e-09 8.05854 -1.14211e-09 17.9989C-1.14211e-09 27.9404 7.97194 36 17.8061 36C27.6404 36 35.6124 27.9404 35.6124 17.9989C35.6124 8.05854 27.6404 -2.79848e-09 17.8061 -2.79848e-09Z"
+      fill="#1975F1"
+   />
+</svg>         </div>
+      </div>
+      <div class="headings-container">
+         <a href="/Guide" class="heading">Fix Your Stuff</a>
+         <a href="/Community" class="heading">Community</a>
+         <a href="/Store" class="heading">Store</a>
+      </div>
+      <div class="header-space"></div>
+   </div>
+</div>
+   </div>
+
+      
+         
+   <div id="page" class=" invisible">
+               
+         
+                     <div id="page-sidebar">
+               <div id="sidebar-wiki-toc" class="sticky js-dynamic-toc">
+      <div class="toc-title"><a href="#main">DualShock 4 CUH-ZCT2</a></div>
+      <div class="toc"><div class="header">Contents</div>
+<ul><li><a href="#Section_Troubleshooting" class="muted">Troubleshooting</a></li><li><a href="#Section_Background" class="muted">Background</a><ul><li><a href="#Section_PC_Use" class="muted">PC Use</a></li><li><a href="#Section_Potential_PC_support_issues" class="muted">Potential PC support issues</a></li><li><a href="#Section_Connectivity_options" class="muted">Connectivity options</a></li></ul></li><li><a href="#Section_Additional_Information" class="muted">Additional Information</a></li></ul></div>   </div>            </div>
+               
+      <div id="main" >
+
+         
+         
+         <div id="mainBody"
+                           itemscope itemtype="http://schema.org/CollectionPage"
+                     >
+            
+            <!-- MAIN BODY -->
+            
+                        
+                                       <div id="bodyTop" class="fullWidth clearfix">
+               
+
+<div class="page-navigation-container js-page-navigation row
+   ">
+   <div class="column full-width js-content-dropdown-container content-dropdown-default">
+      <ul class="row page-navigation-bar">
+                     <div class="breadcrumbs-container">
+                  <div class="react-component"
+      data-reactroot
+   data-name="NavBreadcrumbs"
+   data-props="{&quot;breadcrumbs&quot;:[{&quot;title&quot;:&quot;Device&quot;,&quot;url&quot;:&quot;\/Guide&quot;},{&quot;title&quot;:&quot;Game Console&quot;,&quot;url&quot;:&quot;\/Device\/Game_Console&quot;},{&quot;title&quot;:&quot;Sony Game Console&quot;,&quot;url&quot;:&quot;\/Device\/Sony_Game_Console&quot;},{&quot;title&quot;:&quot;Accessory&quot;,&quot;url&quot;:&quot;\/Device\/Sony_Game_Console_Accessory&quot;},{&quot;title&quot;:&quot;DualShock 4 CUH-ZCT2&quot;,&quot;url&quot;:&quot;\/Device\/DualShock_4_CHU-ZCT2U&quot;}]}">
+            <div itemscope itemprop="breadcrumb" itemtype="http://schema.org/BreadcrumbList">
+                        <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+               <meta itemprop="item" content="https://www.ifixit.com/Guide">
+               <meta itemprop="name" content="Device">
+               <meta itemprop="position" content="1" />
+            </div>            <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+               <meta itemprop="item" content="https://www.ifixit.com/Device/Game_Console">
+               <meta itemprop="name" content="Game Console">
+               <meta itemprop="position" content="2" />
+            </div>            <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+               <meta itemprop="item" content="https://www.ifixit.com/Device/Sony_Game_Console">
+               <meta itemprop="name" content="Sony Game Console">
+               <meta itemprop="position" content="3" />
+            </div>            <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+               <meta itemprop="item" content="https://www.ifixit.com/Device/Sony_Game_Console_Accessory">
+               <meta itemprop="name" content="Accessory">
+               <meta itemprop="position" content="4" />
+            </div>            <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+               <meta itemprop="item" content="https://www.ifixit.com/Device/DualShock_4_CHU-ZCT2U">
+               <meta itemprop="name" content="DualShock 4 CUH-ZCT2">
+               <meta itemprop="position" content="5" />
+            </div>
+         </div>   </div>
+            </div>
+                              <li class="page-navigation-link
+   ">
+         <a  href="/Device/Edit/DualShock_4_CHU-ZCT2U"        class=""
+                      id="edit-nav-link"
+              >
+                     <span class="hidden-mobile">Edit</span><i  class="svg-icon" alt="Edit" title="Edit" style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.924 11.19a.999.999 0 0 1 .221-.335L10 3l1.13 1.13-7.161 7.163a.5.5 0 1 0 .707.707l7.162-7.162L13 6l-7.855 7.855a1 1 0 0 1-.336.221l-4.376 1.75a.2.2 0 0 1-.26-.26l1.75-4.375zM14 5l-3-3L12.293.707a1 1 0 0 1 1.414 0l1.586 1.586a1 1 0 0 1 0 1.414L14 5z"></path></svg></i>               </a>
+   </li>
+                              <li class="page-navigation-link
+   ">
+         <a        class="js-content-dropdown-toggle content-dropdown-toggle"
+                    >
+                     <span class="hidden-mobile">Options</span><i  class="svg-icon" alt="Options" title="Options" style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.414 6.586A2 2 0 1 1 .586 9.414a2 2 0 0 1 2.828-2.828zm12 0a2 2 0 1 1-2.828 2.828 2 2 0 0 1 2.828-2.828zm-6 2.828a2 2 0 1 0-2.828-2.828 2 2 0 0 0 2.828 2.828z"></path></svg></i>               </a>
+   </li>
+               </ul>
+               <ul class="content-dropdown-list">
+                           <li class="page-navigation-link
+   ">
+         <a  href="/Device/History/DualShock_4_CHU-ZCT2U"        class=""
+               rel="ugc"
+                      id="history-nav-link"
+              >
+                     <i id="dropdown-icon" class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 3a1 1 0 0 1 1 1v3.586l1.707 1.707a1 1 0 0 1-1.414 1.414l-2-2A1 1 0 0 1 7 8V4a1 1 0 0 1 1-1z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M8 2a5.996 5.996 0 0 0-5.143 2.909 1 1 0 1 1-1.713-1.033 8 8 0 1 1-.812 6.409 1 1 0 1 1 1.916-.57A6 6 0 1 0 8 2z"></path><path d="M.625 6.794l3.794-.807a.5.5 0 0 0 .21-.879L.814 2.037A.5.5 0 0 0 0 2.429L0 6.307c.002.317.315.553.625.487z"></path></svg></i>            History               </a>
+   </li>
+                           <li class="page-navigation-link
+   ">
+         <li id="show-translations-toggle" class="page-navigation-link"><a>
+   
+<div class="toggle-container">
+   <input type="checkbox"     class="core-control toggle "
+    id="showTranslationsToggle" >
+   <label for="showTranslationsToggle">
+      <span class="toggle"></span><span class="toggle-label">Show Other Languages</span>   </label>
+</div>
+</a></li>
+   </li>
+                     </ul>
+         </div>
+</div>
+               </div>
+            
+            <div class="statuses">
+</div>
+
+                           <div id="banner"><div class="statuses">
+</div>
+
+<div class="actionbar-portal"></div>
+
+<div id="banner-wrap" >
+   <div id="banner-wrap-bg-container">
+      <img id="banner-wrap-bg" src="https://guide-images.cdn.ifixit.com/igi/gVrsWdboLrMrWXXM.large" itemprop="image">
+   </div>
+   <div class="banner-content">
+      <div class="banner-bucket">
+         <div class="banner-small-photo">
+            <img src="https://guide-images.cdn.ifixit.com/igi/gVrsWdboLrMrWXXM.standard" width="252" height="189" alt="DualShock 4 CUH-ZCT2">
+                     </div>
+      </div>
+      <div class="banner-bucket banner-summary">
+         <div class="banner-text">
+            <h1 class="banner-title" itemprop="headline">
+                                 DualShock 4 CUH-ZCT2                           </h1>
+                                    <p class="banner-blurb">
+               <span class="topicHeaderText originalText" itemprop="description">
+                                       The DualShock 4 CUH-ZCT2 was announced in 2016 to replace the CUH-ZCT1 controller released in 2013. This controller is similar to the previous model.                                 </span>
+            </p>
+                           <div class="wiki-author">
+                  Author:                  <span>
+                     <a class="main" href="/User/76599/Nick">Nick</a>
+                                                                  <a class="others" href="/Device/History/DualShock_4_CHU-ZCT2U" rel="ugc">(and 7 other contributors)</a>
+                                       </span>
+               </div>
+               <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                  <meta itemprop="url" content="https://www.ifixit.com/User/76599/Nick">
+                  <meta itemprop="name" content="Nick">
+                  <meta itemprop="image" content="https://guide-images.cdn.ifixit.com/igi/USAYlr1pxfRkjtsy.standard">
+               </div>
+                     </div>
+         <div class="action-buttons">
+                           <a href="/Guide/new/Device/DualShock%204%20CHU-ZCT2U"
+                  rel="nofollow" id="createGuide" class="button readonly-hidden">
+                  <i class="fa fa-list-ol " ></i> Create a Guide</a>
+                                          <div class="workbench-topic-variant-dropdown js-content-dropdown-container content-dropdown-default" id="save-topic-variant-container">
+      <div class="button content-dropdown-toggle js-content-dropdown-toggle " id="variant-save-topic-button"
+       data-wikiid="80473">
+         <i class="fa fa-check-circle save-topic-check hidden" ></i>         <i class="fa fa-plus-circle save-topic-plus " ></i>         I Have This      </div>
+      <div class="content-dropdown-list">
+         <div class="content-dropdown-header">
+            Do you know which kind you have?         </div>
+         <ul class="dropdown-variant-list">
+                           <li class="workbench-topic-variant-selection">
+                  <input type="checkbox"                    class="ifixit-control workbench-topic-variantid-checkbox js-workbench-checkbox"
+                   id="topic-1301" data-topic-variantid="1301"
+                   data-wikiid="80473">
+                  <label for="topic-1301">
+                     <span>JDM-030<span>
+                  </label>
+               </li>
+                           <li class="workbench-topic-variant-selection">
+                  <input type="checkbox"                    class="ifixit-control workbench-topic-variantid-checkbox js-workbench-checkbox"
+                   id="topic-1302" data-topic-variantid="1302"
+                   data-wikiid="80473">
+                  <label for="topic-1302">
+                     <span>JDM-040<span>
+                  </label>
+               </li>
+                           <li class="workbench-topic-variant-selection">
+                  <input type="checkbox"                    class="ifixit-control workbench-topic-variantid-checkbox js-workbench-checkbox"
+                   id="topic-1334" data-topic-variantid="1334"
+                   data-wikiid="80473">
+                  <label for="topic-1334">
+                     <span>JDM-050<span>
+                  </label>
+               </li>
+                           <li class="workbench-topic-variant-selection">
+                  <input type="checkbox"                    class="ifixit-control workbench-topic-variantid-checkbox js-workbench-checkbox"
+                   id="topic-1449" data-topic-variantid="1449"
+                   data-wikiid="80473">
+                  <label for="topic-1449">
+                     <span>JDM-055<span>
+                  </label>
+               </li>
+                        <li class="workbench-topic-variant-selection">
+               <input type="checkbox"                 class="ifixit-control workbench-topic-variantid-checkbox js-workbench-checkbox"
+                id="topic-generic"
+                data-wikiid="80473">
+               <label for="topic-generic">
+                  <span>Not sure<span>
+               </label>
+            </li>
+         </ul>
+      </div>
+   </div>
+                                 </div>
+      </div>
+      <div class="clearer"></div>
+         </div>
+</div></div>
+                                       <div id="topContent">
+                              
+               <div id="mobile-wiki-toc" class="hidden-desktop">
+      <div class="react-component"
+      data-reactroot
+   data-name="Toc"
+   data-props="[]">
+   <style>
+         #mobile-skeleton-toc {
+            background: white;
+            box-shadow: 0px 1px 4px rgba(16, 22, 26, 0.1), 0px 1px 2px rgba(16, 22, 26, 0.1);
+            height: 83px;
+         }
+      </style>
+      <div id="mobile-skeleton-toc"></div>   </div>
+</div>
+               
+            <h2 id="Section_Guides" class="blurbListTitle js-dynamic-toc-section">Guides</h2>
+                        <div class="blurbListWide"
+       data-type="replacement">
+               <h3 id='Section_Replacement' class="blurbListTitle js-dynamic-toc-section">
+               <a href='#Section_Replacement' style="text-decoration: none;">
+            Replacement Guides         </a>
+      </h3>
+      <div class="grid">
+                     <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Battery+Replacement/138739" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/GmlaqnvavSHSBARR.standard" width="133" height="100" alt="Battery" class="thumb" />
+                  
+                  <div class="featured-tag-and-title-flex" >
+                                             <div class="featured-tag">
+                           <span class="featured-icon">
+                              <i  class="svg-icon" alt="Featured" title="Featured" style="display: inline-block; width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="8" r="7"/>
+  <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/>
+</svg></i>                              <p class="featured-text">Featured</p>
+                           </span>
+                        </div>
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Battery                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Buttons+Replacement/99897" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/dIECln3TskUNwxTT.standard" width="133" height="100" alt="Buttons" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Buttons                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Charging+Assembly+Replacement/138745" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/gkwm4fgn61HxkKTW.standard" width="133" height="100" alt="Charging Assembly" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Charging Assembly                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+Charging+Port+Replacement/22682" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/DTymcUSaAsWiN3Zq.standard" width="133" height="100" alt="Charging Port" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Charging Port                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Front+Panel+Replacement/138746" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/fAdEYZSUmVYjgb3P.standard" width="133" height="100" alt="Front Panel" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Front Panel                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CUH-ZCT2U+Shell+Replacement/136976" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/pDINTeKYhJyYnrZ1.standard" width="133" height="100" alt="Front and Back Shell" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Front and Back Shell                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Joystick+Cover+Replacement/138741" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/RJWyJwCHEXqjYl6H.standard" width="133" height="100" alt="Joystick Cover" class="thumb" />
+                  
+                  <div class="featured-tag-and-title-flex" >
+                                             <div class="featured-tag">
+                           <span class="featured-icon">
+                              <i  class="svg-icon" alt="Featured" title="Featured" style="display: inline-block; width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="8" r="7"/>
+  <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/>
+</svg></i>                              <p class="featured-text">Featured</p>
+                           </span>
+                        </div>
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Joystick Cover                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+L1+and+R1+Buttons+Replacement/99899" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/LYLKqImpJOVA3tJU.standard" width="133" height="100" alt="L and R Buttons" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         L and R Buttons                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Motherboard+Replacement/138740" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/vDg6HXIoevuuyAek.standard" width="133" height="100" alt="Motherboard" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Motherboard                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Outer+Shell+Replacement/100822" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/u25QQGAFdVZlXFIA.standard" width="133" height="100" alt="Outer Shell" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Outer Shell                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Rear+Panel+Replacement/138639" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/EMWDQvFaRDlT4v1b.standard" width="133" height="100" alt="Rear Panel" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Rear Panel                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+Controller+Rumble+Motors+Replacement/106820" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/qtRbSepCL3uC1JvE.standard" width="133" height="100" alt="Rumble Motors" class="thumb" />
+                  
+                  <div class="featured-tag-and-title-flex" >
+                                             <div class="featured-tag">
+                           <span class="featured-icon">
+                              <i  class="svg-icon" alt="Featured" title="Featured" style="display: inline-block; width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="8" r="7"/>
+  <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/>
+</svg></i>                              <p class="featured-text">Featured</p>
+                           </span>
+                        </div>
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Rumble Motors                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Touchpad+Replacement/138744" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/R3fwXRFBQLdTrYsw.standard" width="133" height="100" alt="Touchpad" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         Touchpad                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                           </div>
+   </div>
+                     <div class="blurbListWide"
+       data-type="disassembly">
+               <h3 class="blurbListTitle">
+               <a href='#Section_Disassembly' style="text-decoration: none;">
+            Disassembly Guides         </a>
+      </h3>
+      <div class="grid">
+                     <div class="cell"
+                           >
+
+               <a href="/Guide/DualShock+4+CHU-ZCT2U+Disassembly/136042" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/ygp3BB5h3yJxchMU.standard" width="133" height="100" alt="DualShock 4 CHU-ZCT2U Disassembly" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         DualShock 4 CHU-ZCT2U Disassembly                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                           </div>
+   </div>
+                     <div class="blurbListWide"
+       data-type="technique">
+               <h3 id='Section_Technique' class="blurbListTitle js-dynamic-toc-section">
+               <a href='#Section_Technique' style="text-decoration: none;">
+            Techniques         </a>
+      </h3>
+      <div class="grid">
+                     <div class="cell"
+                           >
+
+               <a href="/Guide/How+to+Assemble+DualShock+4+CHU-ZCT2U/115008" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/ibPk2AGTuaQIDlJj.standard" width="133" height="100" alt="How to Assemble DualShock 4 CHU-ZCT2U" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         How to Assemble DualShock 4 CHU-ZCT2U                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/How+to+Fix+PS4+Controller+Analog+Drift+(R3+or+L3+not+working)/136967" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/KPRR5xPVQvwtwTZ4.standard" width="133" height="100" alt="How to Fix PS4 Controller Analog Drift (R3 or L3 not working)" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         How to Fix PS4 Controller Analog Drift (R3 or L3 not working)                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                                 <div class="cell"
+                           >
+
+               <a href="/Guide/How+to+identify+fake+DualShock+4+controller/125855" class="title">
+                  <img src="https://guide-images.cdn.ifixit.com/igi/G1fdd1WnvEQL4TkM.standard" width="133" height="100" alt="How to identify fake DualShock 4 controller" class="thumb" />
+                  
+                  <div class="title-flex" >
+                     
+                     
+                     <div class='title-text'>
+                        <p>
+                                                         How to identify fake DualShock 4 controller                                                   </p>
+                                             </div>
+                  </div>
+               </a>
+
+                           </div>
+                           </div>
+   </div>
+                  
+               
+<div style="margin-top:45px">
+      <div class="react-component"
+      style="width: 100%;"
+      data-reactroot
+   data-name="WPCampaignBanner"
+   data-props="{&quot;type&quot;:&quot;default&quot;,&quot;hasCampaigns&quot;:true}">
+      <style>
+      .campaign-placeholder {
+         height: 262px;            }
+      @media screen and (max-width: 992px) {
+         .campaign-placeholder {
+            height: 312px;               }
+      }
+      @media screen and (max-width: 577px) {
+         .campaign-placeholder {
+            height: 354px;               }
+      }
+   </style>
+   <div class="campaign-placeholder"></div>   </div>
+</div>               
+         </div>
+
+                        
+            
+                        <div id="contentFloat">
+               <div id="content">
+                                 
+                                        
+      <div class="container articleContainer topic">
+         
+
+                                    
+                        
+<div class="questionsContainer">
+   <h2 id='Section_Support_Questions' class="device-questions js-dynamic-toc-section header">
+      <a href="/Answers/Device/DualShock%204%20CHU-ZCT2U">         Support Questions<i  class="svg-icon headerLinkArrow"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 7.3l-5-5A.965.965 0 0 0 9 2a1.003 1.003 0 0 0-.71 1.71L11.58 7H2c-.55 0-1 .45-1 1s.45 1 1 1h9.59L8.3 12.29a1.003 1.003 0 0 0 1.42 1.42l5-5c.18-.18.29-.43.29-.71 0-.28-.12-.52-.3-.7z"></path></svg></i>      </a>   </h2>
+   <a href="/Answers/Ask/DualShock+4+CHU-ZCT2U" rel="nofollow" id="askQuestionButton" class="subtleButton readonly-hidden"><i class="fa fa-comment-o " ></i>Ask a Question</a>
+</div>
+<div id="questions">
+         <table>
+            <tr class="row firstRow"
+    data-postid="595318"
+    itemprop="hasPart" itemscope itemtype="http://schema.org/Question">
+      <td class="questionStatus">
+         <meta itemprop="answerCount" content="1">
+         <meta itemprop="upvoteCount" content="1">
+         <p id="answers-595318" class="answers acceptedAnswer">
+                                     1 Answer                              </p>
+         <p id="score-595318" class="score">1 Score</p>
+      </td>
+
+      <td class="questionTitle">
+         <h3 >
+            <a class="focus" href="/Answers/View/595318/Can+I+put+another+jdm+motherboard+than+the+jdm+055+on+my+controller"
+             itemprop="url"
+             title="My controller has a jdm 055 motherboard and I don’t succefully find one on internet (out of stock). Can I put another JDM..."
+             ><span itemprop="name">Can I put another jdm motherboard than the jdm 055 on my controller?</span></a>
+
+                     </h3>
+
+         
+                     <p >
+               <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a class="muted" href="/Answers/Device/DualShock%204%20CHU-ZCT2U"
+                   itemprop="url"><span itemprop="name">DualShock 4 CHU-ZCT2U</span></a>
+               </span>
+
+                           </p>
+               </td>
+   </tr>
+   <tr class="row"
+    data-postid="435811"
+    itemprop="hasPart" itemscope itemtype="http://schema.org/Question">
+      <td class="questionStatus">
+         <meta itemprop="answerCount" content="2">
+         <meta itemprop="upvoteCount" content="2">
+         <p id="answers-435811" class="answers answered">
+                                     2 Answers                              </p>
+         <p id="score-435811" class="score">2 Score</p>
+      </td>
+
+      <td class="questionTitle">
+         <h3 >
+            <a class="focus" href="/Answers/View/435811/Control+doesn&#039;t+turn+on"
+             itemprop="url"
+             title="The control does not react, doesn&#039;t work with the cable connected to the console"
+             ><span itemprop="name">Control doesn&#039;t turn on</span></a>
+
+                     </h3>
+
+         
+                     <p >
+               <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a class="muted" href="/Answers/Device/DualShock%204%20CHU-ZCT2U"
+                   itemprop="url"><span itemprop="name">DualShock 4 CHU-ZCT2U</span></a>
+               </span>
+
+                           </p>
+               </td>
+   </tr>
+   <tr class="row"
+    data-postid="664887"
+    itemprop="hasPart" itemscope itemtype="http://schema.org/Question">
+      <td class="questionStatus">
+         <meta itemprop="answerCount" content="1">
+         <meta itemprop="upvoteCount" content="1">
+         <p id="answers-664887" class="answers answered">
+                                     1 Answer                              </p>
+         <p id="score-664887" class="score">1 Score</p>
+      </td>
+
+      <td class="questionTitle">
+         <h3 >
+            <a class="focus" href="/Answers/View/664887/My+controller+won&#039;t+connect+to+ps4+after+connected+to+iPhone"
+             itemprop="url"
+             title="I connected my ps4 controller to my iphone recently and when I tried to connect it back to my ps4 with a usb/ safe mode,..."
+             ><span itemprop="name">My controller won&#039;t connect to ps4 after connected to iPhone?</span></a>
+
+                     </h3>
+
+         
+                     <p >
+               <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a class="muted" href="/Answers/Device/DualShock%204%20CHU-ZCT2U"
+                   itemprop="url"><span itemprop="name">DualShock 4 CHU-ZCT2U</span></a>
+               </span>
+
+                           </p>
+               </td>
+   </tr>
+   <tr class="row"
+    data-postid="714269"
+    itemprop="hasPart" itemscope itemtype="http://schema.org/Question">
+      <td class="questionStatus">
+         <meta itemprop="answerCount" content="1">
+         <meta itemprop="upvoteCount" content="1">
+         <p id="answers-714269" class="answers answered">
+                                     1 Answer                              </p>
+         <p id="score-714269" class="score">1 Score</p>
+      </td>
+
+      <td class="questionTitle">
+         <h3 >
+            <a class="focus" href="/Answers/View/714269/Is+it+possible+to+fix+scratched+circuit+film"
+             itemprop="url"
+             title="I was checking my joystick because it drifts a little but when i open the green thing, i just accidentally scratched my..."
+             ><span itemprop="name">Is it possible to fix scratched circuit film?</span></a>
+
+                     </h3>
+
+         
+                     <p >
+               <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a class="muted" href="/Answers/Device/DualShock%204%20CHU-ZCT2U"
+                   itemprop="url"><span itemprop="name">DualShock 4 CHU-ZCT2U</span></a>
+               </span>
+
+                           </p>
+               </td>
+   </tr>
+      </table>
+   </div>
+                                                   <div id="Section_Parts_and_Tools" class="js-dynamic-toc-section">
+
+         <h2><a href="/Parts/DualShock_4_CHU-ZCT2U">
+         Parts<i  class="svg-icon headerLinkArrow"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 7.3l-5-5A.965.965 0 0 0 9 2a1.003 1.003 0 0 0-.71 1.71L11.58 7H2c-.55 0-1 .45-1 1s.45 1 1 1h9.59L8.3 12.29a1.003 1.003 0 0 0 1.42 1.42l5-5c.18-.18.29-.43.29-.71 0-.28-.12-.52-.3-.7z"></path></svg></i>      </a></h2>
+      <div id="devicePartsList" class="row">
+               <ul class="column column3 firstColumn">
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Batteries" class="muted">
+                  <span itemprop="name">Batteries</span>
+                  (2)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Boards" class="muted">
+                  <span itemprop="name">Boards</span>
+                  (1)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+              class="lastItem">
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Buttons" class="muted">
+                  <span itemprop="name">Buttons</span>
+                  (5)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                     </ul>
+               <ul class="column column3">
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Case_Components" class="muted">
+                  <span itemprop="name">Case Components</span>
+                  (3)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Joysticks" class="muted">
+                  <span itemprop="name">Joysticks</span>
+                  (1)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+              class="lastItem">
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Motherboards" class="muted">
+                  <span itemprop="name">Motherboards</span>
+                  (7)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                     </ul>
+               <ul class="column column3">
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Ports" class="muted">
+                  <span itemprop="name">Ports</span>
+                  (4)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+             >
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Screens" class="muted">
+                  <span itemprop="name">Screens</span>
+                  (1)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                        <li itemprop="offers" itemscope itemtype="http://schema.org/Offer"
+              class="lastItem">
+               <a itemprop="url" href="/Parts/DualShock_4_CHU-ZCT2U/Vibrators" class="muted">
+                  <span itemprop="name">Vibrators</span>
+                  (4)
+               </a>
+               <meta itemprop="category" content="Parts">
+            </li>
+                     </ul>
+            </div>
+   
+         <h2 class="tools-header">
+         <a href="/Tools">
+            Tools<i  class="svg-icon headerLinkArrow"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 7.3l-5-5A.965.965 0 0 0 9 2a1.003 1.003 0 0 0-.71 1.71L11.58 7H2c-.55 0-1 .45-1 1s.45 1 1 1h9.59L8.3 12.29a1.003 1.003 0 0 0 1.42 1.42l5-5c.18-.18.29-.43.29-.71 0-.28-.12-.52-.3-.7z"></path></svg></i>         </a>
+      </h2>
+      <div class="deviceToolsContainer">
+         <p>These are some common tools used to work on this device. You might not need every tool for every procedure.</p>
+
+         <div class="deviceToolsList">
+            <ul class="attachment-link-list two-columns">
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/phillips-00-screwdriver">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/x2GYlXMjmAQneKIK.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/phillips-00-screwdriver">
+            <p itemprop=name class="title">Phillips #00 Screwdriver</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/phillips-00-screwdriver" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="5.49"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/phillips-00-screwdriver">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/tweezers">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/SgcjxIZnNVleJooT.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/tweezers">
+            <p itemprop=name class="title">Tweezers</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/tweezers" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="4.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/tweezers">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/ifixit-opening-tool">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/ifixit-opening-tool">
+            <p itemprop=name class="title">iFixit Opening Tool</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/ifixit-opening-tool" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="4.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/ifixit-opening-tool?variant=39371677139047">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/essential-electronics-toolkit">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/6JwXuUWvBHYYrIRj.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/essential-electronics-toolkit">
+            <p itemprop=name class="title">Essential Electronics Toolkit</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/essential-electronics-toolkit" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="29.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/essential-electronics-toolkit">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/phillips-0-screwdriver">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/BBtWVMQZXLobkBAA.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/phillips-0-screwdriver">
+            <p itemprop=name class="title">Phillips #0 Screwdriver</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/phillips-0-screwdriver" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="5.49"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/phillips-0-screwdriver">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/spudger">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/pcEtXHm1pabLDYKI.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/spudger">
+            <p itemprop=name class="title">Spudger</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/spudger" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="3.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/spudger">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/cotton-swabs">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/KYuOYIhqBQWmkmC4.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/cotton-swabs">
+            <p itemprop=name class="title">Cotton Swabs</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/cotton-swabs" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="4.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/cotton-swabs">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/metal-spudger">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/RIQCUydFQEn5O6tu.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/metal-spudger">
+            <p itemprop=name class="title">Metal Spudger</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/metal-spudger" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="2.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/metal-spudger">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/phillips-000-screwdriver">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/oekqScRITeKKbcke.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/phillips-000-screwdriver">
+            <p itemprop=name class="title">Phillips #000 Screwdriver</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/phillips-000-screwdriver" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="5.49"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/phillips-000-screwdriver">         </div>
+</li>
+                           <li class="attachment-link">
+   <div class="row attachment-container"
+        itemprop="offers" itemscope itemtype="http://schema.org/Offer"        >
+               <a href="/products/ifixit-opening-picks-set-of-6">
+            <img itemprop="image" src="https://cart-products.cdn.ifixit.com/cart-products/fDsOubGiL2QUMeOR.mini" width="41" height="41" alt="">
+         </a>
+            <div class="column">
+         <a href="/products/ifixit-opening-picks-set-of-6">
+            <p itemprop=name class="title">iFixit Opening Picks (Set of 6)</p>
+         </a>
+         <p class="attachment-info"></p>
+         <p class="file-metadata attachment-subtitle"></p>
+      </div>
+      <a href="/products/ifixit-opening-picks-set-of-6" class="button button-small button-transparent">View</a>
+      
+      <meta itemprop="priceCurrency" content="USD"><meta itemprop="price" content="4.99"><link itemprop="availability" href="http://schema.org/InStock"><meta itemprop="priceValidUntil" content="2023-11-09"><meta itemprop="itemCondition" content="http://schema.org/NewCondition"><link itemprop="url" href="https://www.ifixit.com/products/ifixit-opening-picks-set-of-6">         </div>
+</li>
+                        </ul>
+         </div>
+
+         <div class="clearer"></div>
+      </div>
+      </div>
+         
+   <meta itemprop="name" content="DualShock 4 CHU-ZCT2U">
+
+   <div id="Wiki_Details">
+      <div id="wikiRenderedText" class="wikiRenderedText renderedText originalText" itemprop="text">
+                     <div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_Troubleshooting" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h2 id="Section_Troubleshooting" class="header">Troubleshooting</h2></div>
+
+<p>For more information regarding common troubleshooting problems and solutions, check out <a href="/Wiki/DualShock_4_Troubleshooting">DualShock 4 Troubleshooting</a></p>
+
+<div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_Background" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h2 id="Section_Background" class="header">Background</h2></div>
+
+<p>The Sony Model CUH-ZCT2 Wireless Controller, also known as the DualShock 4 was released in 2016 to replace the outgoing CUH-ZCT1 controller released in 2013. Model numbers will have a country code suffix, but the core model remains the same. The CUH-ZCT2U (United States) and CUH-ZCT2J (Japan) controllers contain the same components.</p>
+
+<p>The Dualshock 4 controller is compatible with the Playstation 4 and some Playstation 3 titles, but does not work for most titles. The controller can interface over Bluetooth or Micro USB.</p>
+
+<p>The controller is the same, with the primary differences being external. The T2 revision has a LED pass-through on the trackpad, wich the old one does not have. The Bluetooth chipset has also changed internally.</p>
+
+<p>The <a href="https://www.ifixit.com/Store/Game-Console/DualShock-4" target="_blank">most often replaced DualShock 4 parts</a> include the joystick, battery, and <a href="https://www.ifixit.com/Store/Game-Console/DualShock-4/Motherboards" target="_blank">motherboard</a>.</p>
+
+<div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_PC_Use" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h3 id="Section_PC_Use" class="header">PC Use</h3></div>
+
+<p>This controller uses Bluetooth 4.0 so you will need a USB adapter that supports Bluetooth 4.0 (4.0 LE receiver recommended to reduce power draw). <strong><em>However, if you find your controller doesn’t like non LE adapters a LE adapter must be used.</em></strong></p>
+
+<p>The DS4 registers as a Standard HID Device when plugged into a PC. However, it only natively supports DirectInput games. Xinput games will require emulation of this mode to use this controller. This may not work for games that expect a real Xbox controller, but will work on the vast majority of newer games. Most modern titles increasingly include DirectInput and Xinput support</p>
+
+<div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_Potential_PC_support_issues" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h3 id="Section_Potential_PC_support_issues" class="header">Potential PC support issues</h3></div>
+
+<p>The user of a DS4 on a PC should be aware certain features of the DS4 only work with the Sony Bluetooth adapter and are NOT part of the HID Device class. These features are:</p>
+
+<ul><li>Trackpad (This feature also depends on developer support)</li><li>Headphone jack (Typically functions in HID mode but will not function with Xinput emulation)</li><li>PS Button (Steam Machine/Steam Big Picture Mode only)</li></ul>
+
+<p><ins><strong>Recommended adapters (3rd party)</strong> </ins></p>
+
+<p>NOTE: These adapters are NOT supported by Sony. For the best results, it’s best to stick to these adapters (or very similar equivalent models).</p>
+
+<ul><li><a href="https://www.amazon.com/MIATONE-Wireless-Bluetooth-Adapter-Raspberry/dp/B00M1ATR4C/ref=cm_rdp_product?tag=ifixitam-20" rel="nofollow noopener noreferrer">MIATONE Bluetooth 4.0 LE (CSR)</a></li><li><a href="https://www.amazon.com/gp/product/B004LNXO28/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1&amp;tag=ifixitam-20" rel="nofollow noopener noreferrer">Medialink 4.0 CSR (DS4Windows recommendation)</a></li></ul>
+
+<p><ins><strong>Official Sony Bluetooth adapter links</strong> </ins></p>
+
+<p>This adapter is typically much more expensive then 3rd party options at ~$25. However, it is officially supported by Sony and all features will work (if your games support these features). With that being said, it’s not a good value for someone who knows what they are doing.</p>
+
+<p><a href="https://www.amazon.com/DualShock-4-USB-Wireless-Adaptor-playstation/dp/B01KWLKKQU?tag=ifixitam-20" rel="nofollow noopener noreferrer">Amazon</a></p>
+
+<p><a href="https://www.gamestop.com/accessories/dualshock-4-usb-wireless-adapter/134132" rel="nofollow noopener noreferrer">GameStop</a></p>
+
+<div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_Connectivity_options" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h3 id="Section_Connectivity_options" class="header">Connectivity options</h3></div>
+
+<p><ins><strong>Micro USB</strong> </ins></p>
+
+<p>MicroUSB is the easiest option since the controller will “just work”. However, you are limited to 15ft because of the USB standard. However, it is range limited to 15ft due to the USB specification.</p>
+
+<p><ins><strong>Bluetooth</strong> </ins></p>
+
+<p>If you need something beyond 15ft or want to get rid of the wires, Bluetooth is supported on these controllers.<br /><strong>CAUTION: Performance is dependent on what chipset your receiver uses. While most work without major problems, others just do not work right no matter what you try. This is commonplace on some 3rd party proprietary Bluetooth adapters (Ex: Broadcom).</strong></p>
+
+<div class="clearer"></div><div class="headerContainer"><a class="selfLink" href="#Section_Additional_Information" title="Link to this section" aria-hidden="true"><i  class="svg-icon"   style="width: 16px; height: 16px;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 2.899a3.976 3.976 0 0 0-5.622 0l-.94.94A.85.85 0 0 0 7.742 5.04l.94-.939a2.276 2.276 0 1 1 3.218 3.219l-.94.94a.85.85 0 1 0 1.203 1.201l.939-.94a3.976 3.976 0 0 0 0-5.622zM2.9 13.101a3.976 3.976 0 0 0 5.622 0l.94-.94a.85.85 0 0 0-1.203-1.201l-.94.939A2.276 2.276 0 1 1 4.102 8.68l.94-.94A.85.85 0 0 0 3.839 6.54l-.94.94a3.976 3.976 0 0 0 0 5.622z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.119 5.881a.875.875 0 0 1 0 1.238l-3 3A.875.875 0 0 1 5.88 8.88l3-3a.875.875 0 0 1 1.238 0z"></path></svg></i></a><h2 id="Section_Additional_Information" class="header">Additional Information</h2></div>
+
+<p><a href="http://us.playstation.com/ps4/features/ps4-accessories/?ATTR=PSU-nav-ab1" rel="nofollow noopener noreferrer">DualShock 4 Accessories</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/DualShock">DualShock 4 Wikipedia Page</a></p>
+
+<p><a href="http://us.playstation.com/ps4/features/techspecs/index.htm?sel=techspecs-dualshock" rel="nofollow noopener noreferrer">DualShock 4 Manufacturer Specifications</a></p>
+
+<p><a href="https://support.us.playstation.com/app/answers/detail/a_id/5121" rel="nofollow noopener noreferrer">DualShock 4 Maunfacturer Troubleshooting</a></p>               </div>
+   </div>
+
+      <div class="clearer"></div>
+
+      </div>
+                     <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <meta itemprop="url" content="https://www.ifixit.com/User/76599/Nick">
+            <meta itemprop="name" content="Nick">
+            <meta itemprop="image" content="https://guide-images.cdn.ifixit.com/igi/USAYlr1pxfRkjtsy.standard">
+         </div>
+      
+
+
+
+                                                </div>
+                                                       <script type="text/javascript">
+   (function() {
+      var mobileToc = document.getElementById('mobile-skeleton-toc');
+      if (document.getElementById('sidebar-wiki-toc')) {
+         var headings = document.querySelectorAll('#mainBody [id^="Section_"]');
+         var pageSidebar = document.getElementById('page-sidebar');
+         if (headings.length <= 1) {
+            // Must remove elements this way to maintain IE11 support
+            pageSidebar && pageSidebar.parentNode.removeChild(pageSidebar);
+            mobileToc && mobileToc.parentNode.removeChild(mobileToc);
+         }
+      } else {
+         mobileToc && mobileToc.parentNode.removeChild(mobileToc);
+      }
+      document.getElementById('page').classList.remove("invisible");
+   })();
+</script>                                             </div>
+            <div class="clearer"></div>
+
+         </div> <!-- /mainBody -->
+
+         <div class="clearer"></div>
+      </div> <!-- /main -->
+   </div> <!-- /page -->
+   <div class="clearer"></div>
+   </div> <!-- /background -->
+         <div id="pageStats" class="">
+   <div class="stats-module-title"><i class="fa fa-bar-chart-o " ></i> <strong>View Statistics:</strong></div>
+   <div class="stats-numbers-container">
+               <p><span class="statTitle">Past 24 Hours:</span> <span class="statValue">79</span></p>
+               <p><span class="statTitle">Past 7 Days:</span> <span class="statValue">638</span></p>
+               <p><span class="statTitle">Past 30 Days:</span> <span class="statValue">2,833</span></p>
+               <p><span class="statTitle">All Time:</span> <span class="statValue">150,129</span></p>
+         </div>
+</div>
+<div class="clearer"></div>
+   
+   
+            <div class="react-component"
+      data-reactroot
+   data-name="Footer"
+   data-props="[]">
+   
+         <style>
+            .footer-placeholder {
+               min-height: 573px;
+            }
+         </style>
+         <div class="footer-placeholder"></div>   </div>
+   
+
+            
+            
+               
+                           
+         <img src="https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Ftopic%2F80473%2Fen" width="1" height="1" alt="" class="hidden" />
+
+            <script type='text/javascript'>
+   var App = {"recaptchaToken":"6LdcrYcUAAAAADXZZ8mZBNd48Qpg6jF6_Zp2s1t5","canIBypassGAEventFiringOnMobile":false,"objectNameSingular":"Device","which":"ifixit","showAnnouncementBanner":true,"isLoggedIn":false,"algoliaConfig":{"appId":"XQEP3AD9ZT","apiKey":"NjBkMDE5YWFhZjgwNDQwYzkxMmQxMWM1NjZkOTEyNThhMjU1N2UyYmY5MzAxYTIzNWRkZWI3YTJlZDQzYzcwY2ZpbHRlcnM9c2l0ZSUzQSUyMmlmaXhpdCUyMitBTkQrJTI4cHVibGljKyUzRCsxK09SK3ZhcmlhbnRzX2NvdW50KyUzRSUzRCsxJTI5JnZhbGlkVW50aWw9MTY2ODExOTEwMg==","indexPrefix":"","langidsByObjectType":{"guide":["en"],"post":["en"],"product":["en"],"product_group":["en"],"searchpage":["en"],"document":["en"],"wiki":["en"],"topic":["en"],"item":["en"]},"filtersByObjectType":{"product":"is_pro != 1"},"defaultDoctypes":["topic","product","product_group","guide","post","wiki","pages","news","document"]},"lang":"en","wikiid":80473,"showTranslatedPlaceholder":false,"canIForceSentryReporting":false,"SENTRY_DSN_JS":"https:\/\/5552835e822c4c8db5070306b2535ef3@o186239.ingest.sentry.io\/1281569","sentryTags":{"site":"ifixit","lang":"en","isAdmin":false,"deployment":"production"},"sentryPerformance":true,"sentryRelease":"bad70331eb184ae2fa402213662c118334ce7620\n","googleOAuth2Clientid":"622418919965-qcvbv04spukbdo9ut8pevt4pucmkp86o.apps.googleusercontent.com","googleOAuth2Domain":"","usernamePattern":"^[a-z][a-z0-9_]{2,14}$","maxMediaSize":100,"maxMediaLength":30,"videosEnabled":true,"strokeWidthMedium":5,"iconTimes":"<i  class=\"svg-icon\"   style=\"display: inline-block; width: 16px; height: 16px;\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n    <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"\/>\n    <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"\/>\n<\/svg><\/i>","videoEncodings":{"MP4_720":{"column":"MP4_720","label":"480p","encoding":"mp4","width":720,"height":480,"codecs":"avc1.4D401E, mp4a.40.2","ffmpeg_args":"-vcodec libx264 -profile:v main -level 3.1 -crf 23 -acodec aac","mime":"video\/mp4","always_generate":true}},"FrameModules":["LoginFrameModule","ImageMenuFrameModule","MediaLibraryFrameModule","NotifyFrameModule","WatchFrameModule","NewsletterFrameModule","EditNavFrameModule","WikiDetailsFrameModule","DozukiAdFrameModule","PageStatsFrameModule","ImageMarkersFrameModule","ImageCropFrameModule"],"isProduction":true,"locale":"en_US","siteName":"ifixit","useSecureCookies":true,"sameSiteValue":"None","imageSizeWidths":{"mini":56,"thumbnail":96,"140x105":140,"200x150":200,"standard":300,"440x330":440,"medium":592,"large":800,"huge":1600},"shopifyCheckout":{"clientDetails":{"domain":"store.ifixit.com","storefrontAccessToken":"db3099692534a56ecec7b974a329d302","apiVersion":"2022-04"},"ssoRoute":"https:\/\/www.ifixit.com\/User\/sso\/shopify\/ifixit-us?checkout=1","useDraftOrder":false},"facebookAppId":"401112919922369"};
+</script>
+   </body>
+</html>

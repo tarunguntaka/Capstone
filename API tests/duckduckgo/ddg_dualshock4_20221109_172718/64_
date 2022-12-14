@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Help!  Dualshock shock 4 doesn't work(Solved) :: Batman™: Arkham Knight General Discussions</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	
+	<link href="https://community.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=GfSjbGKcNYaQ&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=uR_4hRD_HUln&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=ZQmF9AdhxZ2k&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/globalv2.css?v=_B4lAraJ1uky&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/apphub.css?v=rALgO8ailwJV&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/apphub_home.css?v=oRKBxdchFbmK&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/forums.css?v=gMNxlzV7kVGo&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=f0pn0UItZD9f&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/apphub_images.css?v=_0CllnFpmuY6&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/header.css?v=kSY7-qhkPHds&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'app' );
+				ga('set', 'dimension4', "app\/discussions" );
+				ga('send', 'pageview' );
+
+			</script>
+			<script type="text/javascript">
+	var __PrototypePreserve=[];
+	__PrototypePreserve[0] = Array.from;
+	__PrototypePreserve[1] = Function.prototype.bind;
+	__PrototypePreserve[2] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript">
+	Array.from = __PrototypePreserve[0] || Array.from;
+	Function.prototype.bind = __PrototypePreserve[1] || Function.prototype.bind;
+	HTMLElement.prototype.scrollTo = __PrototypePreserve[2] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">VALVE_PUBLIC_PATH = "https:\/\/community.cloudflare.steamstatic.com\/public\/";</script><script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&amp;l=english&amp;_cdn=cloudflare&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/global.js?v=eI0CdWRS0tf6&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_global.js?v=t9jFrVpnvjWy&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script><script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/community.cloudflare.steamstatic.com\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english&amp;_cdn=cloudflare\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} );
+		});
+		</script><script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/modalContent.js?v=3O9PsSz7dn7Z&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/apphub.js?v=JSwdk0x7aW5O&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/forums.js?v=kHrHyRjdKB0A&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=iaNf89ykEMuF&amp;l=english&amp;_cdn=cloudflare" ></script>
+
+						<meta name="twitter:card" content="summary_large_image">
+					<meta name="Description" content="To clarify: I'm using the Dualshock 4 controller wirelessly, and am using the DS4Windows driver. Been working fine with other games such as darksouls 3. The game seems to register the controller, giving me the option to start game with x button, and allowed me to change controls with the controller. However no button press seemed to work, however the touchpad on the controller is working..">
+			
+	<meta name="twitter:site" content="@steam" />
+
+						<meta property="og:title" content="Help!  Dualshock shock 4 doesn't work(Solved) :: Batman™: Arkham Knight General Discussions">
+					<meta property="twitter:title" content="Help!  Dualshock shock 4 doesn't work(Solved) :: Batman™: Arkham Knight General Discussions">
+					<meta property="og:type" content="website">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="To clarify: I'm using the Dualshock 4 controller wirelessly, and am using the DS4Windows driver. Been working fine with other games such as darksouls 3. The game seems to register the controller, giving me the option to start game with x button, and allowed me to change controls with the controller. However no button press seemed to work, however the touchpad on the controller is working..">
+					<meta property="twitter:description" content="To clarify: I'm using the Dualshock 4 controller wirelessly, and am using the DS4Windows driver. Been working fine with other games such as darksouls 3. The game seems to register the controller, giving me the option to start game with x button, and allowed me to change controls with the controller. However no button press seemed to work, however the touchpad on the controller is working..">
+			
+	
+			<link rel="image_src" href="https://cdn.cloudflare.steamstatic.com/steam/apps/208650/header.jpg?t=1634156452">
+		<meta property="og:image" content="https://cdn.cloudflare.steamstatic.com/steam/apps/208650/header.jpg?t=1634156452">
+		<meta name="twitter:image" content="https://cdn.cloudflare.steamstatic.com/steam/apps/208650/header.jpg?t=1634156452" />
+				
+	
+	
+	
+	
+	</head>
+<body class="flat_page thread responsive_page">
+
+
+<div class="responsive_page_frame with_header">
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=app%2F208650%2Fdiscussions%2F0%2F2425614539584144987%2F">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Home</a>
+					<a class="submenuitem" href="https://store.steampowered.com/explore/">Discovery Queue</a>
+				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">Points Shop</a>	
+       	<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+					<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+					</div>
+
+
+			<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+			Community		</a>
+		<div class="submenu_community" style="display: none;" data-submenuid="community">
+			<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+			<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+			<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+			<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+			<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+											</div>
+		
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																								<div class="menuitem change_language_action">
+									Change language								</div>
+																																	<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer  "></div>
+						<div class="mainmenu_footer">
+															<div class="mainmenu_footer_logo"><img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png"></div>
+								© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.								<span class="mainmenu_valve_links">
+									<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">#footer_privacy_policy</a>
+									&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">#footer_legal</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">#footer_ssa</a>
+									&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">#footer_refunds</a>
+								</span>
+													</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab"></div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+				<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<a href="https://store.steampowered.com/">
+															<img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+													</a>
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://community.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44">
+					</a>
+							</span>
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Home</a>
+					<a class="submenuitem" href="https://store.steampowered.com/explore/">Discovery Queue</a>
+				<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/points/shop/">Points Shop</a>	
+       	<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+					<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+					</div>
+
+
+			<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+			COMMUNITY		</a>
+		<div class="submenu_community" style="display: none;" data-submenuid="community">
+			<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+			<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+			<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+			<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+			<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+											</div>
+		
+
+	
+						<a class="menuitem" href="https://store.steampowered.com/about/">
+				ABOUT			</a>
+			
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=app%2F208650%2Fdiscussions%2F0%2F2425614539584144987%2F">login</a>
+											&nbsp;|&nbsp;
+						<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+						<div class="popup_block_new" id="language_dropdown" style="display: none;">
+							<div class="popup_body popup_menu">
+																																					<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																													<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																													<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																													<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																													<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																													<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																													<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+																													<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																													<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																																							<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+																													<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+																													<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																													<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																													<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																													<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																													<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																													<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																													<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																													<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese - Portugal)</a>
+																													<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+																													<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																													<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																													<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																													<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																													<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																													<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+																													<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																									<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">Report a translation problem</a>
+							</div>
+						</div>
+												</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "d6e2d3eef110898059e7b95b";
+	g_steamID = false;
+	g_strLanguage = "english";
+	g_SNR = '2_9_100006_100202';
+	g_bAllowAppImpressions = true
+	
+	
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+		ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/community.cloudflare.steamstatic.com\/public\/css\/skin_1\/economy.css?v=wliPEsKn4dhI&l=english&_cdn=cloudflare", "https:\/\/community.cloudflare.steamstatic.com\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english&_cdn=cloudflare", "https:\/\/community.cloudflare.steamstatic.com\/public\/javascript\/economy.js?v=n3ZFab2IK68b&l=english&_cdn=cloudflare" );});</script>
+<div id="application_config" style="display: none;"  data-config="{&quot;EUNIVERSE&quot;:1,&quot;WEB_UNIVERSE&quot;:&quot;public&quot;,&quot;LANGUAGE&quot;:&quot;english&quot;,&quot;COUNTRY&quot;:&quot;US&quot;,&quot;MEDIA_CDN_COMMUNITY_URL&quot;:&quot;https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/&quot;,&quot;MEDIA_CDN_URL&quot;:&quot;https:\/\/cdn.cloudflare.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_URL&quot;:&quot;https:\/\/community.cloudflare.steamstatic.com\/&quot;,&quot;COMMUNITY_CDN_ASSET_URL&quot;:&quot;https:\/\/cdn.cloudflare.steamstatic.com\/steamcommunity\/public\/assets\/&quot;,&quot;STORE_CDN_URL&quot;:&quot;https:\/\/store.cloudflare.steamstatic.com\/&quot;,&quot;PUBLIC_SHARED_URL&quot;:&quot;https:\/\/community.cloudflare.steamstatic.com\/public\/shared\/&quot;,&quot;COMMUNITY_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;CHAT_BASE_URL&quot;:&quot;https:\/\/steamcommunity.com\/&quot;,&quot;STORE_BASE_URL&quot;:&quot;https:\/\/store.steampowered.com\/&quot;,&quot;IMG_URL&quot;:&quot;https:\/\/community.cloudflare.steamstatic.com\/public\/images\/&quot;,&quot;STEAMTV_BASE_URL&quot;:&quot;https:\/\/steam.tv\/&quot;,&quot;HELP_BASE_URL&quot;:&quot;https:\/\/help.steampowered.com\/&quot;,&quot;PARTNER_BASE_URL&quot;:&quot;https:\/\/partner.steamgames.com\/&quot;,&quot;STATS_BASE_URL&quot;:&quot;https:\/\/partner.steampowered.com\/&quot;,&quot;INTERNAL_STATS_BASE_URL&quot;:&quot;https:\/\/steamstats.valve.org\/&quot;,&quot;IN_CLIENT&quot;:false,&quot;USE_POPUPS&quot;:false,&quot;STORE_ICON_BASE_URL&quot;:&quot;https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/&quot;,&quot;WEBAPI_BASE_URL&quot;:&quot;https:\/\/api.steampowered.com\/&quot;,&quot;TOKEN_URL&quot;:&quot;https:\/\/steamcommunity.com\/chat\/clientjstoken&quot;,&quot;BUILD_TIMESTAMP&quot;:1668007713,&quot;PAGE_TIMESTAMP&quot;:1668032839,&quot;IN_TENFOOT&quot;:false,&quot;IN_GAMEPADUI&quot;:false,&quot;IN_CHROMEOS&quot;:false,&quot;IN_MOBILE_WEBVIEW&quot;:false,&quot;PLATFORM&quot;:&quot;windows&quot;,&quot;BASE_URL_STORE_CDN_ASSETS&quot;:&quot;https:\/\/cdn.cloudflare.steamstatic.com\/store\/&quot;,&quot;EREALM&quot;:1,&quot;LOGIN_BASE_URL&quot;:&quot;https:\/\/login.steampowered.com\/&quot;,&quot;AVATAR_BASE_URL&quot;:&quot;https:\/\/avatars.cloudflare.steamstatic.com\/&quot;,&quot;FROM_WEB&quot;:true,&quot;WEBSITE_ID&quot;:&quot;Community&quot;,&quot;SNR&quot;:&quot;2_9_100006_100202&quot;}" data-userinfo="[]" data-community="[]" data-loyaltystore="{&quot;webapi_token&quot;:&quot;&quot;}"></div><link href="https://community.cloudflare.steamstatic.com/public/css/applications/community/main.css?v=dBAxcMfRHzSB&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/applications/community/manifest.js?v=m-ocoMYeUtds&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries~b28b7af69.js?v=-bpibfr7kTPv&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/applications/community/main.js?v=lc0OeWCBFwBW&amp;l=english&amp;_cdn=cloudflare" ></script>
+<div data-featuretarget="apphub-events"></div><div data-featuretarget="community-awards"></div>	<div id="application_root"></div>
+
+		<div class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}" >
+
+			<script type="text/javascript">
+	</script>
+<div class="pagecontent">
+		<div class="apphub_background" style="background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/208650/page_bg_generated_v6b.jpg?t=1634156452');">
+		<div class="apphub_HomeHeader">
+			
+
+			<script type="text/javascript">
+			try {
+				if ( typeof ga != 'undefined' && ga )
+				{
+					ga( 'create', "UA-245108-101", 'auto', "app", {
+						anonymizeIp: true
+					} );
+					ga( 'app.require', 'linker' );
+					ga( 'app.linker:autolink', ["store.steampowered.com","steamcommunity.com","help.steampowered.com"] );
+					ga( 'app.send', 'pageview' );
+				}
+			} catch ( e ) { }
+		</script>
+		<div class="apphub_HomeHeaderContent">
+
+
+	
+	
+	<div class="apphub_HeaderTop">
+		<div class="apphub_OtherSiteInfo responsive_hidden">
+			
+							<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/208650?snr=2_9_100006_100202_apphubheader" data-appid="208650">
+					<span>Store Page</span>
+				</a>
+					</div>
+		<div class="apphub_AppDetails">
+			<div class="apphub_AppIcon"><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/208650/f6c2ce13796844750dfbd01685fb009eeac4bf70.jpg"><div class="overlay"></div></div>
+			<div class="apphub_AppName ellipsis">Batman™: Arkham Knight</div>
+		</div>
+		<div style="clear: both"></div>
+				<div data-panel="{&quot;maintainX&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;row&quot;}" class="apphub_sectionTabs responsive_hidden">
+				
+	<a href="https://steamcommunity.com/app/208650" class="apphub_sectionTab  "><span>All</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/discussions/" class="apphub_sectionTab active "><span>Discussions</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/screenshots/" class="apphub_sectionTab  "><span>Screenshots</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/images/" class="apphub_sectionTab  "><span>Artwork</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/broadcasts/" class="apphub_sectionTab  "><span>Broadcasts</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/videos/" class="apphub_sectionTab  "><span>Videos</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/allnews/" class="apphub_sectionTab  "><span>News</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/guides/" class="apphub_sectionTab  "><span>Guides</span></a>
+		
+	<a href="https://steamcommunity.com/app/208650/reviews/" class="apphub_sectionTab  "><span>Reviews</span></a>
+				<div style="clear: left"></div>
+		</div>
+
+		<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
+			<div class="responsive_tab_control">
+				<div class="responsive_tab_control_inner">
+										<select class="responsive_tab_select" id="responsive_tab_select636c2947e5c5a">
+													<option value="https://steamcommunity.com/app/208650" >
+								All							</option>
+													<option value="https://steamcommunity.com/app/208650/discussions/" selected>
+								Discussions							</option>
+													<option value="https://steamcommunity.com/app/208650/screenshots/" >
+								Screenshots							</option>
+													<option value="https://steamcommunity.com/app/208650/images/" >
+								Artwork							</option>
+													<option value="https://steamcommunity.com/app/208650/broadcasts/" >
+								Broadcasts							</option>
+													<option value="https://steamcommunity.com/app/208650/videos/" >
+								Videos							</option>
+													<option value="https://steamcommunity.com/app/208650/allnews/" >
+								News							</option>
+													<option value="https://steamcommunity.com/app/208650/guides/" >
+								Guides							</option>
+													<option value="https://steamcommunity.com/app/208650/reviews/" >
+								Reviews							</option>
+											</select>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="responsive_tab_baseline nonresponsive_hidden"></div>
+	<div class="apphub_sectionTabsHR responsive_hidden"></div>
+
+
+	<!-- these elements are used to populate the local menu on responsive pages -->
+	<div style="display: none;">
+		<div class="responsive_local_menu apphub_responsive_menu">
+			<h3 class="ellipsis apphub_responsive_menu_title">Batman™: Arkham Knight</h3>
+			<div class="apphub_ResponsiveMenuCtn">
+									<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/208650">
+						<span>Store Page</span>
+					</a>
+											</div>
+										<div class="localmenu_subarea">
+					<div class="subheader">
+						View Stats:
+					</div>
+											<div class="apphub_ResponsiveMenuItem" >
+							<a href="https://steamcommunity.com/stats/208650/achievements/">Global Achievements</a>
+						</div>
+									</div>
+					</div>
+	</div>
+	<!-- end responsive menu -->
+
+	
+</div>
+
+	<div class="apphub_HeaderBottomBG_ctn">
+		<div class="apphub_HeaderBottomBG_blur"></div><div class="apphub_HeaderBottomBG"  ></div>
+	</div>
+			<div style="clear: both"></div>
+		</div>
+	
+	<div id="AppHubContent" class="apphub_Content">
+		<div class="maincontent">
+				<div class="leftcol">
+					<div>
+						<div class="forum_breadcrumbs group_content_bodytext breadcrumbs">
+							<a data-panel="{&quot;noFocusRing&quot;:true}" href="https://steamcommunity.com/app/208650">Batman™: Arkham Knight</a> <span class="breadcrumb_separator">&gt;</span>
+							<a data-panel="{&quot;noFocusRing&quot;:true}" href="https://steamcommunity.com/app/208650/discussions/0/">General Discussions</a> <span class="breadcrumb_separator">&gt;</span>
+							<span class="breadcrumb_current_page">Topic Details</span>
+						</div>
+					</div>
+										
+	<div data-panel="{&quot;type&quot;:&quot;PanelGroup&quot;}" class="forum_op" id="forum_op_2425614539584144987">
+
+	
+		<div class="forum_op_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+
+							<div class="forum_op_avatar playerAvatar offline">
+										<a href="https://steamcommunity.com/id/URLRequired">
+						<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" data-miniprofile="86603583">
+					</a>
+				</div>
+			
+			<div class="authorline">
+													<a class="hoverunderline forum_op_author " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, -1 );"  data-miniprofile="86603583">
+						NameRequired<span class="forum_author_action_pulldown"></span></a>
+							<div id="author_menu_86603583_-1" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+							<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">													<span class="date" title="November 19, 2017 @ 6:55:48 am PST" data-timestamp="1511103348">
+					Nov 19, 2017 @ 6:55am				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_forum_topic_2425614539584144987"></div>			</div>
+
+						
+		</div>
+
+		<div class="topic">
+		Help!  Dualshock shock 4 doesn't work(Solved)	</div>
+	<div class="content">
+		To clarify: I'm using the Dualshock 4 controller wirelessly, and am using the DS4Windows driver. Been working fine with other games such as darksouls 3.<br>The game seems to register the controller, giving me the option to start game with x button, and allowed me to change controls with the controller. However no button press seemed to work, however the touchpad on the controller is working.. I've tried to restart the controller, restart the game, restart the driver, update the controller driver and my graphics card driver... I also tried to go wired, however the controller simply doesnt respond.. Any helps?<br>ps: I'm aware that there are other threads of the same topic, however no solutions worked and the threads are pretty old so i'm wondering if theres and new solutions to this, thanks!<br>PS: Solved! Thank you guys so much!	</div>
+		<div class="forum_audit">
+			Last edited by <a href="https://steamcommunity.com/id/URLRequired" class="hoverunderline">NameRequired</a>;
+		<span  title="November 20, 2017 @ 9:34:07 am PST" data-timestamp="1511199247">Nov 20, 2017 @ 9:34am</span>		</div></div>
+<div data-featuretarget="community-awards"></div>
+<script type="text/javascript">
+	$J( function() {
+		InitializeForumTopic( {"owner":"4459418","type":"General","feature":"0","gidforum":"540735426802665115","forum_display_name":"General Discussions","forum_url":"https:\/\/steamcommunity.com\/app\/208650\/discussions\/0\/","forum_search_url":"https:\/\/steamcommunity.com\/app\/208650\/discussions\/search\/","is_public":1,"permissions":{"can_view":1,"can_post":1,"can_reply":1,"is_banned":0,"can_delete":0,"can_edit":0},"appid":208650}, "https:\/\/steamcommunity.com\/forum\/4459418\/General\/",
+		"2425614539584144987", {"author":"NameRequired","text":"To clarify: I'm using the Dualshock 4 controller wirelessly, and am using the DS4Windows driver. Been working fine with other games such as darksouls 3.\nThe game seems to register the controller, giving me the option to start game with x button, and allowed me to change controls with the controller. However no button press seemed to work, however the touchpad on the controller is working.. I've tried to restart the controller, restart the game, restart the driver, update the controller driver and my graphics card driver... I also tried to go wired, however the controller simply doesnt respond.. Any helps?\nps: I'm aware that there are other threads of the same topic, however no solutions worked and the threads are pretty old so i'm wondering if theres and new solutions to this, thanks!\nPS: Solved! Thank you guys so much!"}		);
+			} );
+</script>
+										<script type="text/javascript">
+$J( function() { InitializeCommentThread( "ForumTopic", "ForumTopic_103582791433980826_540735426802665115_2425614539584144987", {"feature":"540735426802665115","feature2":"2425614539584144987","owner":"103582791433980826","total_count":17,"start":0,"pagesize":15,"has_upvoted":0,"upvotes":0,"votecountid":null,"voteupid":null,"commentcountid":null,"subscribed":false,"extended_data":"{\"topic_permissions\":{\"can_view\":1,\"can_post\":1,\"can_reply\":1,\"is_banned\":0,\"can_delete\":0,\"can_edit\":0},\"original_poster\":86603583,\"topic_gidanswer\":\"0\",\"forum_appid\":208650,\"forum_public\":1,\"forum_type\":\"General\",\"forum_gidfeature\":\"0\"}","oldestfirst":true,"comments_raw":{"2425614539584306520":{"text":"have you ticked the \"hide ds4\" option in ds4 windows? arkham knight has native ds4 support and it could be detecting your controller as 2 different devices.","author":"SenMithrarin85"},"2425614539587325383":{"text":"[quote=SenMithrarin85;2425614539584306520]have you ticked the \"hide ds4\" option in ds4 windows? arkham knight has native ds4 support and it could be detecting your controller as 2 different devices. [\/quote]\nJust tried it, works like a charm! Thanks a bunch man! (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!)","author":"NameRequired"},"2425614539588262984":{"text":"You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.\n\n[quote=NameRequired;2425614539587325383] (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) [\/quote]\n\nThat's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts.","author":"Buck"},"2425614539588437059":{"text":"[quote=Buck;2425614539588262984]You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.\n\n[quote=NameRequired;2425614539587325383] (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) [\/quote]\n\nThat's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts. [\/quote]\n\nI tried to delete DS4windows, however after i deleted it steam doesn't seem to recognise my DS4controlelr anymore... Went to big picture and then controller settings, tried to tick it on and off, restart my controller\/com\/steam and nothing seemed to work lol, i think i'll just stick to using DS4windows(i'm quite familiar with the xbox inputs anyways lol), Thanks a bunch for the help though!!","author":"NameRequired"},"2425614539588470885":{"text":"Wait! sorry my bad, apparently the controller was just disabled, went to device manager to find the driver and enablled it, now it works perfectly with steam, thanks so much!!","author":"NameRequired"},"2425614539589067185":{"text":"[quote=Buck;2425614539588262984]You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.\n\n[quote=NameRequired;2425614539587325383] (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) [\/quote]\n\nThat's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts. [\/quote]\n\nthats fine for USB, but if you want to use the pad wirelessly, steam afaik, has no way to monitor its battery.","author":"SenMithrarin85"},"2425614539589293502":{"text":"[quote=SenMithrarin85;2425614539589067185]\nthats fine for USB, but if you want to use the pad wirelessly, steam afaik, has no way to monitor its battery. [\/quote]\n\nThat's the only way to get the correct DS4 button prompts. \n\n","author":"Buck"},"1488866180609017572":{"text":"Guys I'm not using ds4win or anything, It's just my dualshock controller connected to PC with USB. The game detects it and says press X to start but it doesn't work. However you can go to the menu if you press the PS button and R1 but then you can't choose a savegame. My dualshock works fine with Hitman.\nEdit.: I'm now trying with InputMapper and it works but Xbox prompts are shown...","author":"Sourenics"},"1488866180611485592":{"text":"[quote=Sourenics;1488866180609017572]Guys I'm not using ds4win or anything, It's just my dualshock controller connected to PC with USB. The game detects it and says press X to start but it doesn't work. However you can go to the menu if you press the PS button and R1 but then you can't choose a savegame. My dualshock works fine with Hitman.\nEdit.: I'm now trying with InputMapper and it works but Xbox prompts are shown... [\/quote]\nThe same occured to me when I was playing assassins creed yesterday, the X button is registered as the triangle(y on ps4 controller), and every time i tried to load the save it tries to delete it. Had to install back ds4 for it to actually work, but it had troubles here and there still, I Guess there\u2019s no way out of that lol","author":"NameRequired"},"1488866180617168618":{"text":"The thing is the game show the PS prompts but doesn't respond. And it worked before! I remember playing the game one or two months before with the controller perfectly...","author":"Sourenics"},"3554966358206161619":{"text":"I'm having the same problem, but I got my game from epic games' store. Don't know if it makes much of a difference, but none of the ideas people wrote here hepled me","author":"Ken Adams"},"3004423845041049057":{"text":"also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off","author":"MiniGinni"},"3004423845042067649":{"text":"[quote=MiniGinni;3004423845041049057]also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off [\/quote]\nto be honest.. i switched to a xbox controller haha\nalso haven't touched batman series in ages, so am not too sure if they changed anything with regards to this.","author":"NameRequired"},"3106892150623521863":{"text":"[quote=MiniGinni;3004423845041049057]also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off [\/quote]\n\nI too was having this issue. i checked the hide button. didnt work. then unchecked it after closing the game. went into Steam -> Settings -> Controller -> General and noticed the boxes were unchecked. Only the Guide Button Focuses Steam was checked. checked Playstation Config Support, and also Generic Gamepad Config Support. started game. worked fine. hope this helps. (DS4 was still running too, never turned it off). Edit: also i never use big picture mode if this helps.","author":"Darco"},"3103515084615637809":{"text":"[quote=MiniGinni;3004423845041049057]also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off [\/quote]Worth noting that by default, Arkham Knight is only compatible with original DualShock 4 controllers, if you are using a v2 DS4 controller or the DualSense, you will have to use Steam or DS4Windows to make the game see an Xbox controller.","author":"Charlie"}},"track_navigation":true}, 'https://steamcommunity.com/comment/ForumTopic/', 40 ); } );
+</script>
+<div class="commentthread_area forumtopic_comments" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_area">
+	        <div id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagectn" class="forum_paging" style="">
+            <div class="forum_paging_controls" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagecontrols">
+                <a href="javascript:void(0);" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagebtn_prev" class="pagebtn">&lt;</a>
+                <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagelinks" class="commentthread_pagelinks"></span>
+                <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagedropdown" class="commentthread_pagedropdown"></span>
+                <a href="javascript:void(0);" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagebtn_next" class="pagebtn">&gt;</a>
+            </div>
+            <div class="forum_paging_summary ellipsis">
+                Showing <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagestart">1</span>-<span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pageend">15</span> of <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_pagetotal">17</span> comments            </div>
+            <div style="clear: both;"></div>
+        </div>
+        	<div class="commentthread_comment_container" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_postcontainer">
+		<div data-panel="{&quot;noFocusRing&quot;:true}" class="commentthread_comments" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_posts">
+					
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539584306520" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198045525165" data-miniprofile="85259437">
+									<img src="https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e.jpg" srcset="https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e.jpg 1x, https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198045525165" onclick="return Forum_AuthorMenu( this, 85259437, '2425614539584306520' );" data-miniprofile="85259437">
+					<bdi>SenMithrarin85<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_85259437_2425614539584306520" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198045525165">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198045525165/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 19, 2017 @ 7:53:12 am PST" data-timestamp="1511106792">
+					Nov 19, 2017 @ 7:53am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539584306520"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539584306520">
+				have you ticked the &quot;hide ds4&quot; option in ds4 windows? arkham knight has native ds4 support and it could be detecting your controller as 2 different devices.			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539584306520">#1</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539587325383" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/URLRequired" data-miniprofile="86603583">
+									<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" srcset="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg 1x, https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, '2425614539587325383' );" data-miniprofile="86603583">
+					<bdi>NameRequired<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_86603583_2425614539587325383" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 2:34:38 am PST" data-timestamp="1511174078">
+					Nov 20, 2017 @ 2:34am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539587325383"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539587325383">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539584306520">SenMithrarin85</a></b>:</div>have you ticked the &quot;hide ds4&quot; option in ds4 windows? arkham knight has native ds4 support and it could be detecting your controller as 2 different devices. </blockquote>Just tried it, works like a charm! Thanks a bunch man! (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!)			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539587325383">#2</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539588262984" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+						<a href="https://steamcommunity.com/id/BuckALE" data-miniprofile="10240628">
+									<img src="https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6.jpg" srcset="https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6.jpg 1x, https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/BuckALE" onclick="return Forum_AuthorMenu( this, 10240628, '2425614539588262984' );" data-miniprofile="10240628">
+					<bdi>Buck<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_10240628_2425614539588262984" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/BuckALE">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/BuckALE/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 8:19:33 am PST" data-timestamp="1511194773">
+					Nov 20, 2017 @ 8:19am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539588262984"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539588262984">
+				You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.<br><br><blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539587325383">NameRequired</a></b>:</div> (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) </blockquote><br>That's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts.			</div>
+							<div class="forum_audit">
+			Last edited by <a href="https://steamcommunity.com/id/BuckALE" class="hoverunderline">Buck</a>;
+		<span  title="November 20, 2017 @ 8:20:27 am PST" data-timestamp="1511194827">Nov 20, 2017 @ 8:20am</span>		</div>								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539588262984">#3</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539588437059" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/URLRequired" data-miniprofile="86603583">
+									<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" srcset="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg 1x, https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, '2425614539588437059' );" data-miniprofile="86603583">
+					<bdi>NameRequired<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_86603583_2425614539588437059" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 9:21:35 am PST" data-timestamp="1511198495">
+					Nov 20, 2017 @ 9:21am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539588437059"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539588437059">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539588262984">Buck</a></b>:</div>You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.<br><br><blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539587325383">NameRequired</a></b>:</div> (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) </blockquote><br>That's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts. </blockquote><br>I tried to delete DS4windows, however after i deleted it steam doesn't seem to recognise my DS4controlelr anymore... Went to big picture and then controller settings, tried to tick it on and off, restart my controller/com/steam and nothing seemed to work lol, i think i'll just stick to using DS4windows(i'm quite familiar with the xbox inputs anyways lol), Thanks a bunch for the help though!!			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539588437059">#4</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539588470885" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/URLRequired" data-miniprofile="86603583">
+									<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" srcset="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg 1x, https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, '2425614539588470885' );" data-miniprofile="86603583">
+					<bdi>NameRequired<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_86603583_2425614539588470885" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 9:33:38 am PST" data-timestamp="1511199218">
+					Nov 20, 2017 @ 9:33am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539588470885"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539588470885">
+				Wait! sorry my bad, apparently the controller was just disabled, went to device manager to find the driver and enablled it, now it works perfectly with steam, thanks so much!!			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539588470885">#5</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539589067185" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198045525165" data-miniprofile="85259437">
+									<img src="https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e.jpg" srcset="https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e.jpg 1x, https://avatars.cloudflare.steamstatic.com/715f99949f13930916bf6fbec1ad02ca7ef64c0e_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198045525165" onclick="return Forum_AuthorMenu( this, 85259437, '2425614539589067185' );" data-miniprofile="85259437">
+					<bdi>SenMithrarin85<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_85259437_2425614539589067185" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198045525165">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198045525165/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 1:06:06 pm PST" data-timestamp="1511211966">
+					Nov 20, 2017 @ 1:06pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539589067185"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539589067185">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539588262984">Buck</a></b>:</div>You shouldn't need to use DS4Win, just uncheck DS4 support in Steam and it will detect and treat the controller as a DS4 including giving you the right prompts instead of an emulated Xbox controller.<br><br><blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539587325383">NameRequired</a></b>:</div> (although for some weird reason it also identifies the dualshock as xbox one controller, but it still worked as per nomal, thanks!) </blockquote><br>That's normal. DS4Win is an Xinput wrapper, which means as far as the PC and games are concerned it's an Xbox controller and thus, gives you those prompts. </blockquote><br>thats fine for USB, but if you want to use the pad wirelessly, steam afaik, has no way to monitor its battery.			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539589067185">#6</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_2425614539589293502" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+						<a href="https://steamcommunity.com/id/BuckALE" data-miniprofile="10240628">
+									<img src="https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6.jpg" srcset="https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6.jpg 1x, https://avatars.cloudflare.steamstatic.com/287bf8ce73b7301565d7d7b43d2ff02e93b4d7b6_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/BuckALE" onclick="return Forum_AuthorMenu( this, 10240628, '2425614539589293502' );" data-miniprofile="10240628">
+					<bdi>Buck<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_10240628_2425614539589293502" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/BuckALE">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/BuckALE/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 20, 2017 @ 2:29:02 pm PST" data-timestamp="1511216942">
+					Nov 20, 2017 @ 2:29pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_2425614539589293502"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_2425614539589293502">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c2425614539589067185">SenMithrarin85</a></b>:</div>thats fine for USB, but if you want to use the pad wirelessly, steam afaik, has no way to monitor its battery. </blockquote><br>That's the only way to get the correct DS4 button prompts. <br><br>			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c2425614539589293502">#7</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_1488866180609017572" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198058394889" data-miniprofile="98129161">
+									<img src="https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8.jpg" srcset="https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8.jpg 1x, https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198058394889" onclick="return Forum_AuthorMenu( this, 98129161, '1488866180609017572' );" data-miniprofile="98129161">
+					<bdi>Sourenics<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_98129161_1488866180609017572" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198058394889">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198058394889/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 26, 2017 @ 10:07:46 am PST" data-timestamp="1511719666">
+					Nov 26, 2017 @ 10:07am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_1488866180609017572"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_1488866180609017572">
+				Guys I'm not using ds4win or anything, It's just my dualshock controller connected to PC with USB. The game detects it and says press X to start but it doesn't work. However you can go to the menu if you press the PS button and R1 but then you can't choose a savegame. My dualshock works fine with Hitman.<br>Edit.: I'm now trying with InputMapper and it works but Xbox prompts are shown...			</div>
+							<div class="forum_audit">
+			Last edited by <a href="https://steamcommunity.com/profiles/76561198058394889" class="hoverunderline">Sourenics</a>;
+		<span  title="November 26, 2017 @ 10:21:02 am PST" data-timestamp="1511720462">Nov 26, 2017 @ 10:21am</span>		</div>								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c1488866180609017572">#8</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_1488866180611485592" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/URLRequired" data-miniprofile="86603583">
+									<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" srcset="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg 1x, https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, '1488866180611485592' );" data-miniprofile="86603583">
+					<bdi>NameRequired<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_86603583_1488866180611485592" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 27, 2017 @ 1:25:03 am PST" data-timestamp="1511774703">
+					Nov 27, 2017 @ 1:25am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_1488866180611485592"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_1488866180611485592">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c1488866180609017572">Sourenics</a></b>:</div>Guys I'm not using ds4win or anything, It's just my dualshock controller connected to PC with USB. The game detects it and says press X to start but it doesn't work. However you can go to the menu if you press the PS button and R1 but then you can't choose a savegame. My dualshock works fine with Hitman.<br>Edit.: I'm now trying with InputMapper and it works but Xbox prompts are shown... </blockquote>The same occured to me when I was playing assassins creed yesterday, the X button is registered as the triangle(y on ps4 controller), and every time i tried to load the save it tries to delete it. Had to install back ds4 for it to actually work, but it had troubles here and there still, I Guess there’s no way out of that lol			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c1488866180611485592">#9</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_1488866180617168618" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198058394889" data-miniprofile="98129161">
+									<img src="https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8.jpg" srcset="https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8.jpg 1x, https://avatars.cloudflare.steamstatic.com/0b2febdead253dbeed26c68930af541034d003d8_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198058394889" onclick="return Forum_AuthorMenu( this, 98129161, '1488866180617168618' );" data-miniprofile="98129161">
+					<bdi>Sourenics<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_98129161_1488866180617168618" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198058394889">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198058394889/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="November 28, 2017 @ 12:07:14 pm PST" data-timestamp="1511899634">
+					Nov 28, 2017 @ 12:07pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_1488866180617168618"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_1488866180617168618">
+				The thing is the game show the PS prompts but doesn't respond. And it worked before! I remember playing the game one or two months before with the controller perfectly...			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c1488866180617168618">#10</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_3554966358206161619" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198281983604" data-miniprofile="321717876">
+									<img src="https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg" srcset="https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg 1x, https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198281983604" onclick="return Forum_AuthorMenu( this, 321717876, '3554966358206161619' );" data-miniprofile="321717876">
+					<bdi>Ken Adams<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_321717876_3554966358206161619" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198281983604">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198281983604/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="February 16, 2020 @ 9:39:02 am PST" data-timestamp="1581874742">
+					Feb 16, 2020 @ 9:39am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_3554966358206161619"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_3554966358206161619">
+				I'm having the same problem, but I got my game from epic games' store. Don't know if it makes much of a difference, but none of the ideas people wrote here hepled me			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c3554966358206161619">#11</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_3004423845041049057" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/miniginni" data-miniprofile="202500043">
+									<img src="https://avatars.cloudflare.steamstatic.com/19dcbfbac7bb52b476d3d5569eca8f012d05b21b.jpg" srcset="https://avatars.cloudflare.steamstatic.com/19dcbfbac7bb52b476d3d5569eca8f012d05b21b.jpg 1x, https://avatars.cloudflare.steamstatic.com/19dcbfbac7bb52b476d3d5569eca8f012d05b21b_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/miniginni" onclick="return Forum_AuthorMenu( this, 202500043, '3004423845041049057' );" data-miniprofile="202500043">
+					<bdi>MiniGinni<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_202500043_3004423845041049057" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/miniginni">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/miniginni/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="October 26, 2020 @ 6:16:52 pm PST" data-timestamp="1603761412">
+					Oct 26, 2020 @ 6:16pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_3004423845041049057"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_3004423845041049057">
+				also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c3004423845041049057">#12</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_3004423845042067649" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/id/URLRequired" data-miniprofile="86603583">
+									<img src="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg" srcset="https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974.jpg 1x, https://avatars.cloudflare.steamstatic.com/e5a72b6c1ef5b1771e10961a636fecaddb0e8974_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/URLRequired" onclick="return Forum_AuthorMenu( this, 86603583, '3004423845042067649' );" data-miniprofile="86603583">
+					<bdi>NameRequired<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_86603583_3004423845042067649" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/URLRequired/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="October 27, 2020 @ 1:00:24 am PST" data-timestamp="1603785624">
+					Oct 27, 2020 @ 1:00am&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_3004423845042067649"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_3004423845042067649">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c3004423845041049057">MiniGinni</a></b>:</div>also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off </blockquote>to be honest.. i switched to a xbox controller haha<br>also haven't touched batman series in ages, so am not too sure if they changed anything with regards to this.			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c3004423845042067649">#13</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_3106892150623521863" style="">
+				<div class="commentthread_comment_avatar playerAvatar offline">
+						<a href="https://steamcommunity.com/profiles/76561198220340113" data-miniprofile="260074385">
+									<img src="https://avatars.cloudflare.steamstatic.com/5b8c77aeed6c521508014d3277a3a12d8a68538c.jpg" srcset="https://avatars.cloudflare.steamstatic.com/5b8c77aeed6c521508014d3277a3a12d8a68538c.jpg 1x, https://avatars.cloudflare.steamstatic.com/5b8c77aeed6c521508014d3277a3a12d8a68538c_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/profiles/76561198220340113" onclick="return Forum_AuthorMenu( this, 260074385, '3106892150623521863' );" data-miniprofile="260074385">
+					<bdi>Darco<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_260074385_3106892150623521863" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198220340113">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/profiles/76561198220340113/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="March 1, 2021 @ 2:07:19 pm PST" data-timestamp="1614636439">
+					Mar 1, 2021 @ 2:07pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_3106892150623521863"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_3106892150623521863">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c3004423845041049057">MiniGinni</a></b>:</div>also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off </blockquote><br>I too was having this issue. i checked the hide button. didnt work. then unchecked it after closing the game. went into Steam -&gt; Settings -&gt; Controller -&gt; General and noticed the boxes were unchecked. Only the Guide Button Focuses Steam was checked. checked Playstation Config Support, and also Generic Gamepad Config Support. started game. worked fine. hope this helps. (DS4 was still running too, never turned it off). Edit: also i never use big picture mode if this helps.			</div>
+							<div class="forum_audit">
+			Last edited by <a href="https://steamcommunity.com/profiles/76561198220340113" class="hoverunderline">Darco</a>;
+		<span  title="March 1, 2021 @ 2:10:27 pm PST" data-timestamp="1614636627">Mar 1, 2021 @ 2:10pm</span>		</div>								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c3106892150623521863">#14</a>
+			</div>
+			</div>
+		
+	
+	<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;,&quot;type&quot;:&quot;PanelGroup&quot;}" class="commentthread_comment responsive_body_text   " id="comment_3103515084615637809" style="">
+				<div class="commentthread_comment_avatar playerAvatar online">
+						<a href="https://steamcommunity.com/id/GhostMotley" data-miniprofile="121498389">
+									<img src="https://avatars.cloudflare.steamstatic.com/2e90a6ea80ed340b85bc37fdeec26f892c006569.jpg" srcset="https://avatars.cloudflare.steamstatic.com/2e90a6ea80ed340b85bc37fdeec26f892c006569.jpg 1x, https://avatars.cloudflare.steamstatic.com/2e90a6ea80ed340b85bc37fdeec26f892c006569_medium.jpg 2x">							</a>
+		</div>
+		<div class="commentthread_comment_content">
+			<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="commentthread_comment_author">
+				<a class="hoverunderline commentthread_author_link " href="https://steamcommunity.com/id/GhostMotley" onclick="return Forum_AuthorMenu( this, 121498389, '3103515084615637809' );" data-miniprofile="121498389">
+					<bdi>Charlie<span class="forum_author_action_pulldown"></span></bdi></a>
+
+											<div id="author_menu_121498389_3103515084615637809" class="popup_block_new forum_author_menu" style="display: none;">
+			<div class="popup_body popup_menu">
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/GhostMotley">View Profile</a>
+				<a class="popup_menu_item tight" href="https://steamcommunity.com/id/GhostMotley/posthistory/">View Posts</a>
+											</div>
+		</div>
+						
+				<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconGames.png" style="position: relative; top: 2px;" title="has Batman™: Arkham Knight">
+				
+				
+				
+				<span class="commentthread_comment_timestamp" title="March 2, 2021 @ 5:09:23 pm PST" data-timestamp="1614733763">
+					Mar 2, 2021 @ 5:09pm&nbsp;
+				</span>
+				<div data-panel="{&quot;flow-children&quot;:&quot;row&quot;}" class="community_award_ctn" id="community_awards_comment_3103515084615637809"></div>				<div class="commentthread_comment_actions" >
+									</div>
+			</div>
+			<div class="commentthread_comment_text" id="comment_content_3103515084615637809">
+				<blockquote class="bb_blockquote with_author"><div class="bb_quoteauthor">Originally posted by <b><a href="#c3004423845041049057">MiniGinni</a></b>:</div>also having this problem but nothing works, regardless of if I have the controller hidden or ds4 off altogether, or if I have the steam settings in the big picture turned on or off </blockquote>Worth noting that by default, Arkham Knight is only compatible with original DualShock 4 controllers, if you are using a v2 DS4 controller or the DualSense, you will have to use Steam or DS4Windows to make the game see an Xbox controller.			</div>
+								</div>
+					<div class="forum_comment_permlink">
+								<a data-panel="{&quot;focusable&quot;:false}" href="#c3103515084615637809">#15</a>
+			</div>
+			</div>
+		</div>
+	</div>
+	        <div id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagectn" class="forum_paging" style="">
+            <div class="forum_paging_controls" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagecontrols">
+                <a href="javascript:void(0);" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagebtn_prev" class="pagebtn">&lt;</a>
+                <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagelinks" class="commentthread_pagelinks"></span>
+                <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagedropdown" class="commentthread_pagedropdown"></span>
+                <a href="javascript:void(0);" id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagebtn_next" class="pagebtn">&gt;</a>
+            </div>
+            <div class="forum_paging_summary ellipsis">
+                Showing <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagestart">1</span>-<span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpageend">15</span> of <span id="commentthread_ForumTopic_103582791433980826_540735426802665115_2425614539584144987_fpagetotal">17</span> comments            </div>
+            <div style="clear: both;"></div>
+        </div>
+        			<div class="commentthread_pagination_ctn" style="float: right;">
+			<div class="forum_pagesize_options topic_replies">Per page: <span class="commentthread_pagination_link">15</span><a class="whiteLink commentthread_pagination_link" href="javascript:Forum_SetTopicRepliesPerPage( 30 );">30</a> <a class="whiteLink commentthread_pagination_link" href="javascript:Forum_SetTopicRepliesPerPage( 50 );">50</a> </div>		</div>
+		<br clear="both">
+			<div style="clear: right;"></div>
+</div>					
+					<div class="bottom_breadcrumbs">
+						<div class="forum_breadcrumbs group_content_bodytext breadcrumbs">
+							<a data-panel="{&quot;noFocusRing&quot;:true}" href="https://steamcommunity.com/app/208650">Batman™: Arkham Knight</a> <span class="breadcrumb_separator">&gt;</span>
+							<a data-panel="{&quot;noFocusRing&quot;:true}" href="https://steamcommunity.com/app/208650/discussions/0/">General Discussions</a> <span class="breadcrumb_separator">&gt;</span>
+							<span class="breadcrumb_current_page">Topic Details</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="rightcol responsive_local_menu">
+					<div class="rightbox_header"></div>
+					<div class="rightbox">
+						<div class="content">
+							<div class="topicstats"><span class="topicstats_label">Date Posted:</span> <span class="topicstats_value">Nov 19, 2017 @ 6:55am</span></div><div class="topicstats"><span class="topicstats_label">Posts:</span> <span class="topicstats_value">17</span></div>						</div>
+
+
+													
+													
+					</div>
+					<div class="rightbox_footer"></div>
+
+
+											<form class="" method="GET" name="DiscussionSearchForm" id="DiscussionSearchForm" action="https://steamcommunity.com/app/208650/discussions/search/" >
+							<div class="discussionSearchTextContainer">
+																<input type="hidden" name="gidtopic" value="2425614539584144987">
+								<input class="discussionSearchText searchText" type="text" name="q" value="" placeholder="Search this topic">
+								<img onclick="$('DiscussionSearchForm').submit()" class="discussionSearchTextSubmitImg" src="https://community.cloudflare.steamstatic.com/public/images/sharedfiles/searchbox_workshop_submit.gif" width="23" height="18" border="0">
+							</div>
+						</form>
+						<br>
+
+						<div class="rightbox_header"></div>
+						<div class="rightbox rules">
+							<div class="content">
+								<div class="weblink"><a href="https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810" target="_blank" rel="" ><img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/iconRules.png"> Discussions Rules and Guidelines</a></div>
+															</div>
+						</div>
+						<div class="rightbox_footer"></div>
+					
+
+					
+											
+						
+												<div class=""></div>
+						<div class="">
+							<div class="rightSectionTopTitle">More discussions</div>
+														<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" class="forum_topic forum_topic_mini  unread">
+								<div class="forum_topic_details">
+									<div class="forum_topic_reply_count" title="6 replies">
+										<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/comment_quoteicon.png"> 6									</div>
+								</div>
+								<div class="forum_topic_name" title="I was collecting riddles in Stagg air ship when I suddenly got stuck in animation while trying to enter a door. Restarting the game I'd be on the other side stuck in a walking animation with several enemies shooting me, dying meant my game crashed. After a few times I managed to escape, beat the militia, got my riddles and saw I had a quest here to talk with stagg who had escaped. Then when I got outside suddenly my batmobile didn't work (disabled by the cloudburst) and I thought &quot;hmm weird, I haven't cont">
+									<a href="https://steamcommunity.com/app/208650/discussions/0/3395175706734902220/">
+										Corrupt savefile by incorrect quest sequence									</a>
+								</div>
+							</div>
+														<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" class="forum_topic forum_topic_mini  unread">
+								<div class="forum_topic_details">
+									<div class="forum_topic_reply_count" title="5 replies">
+										<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/comment_quoteicon.png"> 5									</div>
+								</div>
+								<div class="forum_topic_name" title="Hello,
+
+I would like if someone could clarify this as I did obtain flawless free flow combos with all the listed characters and at the end having the 'Arkham Knight' bonus as well. The first time I did this - the achievement did not register. I thought to myself that perhaps I slipped with one of the characters and decided to do the run once again in one go so as to not lose track.
+
+I for sure did it flawlessly and it still doesn't register. Perhaps there are people who could prove me wrong by getting the ">
+									<a href="https://steamcommunity.com/app/208650/discussions/0/3370405530907139605/">
+										&quot;The Curtain Falls&quot; achievement bugged?									</a>
+								</div>
+							</div>
+														<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" class="forum_topic forum_topic_mini  unread">
+								<div class="forum_topic_details">
+									<div class="forum_topic_reply_count" title="14 replies">
+										<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/comment_quoteicon.png"> 14									</div>
+								</div>
+								<div class="forum_topic_name" title="What are the crucial skills to build? Can you get them all? Can you respec?">
+									<a href="https://steamcommunity.com/app/208650/discussions/0/3370405530906176533/">
+										Good skill builds?									</a>
+								</div>
+							</div>
+														<div data-panel="{&quot;clickOnActivate&quot;:&quot;firstChild&quot;}" class="forum_topic forum_topic_mini  unread">
+								<div class="forum_topic_details">
+									<div class="forum_topic_reply_count" title="14 replies">
+										<img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/comment_quoteicon.png"> 14									</div>
+								</div>
+								<div class="forum_topic_name" title="If there isn't an option to save your game manually who is the moron developer who thought that was a good idea? Or why doesn't it save on exit? It's just nonsense.">
+									<a href="https://steamcommunity.com/app/208650/discussions/0/3370405530894369931/">
+										How to manual save?									</a>
+								</div>
+							</div>
+													</div>
+						<div class=""></div>
+											
+
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+	</div>
+
+	</div>
+</div>
+
+<div id="forum_modal" class="modal_frame" style="display:none;">
+	<div class="modal_top_band">
+		<div class="modal_close"><a href="javascript:hideModal( 'forum_modal' )"><img src="https://community.cloudflare.steamstatic.com/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+	</div>
+	<div class="modal_box">
+		<div class="modal_box_ctn">
+				</div>
+	</div>
+</div>
+
+	<div id="report_modal_content" style="display: none;">
+		<h2><img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/notification_icon_flag.png"> Report this post</h2>
+		<div class="forum_newtopic_header">REASON</div>
+		<form id="forum_reportpost_form">
+			<input type="hidden" name="sessionid" value="d6e2d3eef110898059e7b95b">
+			<input type="hidden" name="author" value="">
+			<input type="hidden" name="gidcomment" value="">
+			<input type="hidden" name="gidtopic" value="">
+
+			<div class="gray_bevel">
+				<textarea rows="3" cols="40" class="forumtopic_reply_textarea" name="report_reason" id="forum_report_reason"></textarea>
+			</div>
+		</form>
+		<div class="forum_report_instructions">Note: This is ONLY to be used to report spam, advertising, and problematic (harassment, fighting, or rude) posts.</div>
+	</div>
+<div id="modalBG" style="display: none;"></div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+				<script>
+			RecordAppImpression( 208650, '2_9_100006_100202' );
+		</script>
+			<div id="footer_spacer" class=""></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+					<div class="footer_content">
+				<span id="footerLogo"><img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+				<span id="footerText">
+					&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel=" noopener">geonames.org</a>.					<br>
+											<span class="valve_links">
+							<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+							&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+							&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+                            &nbsp;| &nbsp;<a href="http://store.steampowered.com/account/cookiepreferences/" target="_blank">Cookies</a>
+						</span>
+									</span>
+			</div>
+							<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>
