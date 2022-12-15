@@ -17,7 +17,7 @@
         }
       ],
 
-    "permissions":["storage","tabs"],
+    "permissions":["storage","tabs","activeTab","scripting"],
 
 
     "action":{
