@@ -1,0 +1,840 @@
+
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en-US"
+	prefix="og: https://ogp.me/ns#" >
+<head itemscope itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<!--iOS/android/handheld specific -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta itemprop="name" content="Uc Logics" />
+    <meta itemprop="url" content="https://uclogics.com" />
+    	<link rel="pingback" href="https://uclogics.com/xmlrpc.php" />
+	<title>Uc Logics - Logics that you never understand</title>
+
+		<!-- All in One SEO 4.2.2 -->
+		<meta name="description" content="Logics that you never understand" />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://uclogics.com/" />
+		<link rel="next" href="https://uclogics.com/page/2/" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Uc Logics - Logics that you never understand" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Uc Logics - Logics that you never understand" />
+		<meta property="og:description" content="Logics that you never understand" />
+		<meta property="og:url" content="https://uclogics.com/" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Uc Logics - Logics that you never understand" />
+		<meta name="twitter:description" content="Logics that you never understand" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/uclogics.com\/#website","url":"https:\/\/uclogics.com\/","name":"Uc Logics","description":"Logics that you never understand","inLanguage":"en-US","publisher":{"@id":"https:\/\/uclogics.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/uclogics.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"https:\/\/uclogics.com\/#organization","name":"Uc Logics","url":"https:\/\/uclogics.com\/"},{"@type":"BreadcrumbList","@id":"https:\/\/uclogics.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/uclogics.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/uclogics.com\/","name":"Home","description":"Logics that you never understand","url":"https:\/\/uclogics.com\/"}}]},{"@type":"CollectionPage","@id":"https:\/\/uclogics.com\/#collectionpage","url":"https:\/\/uclogics.com\/","name":"Uc Logics - Logics that you never understand","description":"Logics that you never understand","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/uclogics.com\/#website"},"breadcrumb":{"@id":"https:\/\/uclogics.com\/#breadcrumblist"},"about":{"@id":"https:\/\/uclogics.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script><link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Uc Logics &raquo; Feed" href="https://uclogics.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Uc Logics &raquo; Comments Feed" href="https://uclogics.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.18.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No UA code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/uclogics.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='tnado_hidefi_styles-css' href='https://uclogics.com/wp-content/plugins/hide-featured-image-on-all-single-pagepost//tnado-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://uclogics.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css' href='https://uclogics.com/wp-content/themes/mts_wordx/style.css' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+
+        body { background-color:#ffffff; background-image: url( https://uclogics.com/wp-content/themes/mts_wordx/images/nobg.png ); }
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #1e5078; }
+        .postauthor h5, .single_post a:not(.wp-block-button__link):not(.wp-block-file__button), .textwidget a, .pnavigation2 a, #sidebar a:hover, .related-posts a:hover, #comments h4 span, .reply a, .featured-view-posts .latestPost .title a:hover, .primary-navigation .wpmm-megamenu-showing.wpmm-light-scheme, .title a:hover, .post-info a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .related-posts .title a:hover, .fn a, a, a:hover, #comments .post-info .theauthor a:hover { color:#1e5078; }
+        a#pull, .widget h3 span:after, .related-posts h4:before, #comments h4:before, #commentsAdd h4:before, .postauthor h4:before, .pagination ul li a, #commentform input#submit, .contact-form input[type='submit'], .pagination a, #tabber ul.tabs li a.selected, #searchsubmit, .latestPost .latestPost-review-wrapper, #wpmm-megamenu .review-total-only, .owl-theme .owl-nav div, .latestPost .review-type-circle.review-total-only, .latestPost .review-type-circle.wp-review-show-total, .widget .review-total-only.small-thumb { background-color:#1e5078; color: #fff!important; }
+        #site-header { background: #1e5078; }
+        #primary-navigation ul ul li a, #primary-navigation ul ul ul li a { color:#1e5078 !important; }
+        .navigation ul ul { border-bottom: 4px solid #1e5078 !important; }
+        .post-type-1 .thecategory, .related-posts .thecategory, .post-type .latestPost .thecategory, .pagination .current, .pagination a:hover, #move-to-top, .tagcloud a:hover { background-color:#fcba55; }
+        .widget .wpt_widget_content .tab_title.selected a, .widget .wp_review_tab_widget_content .tab_title.selected a, .widget .wp_review_tab_widget_content .has-4-tabs .tab_title.selected a, .widget .wpt_widget_content .has-4-tabs .tab_title.selected a { border-bottom: 1px solid #1e5078; }
+        #site-footer { background: #1E5078;}
+        
+        .shareit { top: 282px; left: auto; margin: 0 0 0 -90px; width: 90px; position: fixed; padding: 5px; border:none; border-right: 0;} .share-item {margin: 2px;}
+        
+        .bypostauthor .comment-text-wrap { background: #E3E3E3; } .bypostauthor:after { content: "Author"; position: absolute; right: 0; top: 0; padding: 1px 10px; background: #818181; color: #FFF; } .bypostauthor.comment .comment-text-wrap:before { border-color: rgba(0, 0, 0, 0) #E3E3E3; }
+        
+        
+        
+    
+</style>
+<link rel='stylesheet' id='fontawesome-css' href='https://uclogics.com/wp-content/themes/mts_wordx/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/11.1.2/css/jetpack.css' type='text/css' media='all' />
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/uclogics.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/uclogics.com\/wp-json\/wordpress-popular-posts","ID":0,"token":"8f72cf5f5b","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://uclogics.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js' id='wpp-js-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='customscript-js-extra'>
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"primary"};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='https://uclogics.com/wp-content/themes/mts_wordx/js/customscript.js' id='customscript-js'></script>
+<link rel="https://api.w.org/" href="https://uclogics.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uclogics.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://uclogics.com/wp-includes/wlwmanifest.xml" />
+<!--Theme by MyThemeShop.com-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116471897-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116471897-8');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8214211897739890"
+     crossorigin="anonymous"></script>
+<meta name="google-site-verification" content="SE4phBwABBislo0xnDsaTBn95HU7sI_2AbVwOlLxPV8" />
+<meta name="msvalidate.01" content="24E5C0AA66ECC94C115E5C294388B8B6" />        <style>
+            @-webkit-keyframes bgslide {
+                from {
+                    background-position-x: 0;
+                }
+                to {
+                    background-position-x: -200%;
+                }
+            }
+
+            @keyframes bgslide {
+                    from {
+                        background-position-x: 0;
+                    }
+                    to {
+                        background-position-x: -200%;
+                    }
+            }
+
+            .wpp-widget-placeholder {
+                margin: 0 auto;
+                width: 60px;
+                height: 3px;
+                background: #dd3737;
+                background: -webkit-gradient(linear, left top, right top, from(#dd3737), color-stop(10%, #571313), to(#dd3737));
+                background: linear-gradient(90deg, #dd3737 0%, #571313 10%, #dd3737 100%);
+                background-size: 200% auto;
+                border-radius: 3px;
+                -webkit-animation: bgslide 1s infinite linear;
+                animation: bgslide 1s infinite linear;
+            }
+        </style>
+        <style>img#wpstats{display:none}</style>
+	<link href="//fonts.googleapis.com/css?family=Cambay:400|Cambay:700|Cabin:normal|Cambay:normal&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#primary-navigation a, .header-social a { font-family: 'Cambay'; font-weight: 400; font-size: 14px; color: #c1c9d1; }
+.latestPost .title { font-family: 'Cambay'; font-weight: 700; font-size: 24px; color: #333333; }
+.single-title { font-family: 'Cambay'; font-weight: 700; font-size: 36px; color: #333333; }
+body { font-family: 'Cabin'; font-weight: normal; font-size: 17px; color: #666666; }
+#sidebar .widget .widget-title { font-family: 'Cambay'; font-weight: 700; font-size: 24px; color: #999; }
+#sidebar .widget { font-family: 'Cambay'; font-weight: normal; font-size: 16px; color: #666; }
+.f-widget { font-family: 'Cambay'; font-weight: normal; font-size: 16px; color: #C1C9D1; }
+h1 { font-family: 'Cambay'; font-weight: 700; font-size: 36px; color: #333333; }
+h2 { font-family: 'Cambay'; font-weight: 700; font-size: 32px; color: #333333; }
+h3 { font-family: 'Cambay'; font-weight: 700; font-size: 28px; color: #333333; }
+h4 { font-family: 'Cambay'; font-weight: 700; font-size: 26px; color: #333333; }
+h5 { font-family: 'Cambay'; font-weight: 700; font-size: 24px; color: #333333; }
+h6 { font-family: 'Cambay'; font-weight: 700; font-size: 20px; color: #333333; }
+</style>
+</head>
+<body id="blog" class="home blog main" itemscope itemtype="http://schema.org/WebPage">       
+	<div class="main-container">
+		<header id="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																					<h1 id="logo" class="text-logo" itemprop="headline">
+									<a href="https://uclogics.com">Uc Logics</a>
+								</h1><!-- END #logo -->
+														<div class="site-description" itemprop="description">
+								Logics that you never understand							</div>
+											</div>
+
+								    		<div id="primary-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+							<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+							<nav class="navigation clearfix  mobile-menu-wrapper">
+																	<ul id="menu-new" class="menu clearfix"><li id="menu-item-406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406"><a href="https://uclogics.com/category/blogs/">Blogs</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-407"><a href="https://uclogics.com/category/top-100/">Top 100</a></li>
+<li id="menu-item-411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-411"><a href="https://uclogics.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://uclogics.com/contact-us/">Contact us</a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://uclogics.com/privacy-policy/">Privacy Policy</a></li>
+</ul>															</nav>
+			        	</div>
+					
+					<div class="search-style-one">
+	              		<a id="trigger-overlay">
+	                  		<i class="fa fa-search"></i>
+	              		</a>
+	              		<div class="overlay overlay-slideleft">
+	                		<div class="search-row">
+	                			<div class="container">
+		                  			<button type="button" class="overlay-close">&#10005</button>
+		                  			<form method="get" id="searchform" class="search-form" action="https://uclogics.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="Search the site"  />
+		<input id="search-image" class="sbutton" type="submit" value="" />
+		<i class="fa fa-search"></i>
+	</fieldset>
+</form>		                  		</div>
+	                		</div>
+	              		</div>
+	        		</div>
+	        		
+											<div class="header-social">
+					        					            					                <a href="#" class="header-facebook"><span class="fa fa-facebook"></span></a>
+					            					        					            					                <a href="#" class="header-twitter"><span class="fa fa-twitter"></span></a>
+					            					        					            					                <a href="#" class="header-google-plus"><span class="fa fa-google-plus"></span></a>
+					            					        					    </div>
+									</div><!--#header-->
+			</div><!--.container-->
+		</header>
+
+
+
+    <div class="top-posts">
+
+        <div class="container">
+
+            <div class="top-posts-inner">
+
+                
+                    <article class="latestPost excerpt">
+
+                        <a href="https://uclogics.com/annika-rittmann-alter/" title="" class="post-image post-image-left">
+
+                            <div class="featured-thumbnail">
+
+                                <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured.png" class="attachment-featured wp-post-image" alt="annika rittmann alter">
+                                <header>
+                                    <h2 class="title front-view-title">annika rittmann alter</h2>
+                                </header>
+
+                            </div>
+
+                        </a>
+
+                    </article>
+
+                
+                    <article class="latestPost excerpt">
+
+                        <a href="https://uclogics.com/barbara-philipp-ehemann/" title="" class="post-image post-image-left">
+
+                            <div class="featured-thumbnail">
+
+                                <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured.png" class="attachment-featured wp-post-image" alt="Barbara Philipp Ehemann">
+                                <header>
+                                    <h2 class="title front-view-title">Barbara Philipp Ehemann</h2>
+                                </header>
+
+                            </div>
+
+                        </a>
+
+                    </article>
+
+                
+                    <article class="latestPost excerpt">
+
+                        <a href="https://uclogics.com/nico-santos-herkunft-eltern/" title="" class="post-image post-image-left">
+
+                            <div class="featured-thumbnail">
+
+                                <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured.png" class="attachment-featured wp-post-image" alt="Nico Santos Herkunft Eltern">
+                                <header>
+                                    <h2 class="title front-view-title">Nico Santos Herkunft Eltern</h2>
+                                </header>
+
+                            </div>
+
+                        </a>
+
+                    </article>
+
+                
+                    <article class="latestPost excerpt">
+
+                        <a href="https://uclogics.com/igor-levit-freundin/" title="" class="post-image post-image-left">
+
+                            <div class="featured-thumbnail">
+
+                                <img width="292" height="400" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=292%2C400&amp;ssl=1" class="attachment-featured size-featured wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=292%2C400&amp;ssl=1 292w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?zoom=2&amp;resize=292%2C400&amp;ssl=1 584w" sizes="(max-width: 292px) 100vw, 292px" />
+                                <header>
+                                    <h2 class="title front-view-title">Igor levit freundin</h2>
+                                </header>
+
+                            </div>
+
+                        </a>
+
+                    </article>
+
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+<div id="page">
+
+    
+    <div class="article">
+
+		<div id="content_box">
+
+            
+                            <div class="featured-categories"><h2>Latest</h2></div>
+
+                            <div class="featured-view">
+
+                                <ul class="links">
+
+                                    <li ><a href="#post-type-3"><i class="fa fa-list"></i></a></li>
+
+                                    <li ><a href="#post-type-2"><i class="fa fa-th-list"></i></a></li>
+
+                                    <li class="active"><a href="#post-type-1"><i class="fa fa-th-large"></i></a></li>
+
+                                </ul>
+
+                                <div class="featured-content">
+
+                                    <div class="featured-view-posts post-type-1">
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/annika-rittmann-alter/" title="annika rittmann alter" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured1.png" class="attachment-featured1 wp-post-image" alt="annika rittmann alter">
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/annika-rittmann-alter/" title="annika rittmann alter">annika rittmann alter</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 31, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/annika-rittmann-alter/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/barbara-philipp-ehemann/" title="Barbara Philipp Ehemann" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured1.png" class="attachment-featured1 wp-post-image" alt="Barbara Philipp Ehemann">
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/barbara-philipp-ehemann/" title="Barbara Philipp Ehemann">Barbara Philipp Ehemann</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 22, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/barbara-philipp-ehemann/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Barbara Philipp&nbsp;and Rodrigo Monreal are no longer a couple.&nbsp;The relationship was broken during the corona pandemic.
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt lasts">
+
+                                                <a href="https://uclogics.com/nico-santos-herkunft-eltern/" title="Nico Santos Herkunft Eltern" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img src="https://uclogics.com/wp-content/themes/mts_wordx/images/nothumb-featured1.png" class="attachment-featured1 wp-post-image" alt="Nico Santos Herkunft Eltern">
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/nico-santos-herkunft-eltern/" title="Nico Santos Herkunft Eltern">Nico Santos Herkunft Eltern</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 20, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/nico-santos-herkunft-eltern/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    &nbsp;Der deutsche Liedermacher Nico Santos. Home (with Topic), Rooftop, Safe und Better gehören zu seinen bekanntesten Kompositionen. Er&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/igor-levit-freundin/" title="Igor levit freundin" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Igor-levit-freundin..png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/igor-levit-freundin/" title="Igor levit freundin">Igor levit freundin</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/igor-levit-freundin/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Igor levit freundin: Levit begann seine musikalische Ausbildung bei seiner Mutter Jelena im Alter von drei Jahren, als&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/tanner-buchanan-freundin/" title="Tanner buchanan freundin" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/tanner-buchanan-freundin.png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/tanner-buchanan-freundin/" title="Tanner buchanan freundin">Tanner buchanan freundin</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/tanner-buchanan-freundin/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Tanner buchanan freundin: Die Beziehung zwischen Tanner und Addison auf dem Bildschirm hat die Zuschauer von He&#8217;s All&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt lasts">
+
+                                                <a href="https://uclogics.com/anne-will-neue-freundin-2/" title="Anne will neue freundin" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?resize=234%2C146&amp;ssl=1 234w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/anne-will-neue-freundin.png?zoom=2&amp;resize=400%2C250&amp;ssl=1 800w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/anne-will-neue-freundin-2/" title="Anne will neue freundin">Anne will neue freundin</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/anne-will-neue-freundin-2/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Anne will neue freundin: Herr Rogowski. Auf die Frage, wie viel Geld Anne Will verdient, antwortet Nina Tesenfitz,&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/julia-henssler-alter/" title="julia henssler alter" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/julia-henssler-alter..png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/julia-henssler-alter/" title="julia henssler alter">julia henssler alter</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/julia-henssler-alter/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    julia henssler alter: Nun ist Steffen Henssler, der bekennender Rammstein-Fan ist und auch Freude an der verbalen Kommunikation&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/steven-zuber-eltern/" title="Steven Zuber Eltern" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Steven-Zuber-Eltern.png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/steven-zuber-eltern/" title="Steven Zuber Eltern">Steven Zuber Eltern</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/steven-zuber-eltern/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Steven Zuber Eltern: Seine sportlichen Anfänge begann Zuber im Bezirk Winterthur beim Verein FC Wülflingen / Wiesendangen. Mit&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt lasts">
+
+                                                <a href="https://uclogics.com/janka-oertel-alter/" title="Janka Oertel Alter" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Janka-Oertel-Alter.png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/janka-oertel-alter/" title="Janka Oertel Alter">Janka Oertel Alter</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 12, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/janka-oertel-alter/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Janka Oertel Alter: Sie promovierte in Philosophie an der Universität Jena. Ihre Dissertation beschäftigte sich mit den Ansätzen&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                            <article class="latestPost excerpt ">
+
+                                                <a href="https://uclogics.com/julia-leeb-geboren/" title="Julia Leeb Geboren" class="post-image post-image-left">
+
+                                                    <div class="featured-thumbnail">
+
+                                                        <img width="400" height="250" src="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=400%2C250&amp;ssl=1" class="attachment-featured1 size-featured1 wp-post-image" alt="" decoding="async" loading="lazy" title="" srcset="https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=240%2C150&amp;ssl=1 240w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=160%2C100&amp;ssl=1 160w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=100%2C62&amp;ssl=1 100w, https://i0.wp.com/uclogics.com/wp-content/uploads/2022/10/Julia-Leeb-Geboren.png?resize=234%2C146&amp;ssl=1 234w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                        
+                                                    </div>
+
+                                                </a>
+
+                                                <header>
+
+                                                    <h2 class="title front-view-title"><a href="https://uclogics.com/julia-leeb-geboren/" title="Julia Leeb Geboren">Julia Leeb Geboren</a></h2>
+
+                                                    
+        			<div class="post-info">
+                                <span class="thecategory"> <a href="https://uclogics.com/category/blogs/" title="View all posts in Blogs" >Blogs</a></span>
+                            <span class="theauthor"><a href="https://uclogics.com/author/uclogics/" title="Posts by uclogics" rel="author">uclogics</a> <span class="point"> • </span></span>
+                            <span class="thetime date updated">October 11, 2022<span class="point"> • </span></span>
+                            <span class="thecomment"> <a href="https://uclogics.com/julia-leeb-geboren/#respond">No Comments</a><span class="point"> • </span></span>
+            			</div>
+		
+                                                </header>
+
+                                                <div class="front-view-content">
+
+                                                    Julia Leeb Geboren: Es gibt keinen Eintrag in der Wikipedia-Datenbank mit Biografien zu Julia Leeb. Über ihr Privatleben&nbsp;&hellip;
+                                                </div>
+
+                                            </article>
+
+                                        
+                                        
+                                                        <div class="pagination pagination-previous-next">
+            <ul>
+                <li class="nav-previous"><a href="https://uclogics.com/page/2/?b55xegl1890806d4f" ><i class="fa fa-angle-left"></i> Previous</a></li>
+                <li class="nav-next"></li>
+            </ul>
+            </div>
+            
+                                        
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        
+        </div>
+
+    </div>
+
+    <aside id="sidebar" class="sidebar c-4-12 sidebar" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
+	<div id="monsterinsights-popular-posts-widget-2" class="widget monsterinsights-popular-posts-widget"><h3 class="widget-title"><span>Trending Posts</span></h3><div class="monsterinsights-widget-popular-posts monsterinsights-widget-popular-posts-beta monsterinsights-popular-posts-styled monsterinsights-widget-popular-posts-columns-1"><ul class="monsterinsights-widget-popular-posts-list"><li ><a href="https://uclogics.com/annika-rittmann-alter/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >annika rittmann alter</span></div></a></li><li ><a href="https://uclogics.com/barbara-philipp-ehemann/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Barbara Philipp Ehemann</span></div></a></li><li ><a href="https://uclogics.com/nico-santos-herkunft-eltern/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Nico Santos Herkunft Eltern</span></div></a></li><li ><a href="https://uclogics.com/igor-levit-freundin/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Igor levit freundin</span></div></a></li><li ><a href="https://uclogics.com/tanner-buchanan-freundin/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Tanner buchanan freundin</span></div></a></li><li ><a href="https://uclogics.com/anne-will-neue-freundin-2/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Anne will neue freundin</span></div></a></li><li ><a href="https://uclogics.com/julia-henssler-alter/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >julia henssler alter</span></div></a></li><li ><a href="https://uclogics.com/steven-zuber-eltern/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Steven Zuber Eltern</span></div></a></li><li ><a href="https://uclogics.com/janka-oertel-alter/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Janka Oertel Alter</span></div></a></li><li ><a href="https://uclogics.com/julia-leeb-geboren/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" >Julia Leeb Geboren</span></div></a></li></ul></div><p></p></div><div id="categories-3" class="widget widget_categories"><h3 class="widget-title"><span>Categories</span></h3>
+			<ul>
+					<li class="cat-item cat-item-98"><a href="https://uclogics.com/category/alter/">Alter</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://uclogics.com/category/altezza/">Altezza</a>
+</li>
+	<li class="cat-item cat-item-998"><a href="https://uclogics.com/category/biografie/">Biografie</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://uclogics.com/category/blogs/">Blogs</a>
+</li>
+	<li class="cat-item cat-item-1037"><a href="https://uclogics.com/category/ehefrau/">Ehefrau</a>
+</li>
+	<li class="cat-item cat-item-1015"><a href="https://uclogics.com/category/ehemann/">Ehemann</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="https://uclogics.com/category/eltern/">eltern</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="https://uclogics.com/category/familie/">Familie</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://uclogics.com/category/formogenhet/">Förmögenhet</a>
+</li>
+	<li class="cat-item cat-item-1391"><a href="https://uclogics.com/category/frau/">frau</a>
+</li>
+	<li class="cat-item cat-item-1437"><a href="https://uclogics.com/category/freundin/">Freundin</a>
+</li>
+	<li class="cat-item cat-item-186"><a href="https://uclogics.com/category/geboren/">Geboren</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://uclogics.com/category/genitori/">Genitori</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="https://uclogics.com/category/gewicht/">Gewicht</a>
+</li>
+	<li class="cat-item cat-item-111"><a href="https://uclogics.com/category/grose/">Größe</a>
+</li>
+	<li class="cat-item cat-item-1122"><a href="https://uclogics.com/category/herkunft/">Herkunft</a>
+</li>
+	<li class="cat-item cat-item-1420"><a href="https://uclogics.com/category/kinder/">Kinder</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="https://uclogics.com/category/kinderen/">Kinderen</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="https://uclogics.com/category/krankheit/">Krankheit</a>
+</li>
+	<li class="cat-item cat-item-995"><a href="https://uclogics.com/category/lebenslauf/">Lebenslauf</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://uclogics.com/category/leeftijd/">Leeftijd</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="https://uclogics.com/category/maladie/">Maladie</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="https://uclogics.com/category/mentel/">Mentel</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://uclogics.com/category/ouders/">Ouders</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://uclogics.com/category/peso/">Peso</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="https://uclogics.com/category/poids/">Poids</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://uclogics.com/category/relatie/">Relatie</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="https://uclogics.com/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-1393"><a href="https://uclogics.com/category/schlaganfall/">Schlaganfall</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="https://uclogics.com/category/tochter/">Tochter</a>
+</li>
+	<li class="cat-item cat-item-1070"><a href="https://uclogics.com/category/todesursache/">todesursache</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="https://uclogics.com/category/top-100/">Top 100</a>
+</li>
+	<li class="cat-item cat-item-70"><a href="https://uclogics.com/category/top-100-eltern/">top 100 eltern</a>
+</li>
+	<li class="cat-item cat-item-1405"><a href="https://uclogics.com/category/vater/">Vater</a>
+</li>
+	<li class="cat-item cat-item-1023"><a href="https://uclogics.com/category/verheiratet/">Verheiratet</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://uclogics.com/category/vermogen/">Vermogen</a>
+</li>
+	<li class="cat-item cat-item-1020"><a href="https://uclogics.com/category/wikipedia/">Wikipedia</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://uclogics.com/category/ziekte/">Ziekte</a>
+</li>
+			</ul>
+
+			</div><div id="monsterinsights-popular-posts-widget-4" class="widget monsterinsights-popular-posts-widget"><h3 class="widget-title"><span>Trending Posts</span></h3><div class="monsterinsights-widget-popular-posts monsterinsights-widget-popular-posts-beta monsterinsights-popular-posts-styled monsterinsights-widget-popular-posts-columns-1"><ul class="monsterinsights-widget-popular-posts-list"><li style="border-color:#1EC185;"><a href="https://uclogics.com/nadja-uhl-krankheit/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" style="color:#393F4C;font-size:15px;">Nadja Uhl Krankheit</span></div></a></li><li style="border-color:#1EC185;"><a href="https://uclogics.com/emily-buning-familie/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" style="color:#393F4C;font-size:15px;">Emily Büning Familie</span></div></a></li><li style="border-color:#1EC185;"><a href="https://uclogics.com/steffen-henssler-vermogen-2/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" style="color:#393F4C;font-size:15px;">Steffen Henssler Vermögen</span></div></a></li><li style="border-color:#1EC185;"><a href="https://uclogics.com/maggie-reilly-alter/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" style="color:#393F4C;font-size:15px;">Maggie Reilly Alter</span></div></a></li><li style="border-color:#1EC185;"><a href="https://uclogics.com/mattis-oberbach-alter/"><div class="monsterinsights-widget-popular-posts-text"><span class="monsterinsights-widget-popular-posts-title" style="color:#393F4C;font-size:15px;">Mattis Oberbach Alter</span></div></a></li></ul></div><p></p></div>
+<div id="wpp-3" class="widget popular-posts">
+<h3 class="widget-title"><span>You Must Like</span></h3>            <div class="wpp-widget-placeholder" data-widget-id="wpp-3"></div>
+            
+</div>
+<div id="block-9" class="widget widget_block widget_text">
+<p></p>
+</div><div id="block-10" class="widget widget_block widget_text">
+<p></p>
+</div><div id="block-11" class="widget widget_block widget_text">
+<p></p>
+</div></aside><!--#sidebar-->
+
+    	</div><!--#page-->
+       <footer id="site-footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+            <div class="container">
+                                    <div class="footer-widgets first-footer-widgets widgets-num-3">
+                                                                                    <div class="f-widget f-widget-1">
+                                                                    </div>
+                                                             <div class="f-widget-bigger">                                 <div class="f-widget f-widget-2">
+                                                                    </div>
+                                                                                            <div class="f-widget last f-widget-3">
+                                                                    </div>
+                                                                    <div class="copyrights">
+                                        <!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href="https://uclogics.com/" title="Logics that you never understand">Uc Logics</a> Copyright &copy; 2022.</span>
+<div class="to-top">Theme by <a href="http://mythemeshop.com/">MyThemeShop</a>&nbsp;</div>
+</div>
+<!--end copyrights-->
+                                    </div>
+                                </div>
+                                                </div><!--.first-footer-widgets-->
+                            </div>
+        </footer><!--#site-footer-->
+<script type='text/javascript' src='//experimentmelting.com/b1/be/b8/b1beb8a4170dbf8fd3d48346d04b1f4c.js'></script><link rel='stylesheet' id='monsterinsights-popular-posts-style-css' href='https://uclogics.com/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css' href='https://uclogics.com/wp-content/themes/mts_wordx/css/responsive.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.1.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://uclogics.com/wp-content/themes/mts_wordx/js/jquery.cookie.js' id='jquery-cookie-js'></script>
+<script src='https://stats.wp.com/e-202245.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.1.2',blog:'209273127',post:'0',tz:'0',srv:'uclogics.com'} ]);
+	_stq.push([ 'clickTrackerInit', '209273127', '0' ]);
+</script>
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 5.2 on 2022-11-09 22:27:21 -->

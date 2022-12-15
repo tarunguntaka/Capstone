@@ -1,0 +1,1384 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en-GB" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>DualShock 4 - PS4 Developer wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DualShock_4","wgTitle":"DualShock 4","wgCurRevisionId":285527,"wgRevisionId":285527,"wgArticleId":1244,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikify needed","Peripherals","Main"],"wgBreakFrames":false,"wgPageContentLanguage":"en-gb","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DualShock_4","wgRelevantArticleId":1244,"wgRequestId":"Ys1sVUAMRW8O4jKmPr3L2gAAAAc","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPostEdit":"saved"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.embedVideo.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0qpjoud",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"en-gb"});
+});mw.loader.implement("user.tokens@09zsq4u",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.embedVideo","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/ps4/load.php?debug=false&amp;lang=en-gb&amp;modules=ext.embedVideo.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/ps4/load.php?debug=false&amp;lang=en-gb&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/ps4/load.php?debug=false&amp;lang=en-gb&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<meta name="description" content="Playstation Development Wiki, Hacks, PS3, PS4, PS5 and Development Information"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/ps4/edit/DualShock_4"/>
+<link rel="edit" title="Edit" href="/ps4/edit/DualShock_4"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/ps4/opensearch_desc.php" title="PS4 Developer wiki (en-gb)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://www.psdevwiki.com/ps4/api.php?action=rsd"/>
+<link rel="license" href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt"/>
+<link rel="alternate" type="application/atom+xml" title="PS4 Developer wiki Atom feed" href="/ps4/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/ps4/load.php?debug=false&amp;lang=en-gb&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-DualShock_4 rootpage-DualShock_4 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+
+                        <!-- Begin custom skin addition -->
+                        <center>
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Wiki_Leaderboard -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-3613141703597295"
+			     data-ad-slot="3075174921"></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+                        </center>
+                        <!-- End custom skin addition -->
+
+
+			<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en-GB">DualShock 4</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From PS4 Developer wiki</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en-GB" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="metadata plainlinks ambox ambox-content" style="">
+<tbody><tr>
+<td style="border: none; padding: 0px; width: 1px;"></td>
+<td class="mbox-text" style=""> <b>This article is marked for rewrite/restructuring in proper wiki format.</b><br />You can help PS4 Developer wiki by <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.psdevwiki.com/ps4/edit/DualShock_4">editing it</a>.<i> </i></td>
+</tr>
+</tbody></table>
+<p>See also <i><a href="/ps4/Talk:DualShock_4" title="Talk:DualShock 4">Discussion</a></i> page
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><div class="noresize"><map name="ImageMap_1_1085290158"><area href="/ps4/File:Dual-shock-4-wave-blue-cuh-zct1e-02.jpg" shape="rect" coords="0,60,90,90" alt="Blue Wave" title="Blue Wave" /><area href="/ps4/File:DUALSHOCK4_01.jpg" shape="rect" coords="91,30,209,120" alt="Jet Black" title="Jet Black" /><area href="/ps4/File:Dual-shock-4-magma-red-cuh-zct1e-01.jpg" shape="rect" coords="210,60,300,90" alt="Red Magma" title="Red Magma" /></map><img alt="" src="/ps4/images/thumb/7/73/DS4x3.png/300px-DS4x3.png" width="300" height="150" class="thumbimage" srcset="/ps4/images/thumb/7/73/DS4x3.png/450px-DS4x3.png 1.5x, /ps4/images/7/73/DS4x3.png 2x" usemap="#ImageMap_1_1085290158" /></div>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4x3.png" class="internal" title="Enlarge"></a></div>DualShock 4 colorway</div></div></div>
+<div id="toc" class="toc"><div class="toctitle" lang="en-GB" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Controller"><span class="tocnumber">1</span> <span class="toctext">Controller</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Regulatory_filings"><span class="tocnumber">1.1</span> <span class="toctext">Regulatory filings</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Factorycode"><span class="tocnumber">1.2</span> <span class="toctext">Factorycode</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Specifications"><span class="tocnumber">1.3</span> <span class="toctext">Specifications</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gallery"><span class="tocnumber">1.4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Teardown"><span class="tocnumber">1.5</span> <span class="toctext">Teardown</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Pinout"><span class="tocnumber">1.5.1</span> <span class="toctext">Pinout</span></a>
+<ul>
+<li class="toclevel-4 tocsection-8"><a href="#earset_connector"><span class="tocnumber">1.5.1.1</span> <span class="toctext">earset connector</span></a></li>
+<li class="toclevel-4 tocsection-9"><a href="#uP_board_connector"><span class="tocnumber">1.5.1.2</span> <span class="toctext">uP board connector</span></a></li>
+<li class="toclevel-4 tocsection-10"><a href="#flat_ribbon_connector"><span class="tocnumber">1.5.1.3</span> <span class="toctext">flat ribbon connector</span></a></li>
+<li class="toclevel-4 tocsection-11"><a href="#skewed_button_connector"><span class="tocnumber">1.5.1.4</span> <span class="toctext">skewed button connector</span></a></li>
+<li class="toclevel-4 tocsection-12"><a href="#battery_connector"><span class="tocnumber">1.5.1.5</span> <span class="toctext">battery connector</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Analysis"><span class="tocnumber">2</span> <span class="toctext">Analysis</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Mods"><span class="tocnumber">3</span> <span class="toctext">Mods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Projects"><span class="tocnumber">3.1</span> <span class="toctext">Projects</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#UsbXlater"><span class="tocnumber">3.1.1</span> <span class="toctext">UsbXlater</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#GIMX"><span class="tocnumber">3.1.2</span> <span class="toctext">GIMX</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#DS4_on_PS3"><span class="tocnumber">3.1.3</span> <span class="toctext">DS4 on PS3</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#DS4_on_PS2"><span class="tocnumber">3.1.4</span> <span class="toctext">DS4 on PS2</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#DS4_on_WII"><span class="tocnumber">3.1.5</span> <span class="toctext">DS4 on WII</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Carbon_Project"><span class="tocnumber">3.1.6</span> <span class="toctext">Carbon Project</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#DS4_To_X-Input_Wrapper"><span class="tocnumber">3.1.7</span> <span class="toctext">DS4 To X-Input Wrapper</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#PS4PC"><span class="tocnumber">3.1.8</span> <span class="toctext">PS4PC</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Arduino_library_.28with_USB_Host_Shield.29"><span class="tocnumber">3.1.9</span> <span class="toctext">Arduino library (with USB Host Shield)</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Controllers_for_All"><span class="tocnumber">3.1.10</span> <span class="toctext">Controllers for All</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Android"><span class="tocnumber">3.1.11</span> <span class="toctext">Android</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#disable_leds"><span class="tocnumber">3.1.12</span> <span class="toctext">disable leds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#End-user_products"><span class="tocnumber">3.2</span> <span class="toctext">End-user products</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Other"><span class="tocnumber">3.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#PS3_compatibility"><span class="tocnumber">4</span> <span class="toctext">PS3 compatibility</span></a>
+<ul>
+<li class="toclevel-2 tocsection-31"><a href="#Wireless"><span class="tocnumber">4.1</span> <span class="toctext">Wireless</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Incompatible_games"><span class="tocnumber">4.2</span> <span class="toctext">Incompatible games</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Controller_Translation"><span class="tocnumber">4.3</span> <span class="toctext">Controller Translation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="#Web_Browser"><span class="tocnumber">5</span> <span class="toctext">Web Browser</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Generic"><span class="tocnumber">6</span> <span class="toctext">Generic</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Controller">Controller</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=1" title="Edit section: Controller">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Product code</th>
+<th>Name description</th>
+<th>EAN</th>
+<th>TweakersID
+</th></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1" class="mw-redirect" title="CUH-ZCT1">CUH-ZCT1</a> <small>(<a href="/ps4/CUH-ZCT1U" class="mw-redirect" title="CUH-ZCT1U">CUH-ZCT1U</a>, <a href="/ps4/CUH-ZCT1E" class="mw-redirect" title="CUH-ZCT1E">CUH-ZCT1E</a>, <a href="/ps4/CUH-ZCT1J" class="mw-redirect" title="CUH-ZCT1J">CUH-ZCT1J</a>, <a href="/ps4/CUH-ZCT1K" class="mw-redirect" title="CUH-ZCT1K">CUH-ZCT1K</a>, <a href="/ps4/CUH-ZCT1H" class="mw-redirect" title="CUH-ZCT1H">CUH-ZCT1H</a>, <a href="/ps4/CUH-ZCT1M" class="mw-redirect" title="CUH-ZCT1M">CUH-ZCT1M</a>)</small></td>
+<td><span><a href="/ps4/File:JetBlack.jpg" class="image"><img alt="JetBlack.jpg" src="/ps4/images/thumb/c/c3/JetBlack.jpg/24px-JetBlack.jpg" width="24" height="24" srcset="/ps4/images/thumb/c/c3/JetBlack.jpg/36px-JetBlack.jpg 1.5x, /ps4/images/thumb/c/c3/JetBlack.jpg/48px-JetBlack.jpg 2x" /></a><a href="/ps4/Colours" title="Colours">&#160;Jet&#160;Black</a></span></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+%28zwart%29_PS4.html">0711719211983</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://tweakers.net/pricewatch/346381/sony-playstation-4-dualshock-controller-zwart-playstation-4/specificaties/">346381</a>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_01" class="mw-redirect" title="CUH-ZCT1 01">CUH-ZCT1 01</a> <small>(<a href="/ps4/CUH-ZCT1U01" class="mw-redirect" title="CUH-ZCT1U01">CUH-ZCT1U01</a>, <a href="/ps4/CUH-ZCT1E01" class="mw-redirect" title="CUH-ZCT1E01">CUH-ZCT1E01</a>, <a href="/ps4/CUH-ZCT1J01" class="mw-redirect" title="CUH-ZCT1J01">CUH-ZCT1J01</a>, <a href="/ps4/CUH-ZCT1K01" class="mw-redirect" title="CUH-ZCT1K01">CUH-ZCT1K01</a>, <a href="/ps4/CUH-ZCT1H01" class="mw-redirect" title="CUH-ZCT1H01">CUH-ZCT1H01</a>, <a href="/ps4/CUH-ZCT1M01" class="mw-redirect" title="CUH-ZCT1M01">CUH-ZCT1M01</a>)</small></td>
+<td><span><a href="/ps4/File:MagmaRed.jpg" class="image"><img alt="MagmaRed.jpg" src="/ps4/images/thumb/4/46/MagmaRed.jpg/24px-MagmaRed.jpg" width="24" height="24" srcset="/ps4/images/thumb/4/46/MagmaRed.jpg/36px-MagmaRed.jpg 1.5x, /ps4/images/thumb/4/46/MagmaRed.jpg/48px-MagmaRed.jpg 2x" /></a><a href="/ps4/Colours" title="Colours">&#160;Magma&#160;Red</a></span></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+%28magma+red%29_PS4.html">0711719200994</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://tweakers.net/pricewatch/362174/sony-playstation-4-dualshock-controller-rood-playstation-4/specificaties/">362174</a>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_02" class="mw-redirect" title="CUH-ZCT1 02">CUH-ZCT1 02</a> <small>(<a href="/ps4/CUH-ZCT1U02" class="mw-redirect" title="CUH-ZCT1U02">CUH-ZCT1U02</a>, <a href="/ps4/CUH-ZCT1E02" class="mw-redirect" title="CUH-ZCT1E02">CUH-ZCT1E02</a>, <a href="/ps4/CUH-ZCT1J02" class="mw-redirect" title="CUH-ZCT1J02">CUH-ZCT1J02</a>, <a href="/ps4/CUH-ZCT1K02" class="mw-redirect" title="CUH-ZCT1K02">CUH-ZCT1K02</a>, <a href="/ps4/CUH-ZCT1H02" class="mw-redirect" title="CUH-ZCT1H02">CUH-ZCT1H02</a>, <a href="/ps4/CUH-ZCT1M02" class="mw-redirect" title="CUH-ZCT1M02">CUH-ZCT1M02</a>)</small></td>
+<td><span><a href="/ps4/File:WaveBlue.jpg" class="image"><img alt="WaveBlue.jpg" src="/ps4/images/thumb/c/c5/WaveBlue.jpg/24px-WaveBlue.jpg" width="24" height="24" srcset="/ps4/images/thumb/c/c5/WaveBlue.jpg/36px-WaveBlue.jpg 1.5x, /ps4/images/thumb/c/c5/WaveBlue.jpg/48px-WaveBlue.jpg 2x" /></a><a href="/ps4/Colours" title="Colours">&#160;Wave&#160;Blue</a></span></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+%28wave+blue%29_PS4.html">0711719201397</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://tweakers.net/pricewatch/362175/sony-playstation-4-dualshock-controller-blauw-playstation-4/specificaties/">362175</a>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_03" class="mw-redirect" title="CUH-ZCT1 03">CUH-ZCT1 03</a> <small>(<a href="/ps4/CUH-ZCT1U03" class="mw-redirect" title="CUH-ZCT1U03">CUH-ZCT1U03</a>, <a href="/ps4/CUH-ZCT1E03" class="mw-redirect" title="CUH-ZCT1E03">CUH-ZCT1E03</a>, <a href="/ps4/CUH-ZCT1J03" class="mw-redirect" title="CUH-ZCT1J03">CUH-ZCT1J03</a>, <a href="/ps4/CUH-ZCT1K03" class="mw-redirect" title="CUH-ZCT1K03">CUH-ZCT1K03</a>, <a href="/ps4/CUH-ZCT1H03" class="mw-redirect" title="CUH-ZCT1H03">CUH-ZCT1H03</a>, <a href="/ps4/CUH-ZCT1M03" class="mw-redirect" title="CUH-ZCT1M03">CUH-ZCT1M03</a>)</small></td>
+<td><span><a href="/ps4/File:GlacierWhite.jpg" class="image"><img alt="GlacierWhite.jpg" src="/ps4/images/thumb/a/af/GlacierWhite.jpg/24px-GlacierWhite.jpg" width="24" height="24" srcset="/ps4/images/thumb/a/af/GlacierWhite.jpg/36px-GlacierWhite.jpg 1.5x, /ps4/images/thumb/a/af/GlacierWhite.jpg/48px-GlacierWhite.jpg 2x" /></a><a href="/ps4/Colours" title="Colours">&#160;Glacier&#160;White</a></span></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+%28glacier+white%29_PS4.html">0711719453116</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://tweakers.net/pricewatch/411162/sony-playstation-4-dualshock-controller-wit-playstation-4/specificaties/">411162</a>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_04" class="mw-redirect" title="CUH-ZCT1 04">CUH-ZCT1 04</a> <small>(<a href="/ps4/CUH-ZCT1U04" class="mw-redirect" title="CUH-ZCT1U04">CUH-ZCT1U04</a>, <a href="/ps4/CUH-ZCT1E04" class="mw-redirect" title="CUH-ZCT1E04">CUH-ZCT1E04</a>, <a href="/ps4/CUH-ZCT1J04" class="mw-redirect" title="CUH-ZCT1J04">CUH-ZCT1J04</a>, <a href="/ps4/CUH-ZCT1K04" class="mw-redirect" title="CUH-ZCT1K04">CUH-ZCT1K04</a>, <a href="/ps4/CUH-ZCT1H04" class="mw-redirect" title="CUH-ZCT1H04">CUH-ZCT1H04</a>, <a href="/ps4/CUH-ZCT1M04" class="mw-redirect" title="CUH-ZCT1M04">CUH-ZCT1M04</a>)</small></td>
+<td><span><a href="/ps4/File:UrbanCamouflage.jpg" class="image"><img alt="UrbanCamouflage.jpg" src="/ps4/images/thumb/5/53/UrbanCamouflage.jpg/24px-UrbanCamouflage.jpg" width="24" height="24" srcset="/ps4/images/thumb/5/53/UrbanCamouflage.jpg/36px-UrbanCamouflage.jpg 1.5x, /ps4/images/thumb/5/53/UrbanCamouflage.jpg/48px-UrbanCamouflage.jpg 2x" /></a><a href="/ps4/Colours" title="Colours">&#160;Urban&#160;Camouflage</a></span></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller++(urban+camouflage)_PS4.html">0711719453512</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_05" class="mw-redirect" title="CUH-ZCT1 05">CUH-ZCT1 05</a> <small>(<a href="/ps4/CUH-ZCT1U05" class="mw-redirect" title="CUH-ZCT1U05">CUH-ZCT1U05</a>, <a href="/ps4/CUH-ZCT1E05" class="mw-redirect" title="CUH-ZCT1E05">CUH-ZCT1E05</a>, <a href="/ps4/CUH-ZCT1J05" class="mw-redirect" title="CUH-ZCT1J05">CUH-ZCT1J05</a>, <a href="/ps4/CUH-ZCT1K05" class="mw-redirect" title="CUH-ZCT1K05">CUH-ZCT1K05</a>, <a href="/ps4/CUH-ZCT1H05" class="mw-redirect" title="CUH-ZCT1H05">CUH-ZCT1H05</a>, <a href="/ps4/CUH-ZCT1M05" class="mw-redirect" title="CUH-ZCT1M05">CUH-ZCT1M05</a>)</small></td>
+<td>Grey?</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+20th+anniversary+edition+(gray)_PS4.html">0711719818847</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://tweakers.net/pricewatch/450482/sony-playstation-4-dualshock-controller-20th-edition-grijs-playstation-4/specificaties/">450482</a>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_06" class="mw-redirect" title="CUH-ZCT1 06">CUH-ZCT1 06</a> <small><a href="/ps4/CUH-ZCT1E06" class="mw-redirect" title="CUH-ZCT1E06">CUH-ZCT1E06</a>, <a href="/ps4/CUH-ZCT1J06" class="mw-redirect" title="CUH-ZCT1J06">CUH-ZCT1J06</a></small></td>
+<td>Gold</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+(goud)_PS4.html">0711719803348</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_07" class="mw-redirect" title="CUH-ZCT1 07">CUH-ZCT1 07</a> <small><a href="/ps4/CUH-ZCT1E07" class="mw-redirect" title="CUH-ZCT1E07">CUH-ZCT1E07</a>, <a href="/ps4/CUH-ZCT1J07" class="mw-redirect" title="CUH-ZCT1J07">CUH-ZCT1J07</a></small></td>
+<td>Silver</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.budgetgaming.nl/game-profile/sony+wireless+dualshock+4+controller+(zilver)_PS4.html">0711719822943</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_08" class="mw-redirect" title="CUH-ZCT1 08">CUH-ZCT1 08</a> <small><a href="/ps4/CUH-ZCT1J08" class="mw-redirect" title="CUH-ZCT1J08">CUH-ZCT1J08</a></small></td>
+<td>Steel Black</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/CUH-ZCT1_09" class="mw-redirect" title="CUH-ZCT1 09">CUH-ZCT1 09</a> <small><a href="/ps4/CUH-ZCT1J09" class="mw-redirect" title="CUH-ZCT1J09">CUH-ZCT1J09</a></small></td>
+<td>Crystal</td>
+<td></td>
+<td>
+</td></tr></tbody></table>
+<p><b>Note:</b> <a href="/ps4/Console_Information#Price_.26_Release_Date" title="Console Information">Release Date</a> was same as console in each subregion countries, e.g. North America&#160;: November 15, 2013, Europe (first batch of countries)&#160;: November 29, 2013 etc ... Japan&#160;: February 22, 2014
+</p><p>hardware version&#160;: 0x3100 (<a href="/ps4/CUH-ZCT1x_series" class="mw-redirect" title="CUH-ZCT1x series">CUH-ZCT1x series</a> same as <a href="/ps4/CAP-ZCT1x_series" title="CAP-ZCT1x series">CAP-ZCT1x series</a>)
+</p><p>For limited edition colours, see the <a href="/ps4/Colours" title="Colours">Colours</a> page
+</p>
+<h3><span class="mw-headline" id="Regulatory_filings">Regulatory filings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=2" title="Edit section: Regulatory filings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>FCC ID: 
+</p>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fcc.io/AK8/CUHZCT1">AK8CUHZCT1</a>  05/22/2013</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fcc.io/AK8/CUHZCT1F1">AK8CUHZCT1F1</a>  04/07/2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fcc.io/AK8/CUHZCT1A">AK8CUHZCT1A</a>  04/02/2015</li></ul>
+<p>IC: <a href="/ps4/409B-CUHZCT1" class="mw-redirect" title="409B-CUHZCT1">409B-CUHZCT1</a>
+</p><p>MIC listing: 
+</p>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=350ul&amp;SN=%94%46%8F%D8&amp;LN=8&amp;R1=*****&amp;R2=*****">007-AB0091</a>  May 14, 2013</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=372ul&amp;SN=%94%46%8F%D8&amp;LN=4&amp;R1=*****&amp;R2=*****">007-AB0091</a>  April 2, 2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=372ul&amp;SN=%94%46%8F%D8&amp;LN=6&amp;R1=*****&amp;R2=*****">007-AB0091</a>  April 3, 2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=385ul&amp;SN=%94%46%8F%D8&amp;LN=34&amp;R1=*****&amp;R2=*****">007-AB0091</a>  October 30, 2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=372ul&amp;SN=%94%46%8F%D8&amp;LN=5&amp;R1=*****&amp;R2=*****">007-AC0049</a>  April 2, 2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=372ul&amp;SN=%94%46%8F%D8&amp;LN=7&amp;R1=*****&amp;R2=*****">007-AC0049</a>  April 3, 2014</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&amp;PC=007&amp;TC=N&amp;PK=1&amp;FN=385ul&amp;SN=%94%46%8F%D8&amp;LN=35&amp;R1=*****&amp;R2=*****">007-AC0049</a>  October 30, 2014</li></ul>
+<p>RRA filing: <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://rra.go.kr/board/device/view.jsp?app_no=201317100000127829">http://rra.go.kr/board/device/view.jsp?app_no=201317100000127829</a> 30 July 2013
+</p><p>Anatel: 
+</p>
+<ul><li>0990-15-6223</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://sistemas.anatel.gov.br/sgch/HistoricoCertificado/Homologacao.asp?NumRFGCT=254413&amp;idtHistoricoCert=9753308">2307-13-6223</a> 30/07/2014 (<a href="/ps4/CUH-ZCT1U" class="mw-redirect" title="CUH-ZCT1U">CUH-ZCT1U</a>)</li></ul>
+<h3><span class="mw-headline" id="Factorycode">Factorycode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=3" title="Edit section: Factorycode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>location:</b> on sticker with modelnumber, productcode etc.
+</p>
+<ul><li>G = GoerTek</li>
+<li>F1 = Foxconn Yantai</li>
+<li>F2 = Foxconn Guiyang</li></ul>
+<h3><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=4" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th colspan="2">Overview of Technical Specifications
+</th></tr>
+<tr>
+<td><b>External Dimension</b></td>
+<td>approximately 162mm x 52mm x 98mm (width x depth x height)
+</td></tr>
+<tr>
+<td><b>Weight</b></td>
+<td>approximately 210g
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Rechargeable_battery">Rechargeable battery</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Lithium-ion_battery">Lithium-ion rechargeable battery</a>  	3.65 V  <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Direct_current">DC</a> / 1000 <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Ampere-hour">mAh</a>
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Wireless#Wireless_data_communications">wireless communications</a></td>
+<td><a href="/ps4/File:Bluetooth.svg" class="image" title="Bluetooth"><img alt="Bluetooth" src="/ps4/images/thumb/d/da/Bluetooth.svg/13px-Bluetooth.svg.png" width="13" height="18" srcset="/ps4/images/thumb/d/da/Bluetooth.svg/20px-Bluetooth.svg.png 1.5x, /ps4/images/thumb/d/da/Bluetooth.svg/27px-Bluetooth.svg.png 2x" /></a>&#160;<a href="/ps4/Bluetooth" title="Bluetooth">Bluetooth</a>: <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Bluetooth#Bluetooth_v2.1_.2B_EDR">2.1 +EDR</a>
+</td></tr>
+<tr>
+<td><b><a href="/ps4/Connectors" title="Connectors">Connection Type</a></b></td>
+<td>USB 2.0 (charging and/or communication - micro-B female), Extension port, <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Phone_connector_%28audio%29#TRRS_standards">jack</a>
+<p><small>(for Stereo headset / <a href="/ps4/Earset" title="Earset">Earset</a>)</small>
+</p>
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Computer_speaker">Speaker</a></td>
+<td>Built-in <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Monaural">mono speaker</a>
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Motion_controller#Gaming">Motion Controller</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Motion_detection">Detection</a></td>
+<td>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Sixaxis">Six-axis</a>:</li></ul>
+<pre>(three-axis <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Gyroscope">gyroscope</a>, 
+three-axis <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Accelerometer">accelerometer</a>)
+</pre>
+<ul><li>Lightbar (Move):</li></ul>
+<pre>User / player 1 is <span style="background:blue; color:#FFFFFF;">blue </span>
+User / player 2 is <span style="background:red; color:#FFFFFF;">red  </span>
+User / player 3 is <span style="background:green; color:#FFFFFF;">green</span>
+User / player 4 is <span style="background:pink; color:#000000;">pink </span>
+</pre>
+<p><small>
+</small></p><small>
+<pre>Settings menu (since FW <a href="/ps4/1.700.000" title="1.700.000">1.70</a>) is allowing you to change it to Bright, Medium or Dim.
+</pre>
+</small><p><small></small>
+</p><p><small>
+</small></p><small>
+<pre>If you disconnect your DualShock 4 and for some reason the light turns white, 
+hold the PS button for 15 seconds and the controller will reset.
+</pre>
+</small><p><small></small>
+<small>
+The PS4 can use the light bar for determining where the player is located.
+</small></p><p><small><a href="/ps4/Game_Titles" title="Game Titles">Games</a> can feedback information via the light bar (and should not turn off it).
+</small>
+</p>
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Haptic_technology#Video_games">Feedback</a></td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Immersion_v._Sony">Vibration</a> (max time for vibration is 2.5 seconds)
+</td></tr>
+<tr>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Gamepad">GamePad buttons</a></td>
+<td>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/PlayStation_Controller">Action buttons:</a> <a href="/ps4/File:Tex-guidepanel-Cross.png" class="image" title="Dualshock cross button"><img alt="Dualshock cross button" src="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/23px-Tex-guidepanel-Cross.png" width="23" height="23" srcset="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/35px-Tex-guidepanel-Cross.png 1.5x, /ps4/images/3/31/Tex-guidepanel-Cross.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Square.png" class="image" title="Dualshock square button"><img alt="Dualshock square button" src="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/23px-Tex_guidepanel_Square.png" width="23" height="23" srcset="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/35px-Tex_guidepanel_Square.png 1.5x, /ps4/images/e/e9/Tex_guidepanel_Square.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Circle.png" class="image" title="Dualshock circle button"><img alt="Dualshock circle button" src="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/23px-Tex_guidepanel_Circle.png" width="23" height="23" srcset="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/35px-Tex_guidepanel_Circle.png 1.5x, /ps4/images/a/ad/Tex_guidepanel_Circle.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Triangle.png" class="image" title="Dualshock triangle button"><img alt="Dualshock triangle button" src="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/23px-Tex_guidepanel_Triangle.png" width="23" height="23" srcset="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/35px-Tex_guidepanel_Triangle.png 1.5x, /ps4/images/7/75/Tex_guidepanel_Triangle.png 2x" /></a> (digital)</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/D-pad">Concaved Directional pad buttons:</a> <a href="/ps4/File:Tex_cp_cursor_left.png" class="image" title="D-Pad left button"><img alt="D-Pad left button" src="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/23px-Tex_cp_cursor_left.png" width="23" height="23" srcset="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/35px-Tex_cp_cursor_left.png 1.5x, /ps4/images/8/84/Tex_cp_cursor_left.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_right.png" class="image" title="D-Pad right button"><img alt="D-Pad right button" src="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/23px-Tex_cp_cursor_right.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/35px-Tex_cp_cursor_right.png 1.5x, /ps4/images/c/c4/Tex_cp_cursor_right.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_up.png" class="image" title="D-Pad up button"><img alt="D-Pad up button" src="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/23px-Tex_cp_cursor_up.png" width="23" height="23" srcset="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/35px-Tex_cp_cursor_up.png 1.5x, /ps4/images/6/6f/Tex_cp_cursor_up.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_down.png" class="image" title="D-Pad down button"><img alt="D-Pad down button" src="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/23px-Tex_cp_cursor_down.png" width="23" height="23" srcset="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/35px-Tex_cp_cursor_down.png 1.5x, /ps4/images/3/34/Tex_cp_cursor_down.png 2x" /></a> (digital)</li>
+<li>Left stick:  <a href="/ps4/File:Tex_guidepanel_L.png" class="image" title="Dualshock Left stick"><img alt="Dualshock Left stick" src="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/23px-Tex_guidepanel_L.png" width="23" height="23" srcset="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/35px-Tex_guidepanel_L.png 1.5x, /ps4/images/e/e5/Tex_guidepanel_L.png 2x" /></a> (analog)</li>
+<li>Right stick:  <a href="/ps4/File:Tex_guidepanel_R.png" class="image" title="Dualshock Right stick"><img alt="Dualshock Right stick" src="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/23px-Tex_guidepanel_R.png" width="23" height="23" srcset="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/35px-Tex_guidepanel_R.png 1.5x, /ps4/images/7/7a/Tex_guidepanel_R.png 2x" /></a> (analog)</li>
+<li>Shoulder buttons: <a href="/ps4/File:Tex_guidepanel_L1.png" class="image" title="Dualshock L1 button"><img alt="Dualshock L1 button" src="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/23px-Tex_guidepanel_L1.png" width="23" height="23" srcset="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/35px-Tex_guidepanel_L1.png 1.5x, /ps4/images/b/b3/Tex_guidepanel_L1.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_L2.png" class="image" title="Dualshock L2 button"><img alt="Dualshock L2 button" src="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/23px-Tex_guidepanel_L2.png" width="23" height="23" srcset="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/35px-Tex_guidepanel_L2.png 1.5x, /ps4/images/e/e8/Tex_guidepanel_L2.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_R1.png" class="image" title="Dualshock R1 button"><img alt="Dualshock R1 button" src="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/23px-Tex_guidepanel_R1.png" width="23" height="23" srcset="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/35px-Tex_guidepanel_R1.png 1.5x, /ps4/images/a/ab/Tex_guidepanel_R1.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_R2.png" class="image" title="Dualshock R2 button"><img alt="Dualshock R2 button" src="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/23px-Tex_guidepanel_R2.png" width="23" height="23" srcset="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/35px-Tex_guidepanel_R2.png 1.5x, /ps4/images/9/9a/Tex_guidepanel_R2.png 2x" /></a> (analog)</li>
+<li>PS button: <a href="/ps4/File:Tex_guidepanel_PS.png" class="image" title="Dualshock PS button"><img alt="Dualshock PS button" src="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/23px-Tex_guidepanel_PS.png" width="23" height="23" srcset="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/35px-Tex_guidepanel_PS.png 1.5x, /ps4/images/1/16/Tex_guidepanel_PS.png 2x" /></a> (digital)</li>
+<li><a href="/ps4/Share" title="Share">SHARE</a> button (live gameplay videostreaming, screenshots to friends or Ushare) <a href="/ps4/File:Tex_guidepanel_Share.png" class="image" title="Dualshock share button"><img alt="Dualshock share button" src="/ps4/images/thumb/8/85/Tex_guidepanel_Share.png/23px-Tex_guidepanel_Share.png" width="23" height="23" srcset="/ps4/images/thumb/8/85/Tex_guidepanel_Share.png/35px-Tex_guidepanel_Share.png 1.5x, /ps4/images/8/85/Tex_guidepanel_Share.png 2x" /></a> (digital)</li>
+<li>OPTIONS button <a href="/ps4/File:Tex_guidepanel_Option.png" class="image" title="Dualshock option button"><img alt="Dualshock option button" src="/ps4/images/thumb/6/67/Tex_guidepanel_Option.png/23px-Tex_guidepanel_Option.png" width="23" height="23" srcset="/ps4/images/thumb/6/67/Tex_guidepanel_Option.png/35px-Tex_guidepanel_Option.png 1.5x, /ps4/images/6/67/Tex_guidepanel_Option.png 2x" /></a> (digital)</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Multi-touch">2 point Touchpad</a> (<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://en.wikipedia.org/wiki/Capacitive_sensing">capacitive type</a>) with press switch (digital):</li></ul>
+<p>52mmx23mm (external approximately) with resolution:
+</p>
+<pre>CUH-ZCT1x series (Retail) 1920x943 (44.86 dots/mm)
+<a href="/ps4/CAP-ZCT1x_series" title="CAP-ZCT1x series">CAP-ZCT1x series</a> (NonRetail) 1920x943
+<a href="/ps4/JDX-1000x_series" title="JDX-1000x series">JDX-1000x series</a> (NonRetail) 1920x754
+</pre>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=5" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See also <a href="/ps4/Components" title="Components">Components page</a>
+</p><p><b><span id="Pre_E3_pictures"><a href="#Pre_E3_pictures">Pre E3 pictures</a></span></b>
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:45.5px auto;"><a href="/ps4/File:Dualshock4-back.jpg" class="image"><img alt="" src="/ps4/images/thumb/4/49/Dualshock4-back.jpg/100px-Dualshock4-back.jpg" width="100" height="39" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 back
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:41px auto;"><a href="/ps4/File:Dualshock4-leftside.jpg" class="image"><img alt="" src="/ps4/images/thumb/d/de/Dualshock4-leftside.jpg/100px-Dualshock4-leftside.jpg" width="100" height="48" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 leftside
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:33.5px auto;"><a href="/ps4/File:Dualshock4-top.jpg" class="image"><img alt="" src="/ps4/images/thumb/b/bf/Dualshock4-top.jpg/100px-Dualshock4-top.jpg" width="100" height="63" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 top
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:15px auto;"><a href="/ps4/File:Dualshock4-rightside.jpg" class="image"><img alt="" src="/ps4/images/thumb/d/df/Dualshock4-rightside.jpg/85px-Dualshock4-rightside.jpg" width="85" height="100" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 rightside
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:42px auto;"><a href="/ps4/File:Dualshock4-leftback-lateral.jpg" class="image"><img alt="" src="/ps4/images/thumb/3/31/Dualshock4-leftback-lateral.jpg/100px-Dualshock4-leftback-lateral.jpg" width="100" height="46" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 leftback lateral
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><b><span id="Post_E3_pictures"><a href="#Post_E3_pictures">Post E3 pictures</a></span></b>
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:54.5px auto;"><a href="/ps4/File:Ds4_ps_camera.jpg" class="image"><img alt="" src="/ps4/images/thumb/e/eb/Ds4_ps_camera.jpg/100px-Ds4_ps_camera.jpg" width="100" height="21" /></a></div></div>
+			<div class="gallerytext">
+<p>DS4 &amp; PS Camera
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:32px auto;"><a href="/ps4/File:DUALSHOCK4_01.jpg" class="image"><img alt="" src="/ps4/images/thumb/4/49/DUALSHOCK4_01.jpg/100px-DUALSHOCK4_01.jpg" width="100" height="66" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 01
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:32px auto;"><a href="/ps4/File:DUALSHOCK4_02.jpg" class="image"><img alt="" src="/ps4/images/thumb/3/31/DUALSHOCK4_02.jpg/100px-DUALSHOCK4_02.jpg" width="100" height="66" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 02
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:45.5px auto;"><a href="/ps4/File:DUALSHOCK4_03.jpg" class="image"><img alt="" src="/ps4/images/thumb/9/9f/DUALSHOCK4_03.jpg/100px-DUALSHOCK4_03.jpg" width="100" height="39" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 03
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:36px auto;"><a href="/ps4/File:DUALSHOCK4_04.jpg" class="image"><img alt="" src="/ps4/images/thumb/7/7c/DUALSHOCK4_04.jpg/100px-DUALSHOCK4_04.jpg" width="100" height="58" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 04
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:41.5px auto;"><a href="/ps4/File:DUALSHOCK4_05.jpg" class="image"><img alt="" src="/ps4/images/thumb/5/5f/DUALSHOCK4_05.jpg/100px-DUALSHOCK4_05.jpg" width="100" height="47" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 05
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:15px auto;"><a href="/ps4/File:DUALSHOCK4_06.jpg" class="image"><img alt="" src="/ps4/images/thumb/e/ed/DUALSHOCK4_06.jpg/81px-DUALSHOCK4_06.jpg" width="81" height="100" /></a></div></div>
+			<div class="gallerytext">
+<p>Dualshock4 - pic 06
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:42.5px auto;"><a href="/ps4/File:DS4_CUHZCT1_03_Glacier_White_top.png" class="image"><img alt="" src="/ps4/images/thumb/b/b2/DS4_CUHZCT1_03_Glacier_White_top.png/100px-DS4_CUHZCT1_03_Glacier_White_top.png" width="100" height="45" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/ps4/DS4" class="mw-redirect" title="DS4">DS4</a> CUHZCT1 03 Glacier White top
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:42.5px auto;"><a href="/ps4/File:DS4_CUHZCT1_03_Glacier_White_lateral.png" class="image"><img alt="" src="/ps4/images/thumb/7/7e/DS4_CUHZCT1_03_Glacier_White_lateral.png/100px-DS4_CUHZCT1_03_Glacier_White_lateral.png" width="100" height="45" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/ps4/DS4" class="mw-redirect" title="DS4">DS4</a> CUHZCT1 03 Glacier White lateral
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:31.5px auto;"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_top.jpg" class="image"><img alt="" src="/ps4/images/thumb/e/e7/DS4_CUHZCT1_04_Urban_Camouflage_top.jpg/100px-DS4_CUHZCT1_04_Urban_Camouflage_top.jpg" width="100" height="67" /></a></div></div>
+			<div class="gallerytext">
+<p>DS4 CUHZCT1 04 Urban Camouflage top
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:42.5px auto;"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_lateral.png" class="image"><img alt="" src="/ps4/images/thumb/e/e8/DS4_CUHZCT1_04_Urban_Camouflage_lateral.png/100px-DS4_CUHZCT1_04_Urban_Camouflage_lateral.png" width="100" height="45" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/ps4/DS4" class="mw-redirect" title="DS4">DS4</a> CUHZCT1 04 Urban Camouflage lateral
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:15px auto;"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_Box.png" class="image"><img alt="" src="/ps4/images/thumb/f/f8/DS4_CUHZCT1_04_Urban_Camouflage_Box.png/86px-DS4_CUHZCT1_04_Urban_Camouflage_Box.png" width="86" height="100" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/ps4/DS4" class="mw-redirect" title="DS4">DS4</a> CUHZCT1 04 Urban Camouflage Box
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:31.5px auto;"><a href="/ps4/File:DualShock_4_-_20th_Anniversary_(2015_remake)_-_image1.jpg" class="image"><img alt="" src="/ps4/images/thumb/4/46/DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image1.jpg/100px-DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image1.jpg" width="100" height="67" /></a></div></div>
+			<div class="gallerytext">
+<p>PlayStation <a class="mw-selflink selflink">DualShock 4</a> - 20th Anniversary (2015 remake)- image1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:31.5px auto;"><a href="/ps4/File:DualShock_4_-_20th_Anniversary_(2015_remake)_-_image2.jpg" class="image"><img alt="" src="/ps4/images/thumb/c/c9/DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image2.jpg/100px-DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image2.jpg" width="100" height="67" /></a></div></div>
+			<div class="gallerytext">
+<p>PlayStation <a class="mw-selflink selflink">DualShock 4</a> - 20th Anniversary (2015 remake)- image2
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:31.5px auto;"><a href="/ps4/File:DualShock_4_-_20th_Anniversary_(2015_remake)_-_image3.jpg" class="image"><img alt="" src="/ps4/images/thumb/1/13/DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image3.jpg/100px-DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image3.jpg" width="100" height="67" /></a></div></div>
+			<div class="gallerytext">
+<p>PlayStation <a class="mw-selflink selflink">DualShock 4</a> - 20th Anniversary (2015 remake)- image3
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 135px"><div style="width: 135px">
+			<div class="thumb" style="width: 130px;"><div style="margin:31.5px auto;"><a href="/ps4/File:DualShock_4_-_20th_Anniversary_(2015_remake)_-_image4.jpg" class="image"><img alt="" src="/ps4/images/thumb/f/fa/DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image4.jpg/100px-DualShock_4_-_20th_Anniversary_%282015_remake%29_-_image4.jpg" width="100" height="67" /></a></div></div>
+			<div class="gallerytext">
+<p>PlayStation <a class="mw-selflink selflink">DualShock 4</a> - 20th Anniversary (2015 remake)- image4
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><b><span id="Colorway_.26_Layout"><a href="#Colorway_.26_Layout">Colorway &amp; Layout </a></span></b>
+</p><p>Mouseover for different colorway. 
+</p>
+<table class="wikitable" style="font-size:x-small; border:3px double #000FFF;">
+<tbody><tr>
+<th>Front</th>
+<th>Front</th>
+<th>Front</th>
+<th>Lateral</th>
+<th>Lateral
+</th></tr>
+<tr>
+<td><div class="hoverbox">
+<div class="hoveritem selected">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/ps4/File:Dual-shock-4-magma-red-cuh-zct1e-01.jpg" class="image"><img alt="" src="/ps4/images/thumb/f/f5/Dual-shock-4-magma-red-cuh-zct1e-01.jpg/300px-Dual-shock-4-magma-red-cuh-zct1e-01.jpg" width="300" height="200" class="thumbimage" srcset="/ps4/images/thumb/f/f5/Dual-shock-4-magma-red-cuh-zct1e-01.jpg/450px-Dual-shock-4-magma-red-cuh-zct1e-01.jpg 1.5x, /ps4/images/thumb/f/f5/Dual-shock-4-magma-red-cuh-zct1e-01.jpg/600px-Dual-shock-4-magma-red-cuh-zct1e-01.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:Dual-shock-4-magma-red-cuh-zct1e-01.jpg" class="internal" title="Enlarge"></a></div>Magma Red</div></div></div>
+</div>
+<div class="hoveritem">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/ps4/File:Dual-shock-4-wave-blue-cuh-zct1e-02.jpg" class="image"><img alt="" src="/ps4/images/thumb/a/a3/Dual-shock-4-wave-blue-cuh-zct1e-02.jpg/300px-Dual-shock-4-wave-blue-cuh-zct1e-02.jpg" width="300" height="200" class="thumbimage" srcset="/ps4/images/thumb/a/a3/Dual-shock-4-wave-blue-cuh-zct1e-02.jpg/450px-Dual-shock-4-wave-blue-cuh-zct1e-02.jpg 1.5x, /ps4/images/thumb/a/a3/Dual-shock-4-wave-blue-cuh-zct1e-02.jpg/600px-Dual-shock-4-wave-blue-cuh-zct1e-02.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:Dual-shock-4-wave-blue-cuh-zct1e-02.jpg" class="internal" title="Enlarge"></a></div>Wave Blue</div></div></div>
+</div>
+</div>
+</td>
+<td>
+<div class="hoverbox">
+<div class="hoveritem selected">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/ps4/File:PS4_Batman_Arkham_Knight_05.jpg" class="image"><img alt="" src="/ps4/images/thumb/a/a0/PS4_Batman_Arkham_Knight_05.jpg/300px-PS4_Batman_Arkham_Knight_05.jpg" width="300" height="200" class="thumbimage" srcset="/ps4/images/thumb/a/a0/PS4_Batman_Arkham_Knight_05.jpg/450px-PS4_Batman_Arkham_Knight_05.jpg 1.5x, /ps4/images/thumb/a/a0/PS4_Batman_Arkham_Knight_05.jpg/600px-PS4_Batman_Arkham_Knight_05.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:PS4_Batman_Arkham_Knight_05.jpg" class="internal" title="Enlarge"></a></div>Batman Arkham Knight</div></div></div>
+</div>
+<div class="hoveritem">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/ps4/File:DS4_Final_Fantasy_Type-0_Front.jpg" class="image"><img alt="" src="/ps4/images/thumb/7/73/DS4_Final_Fantasy_Type-0_Front.jpg/300px-DS4_Final_Fantasy_Type-0_Front.jpg" width="300" height="200" class="thumbimage" srcset="/ps4/images/thumb/7/73/DS4_Final_Fantasy_Type-0_Front.jpg/450px-DS4_Final_Fantasy_Type-0_Front.jpg 1.5x, /ps4/images/thumb/7/73/DS4_Final_Fantasy_Type-0_Front.jpg/600px-DS4_Final_Fantasy_Type-0_Front.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_Final_Fantasy_Type-0_Front.jpg" class="internal" title="Enlarge"></a></div>Final Fantasy Type-0</div></div></div>
+</div>
+</div>
+</td>
+<td>
+<div class="hoverbox">
+<div class="hoveritem selected">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:DS4_Metal_Slime_Edition_-_top.jpg" class="image"><img alt="" src="/ps4/images/thumb/9/92/DS4_Metal_Slime_Edition_-_top.jpg/320px-DS4_Metal_Slime_Edition_-_top.jpg" width="320" height="213" class="thumbimage" srcset="/ps4/images/thumb/9/92/DS4_Metal_Slime_Edition_-_top.jpg/480px-DS4_Metal_Slime_Edition_-_top.jpg 1.5x, /ps4/images/9/92/DS4_Metal_Slime_Edition_-_top.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_Metal_Slime_Edition_-_top.jpg" class="internal" title="Enlarge"></a></div>Dragon Quest</div></div></div>
+</div>
+<div class="hoveritem">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_top.jpg" class="image"><img alt="" src="/ps4/images/thumb/e/e7/DS4_CUHZCT1_04_Urban_Camouflage_top.jpg/320px-DS4_CUHZCT1_04_Urban_Camouflage_top.jpg" width="320" height="213" class="thumbimage" srcset="/ps4/images/thumb/e/e7/DS4_CUHZCT1_04_Urban_Camouflage_top.jpg/480px-DS4_CUHZCT1_04_Urban_Camouflage_top.jpg 1.5x, /ps4/images/thumb/e/e7/DS4_CUHZCT1_04_Urban_Camouflage_top.jpg/640px-DS4_CUHZCT1_04_Urban_Camouflage_top.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_top.jpg" class="internal" title="Enlarge"></a></div>Urban_Camouflage</div></div></div>
+</div>
+</div>
+</td>
+<td>
+<div class="hoverbox">
+<div class="hoveritem selected">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:Cuhzct1j01side.png" class="image"><img alt="" src="/ps4/images/thumb/f/f3/Cuhzct1j01side.png/320px-Cuhzct1j01side.png" width="320" height="143" class="thumbimage" srcset="/ps4/images/thumb/f/f3/Cuhzct1j01side.png/480px-Cuhzct1j01side.png 1.5x, /ps4/images/f/f3/Cuhzct1j01side.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:Cuhzct1j01side.png" class="internal" title="Enlarge"></a></div>Magma Red</div></div></div>
+</div>
+<div class="hoveritem">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:Cuhzct1j02side.png" class="image"><img alt="" src="/ps4/images/thumb/6/68/Cuhzct1j02side.png/320px-Cuhzct1j02side.png" width="320" height="143" class="thumbimage" srcset="/ps4/images/thumb/6/68/Cuhzct1j02side.png/480px-Cuhzct1j02side.png 1.5x, /ps4/images/6/68/Cuhzct1j02side.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:Cuhzct1j02side.png" class="internal" title="Enlarge"></a></div>Wave Blue</div></div></div>
+</div>
+</div>
+</td>
+<td>
+<div class="hoverbox">
+<div class="hoveritem selected">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:DS4_CUHZCT1_03_Glacier_White_lateral.png" class="image"><img alt="" src="/ps4/images/thumb/7/7e/DS4_CUHZCT1_03_Glacier_White_lateral.png/320px-DS4_CUHZCT1_03_Glacier_White_lateral.png" width="320" height="143" class="thumbimage" srcset="/ps4/images/thumb/7/7e/DS4_CUHZCT1_03_Glacier_White_lateral.png/480px-DS4_CUHZCT1_03_Glacier_White_lateral.png 1.5x, /ps4/images/7/7e/DS4_CUHZCT1_03_Glacier_White_lateral.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_CUHZCT1_03_Glacier_White_lateral.png" class="internal" title="Enlarge"></a></div>Glacier White</div></div></div>
+</div>
+<div class="hoveritem">
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_lateral.png" class="image"><img alt="" src="/ps4/images/thumb/e/e8/DS4_CUHZCT1_04_Urban_Camouflage_lateral.png/320px-DS4_CUHZCT1_04_Urban_Camouflage_lateral.png" width="320" height="143" class="thumbimage" srcset="/ps4/images/thumb/e/e8/DS4_CUHZCT1_04_Urban_Camouflage_lateral.png/480px-DS4_CUHZCT1_04_Urban_Camouflage_lateral.png 1.5x, /ps4/images/e/e8/DS4_CUHZCT1_04_Urban_Camouflage_lateral.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_CUHZCT1_04_Urban_Camouflage_lateral.png" class="internal" title="Enlarge"></a></div>Urban Camouflage</div></div></div>
+</div>
+</div>
+</td></tr></tbody></table>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/ps4/File:Dualshock_4_Layout.svg" class="image"><img alt="" src="/ps4/images/thumb/e/e8/Dualshock_4_Layout.svg/120px-Dualshock_4_Layout.svg.png" width="120" height="80" srcset="/ps4/images/thumb/e/e8/Dualshock_4_Layout.svg/180px-Dualshock_4_Layout.svg.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Top Front
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:45px auto;"><a href="/ps4/File:Dualshock_4_Layout_2.svg" class="image"><img alt="" src="/ps4/images/thumb/6/68/Dualshock_4_Layout_2.svg/120px-Dualshock_4_Layout_2.svg.png" width="120" height="60" srcset="/ps4/images/thumb/6/68/Dualshock_4_Layout_2.svg/180px-Dualshock_4_Layout_2.svg.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>Lateral Side
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Teardown">Teardown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=6" title="Edit section: Teardown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See also <i><a href="/ps4/Talk:DualShock_4" title="Talk:DualShock 4">Discussion</a></i> page
+</p>
+<table class="wikitable" style="font-size:x-small; border:3px double #000FFF;">
+
+<tbody><tr>
+<th style="background-color:#000FFF; color:#FFFFFF;">Repair, Charging port fix, battery replacement. Complete Tear down
+</th></tr>
+<tr>
+<td><div class="embedvideo autoResize" style=""><div class="embedvideowrap" style="width: 640px;"><iframe src="//www.youtube.com/embed/Z_dOZERWYGo?" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe></div></div>
+</td></tr>
+</tbody></table>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35.5px auto;"><a href="/ps4/File:Ps4-controller-00.jpg" class="image"><img alt="" src="/ps4/images/thumb/1/1a/Ps4-controller-00.jpg/120px-Ps4-controller-00.jpg" width="120" height="79" srcset="/ps4/images/thumb/1/1a/Ps4-controller-00.jpg/180px-Ps4-controller-00.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 0
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:33px auto;"><a href="/ps4/File:Ps4-controller-01.jpg" class="image"><img alt="" src="/ps4/images/thumb/8/80/Ps4-controller-01.jpg/120px-Ps4-controller-01.jpg" width="120" height="84" srcset="/ps4/images/thumb/8/80/Ps4-controller-01.jpg/180px-Ps4-controller-01.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:18px auto;"><a href="/ps4/File:Ps4-controller-02.jpg" class="image"><img alt="" src="/ps4/images/thumb/3/3e/Ps4-controller-02.jpg/120px-Ps4-controller-02.jpg" width="120" height="114" srcset="/ps4/images/thumb/3/3e/Ps4-controller-02.jpg/180px-Ps4-controller-02.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 2
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:42px auto;"><a href="/ps4/File:Ps4-controller-03.jpg" class="image"><img alt="" src="/ps4/images/thumb/8/89/Ps4-controller-03.jpg/120px-Ps4-controller-03.jpg" width="120" height="66" srcset="/ps4/images/thumb/8/89/Ps4-controller-03.jpg/180px-Ps4-controller-03.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 3
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:26px auto;"><a href="/ps4/File:Ps4-controller-04.jpg" class="image"><img alt="" src="/ps4/images/thumb/7/78/Ps4-controller-04.jpg/120px-Ps4-controller-04.jpg" width="120" height="98" srcset="/ps4/images/thumb/7/78/Ps4-controller-04.jpg/180px-Ps4-controller-04.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 4
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:40.5px auto;"><a href="/ps4/File:Ps4-controller-05.jpg" class="image"><img alt="" src="/ps4/images/thumb/3/32/Ps4-controller-05.jpg/120px-Ps4-controller-05.jpg" width="120" height="69" srcset="/ps4/images/thumb/3/32/Ps4-controller-05.jpg/180px-Ps4-controller-05.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 5
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:46.5px auto;"><a href="/ps4/File:Ps4-controller-06.jpg" class="image"><img alt="" src="/ps4/images/thumb/a/a6/Ps4-controller-06.jpg/120px-Ps4-controller-06.jpg" width="120" height="57" srcset="/ps4/images/thumb/a/a6/Ps4-controller-06.jpg/180px-Ps4-controller-06.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 6
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:48px auto;"><a href="/ps4/File:Ps4-controller-07.jpg" class="image"><img alt="" src="/ps4/images/thumb/d/d8/Ps4-controller-07.jpg/120px-Ps4-controller-07.jpg" width="120" height="54" srcset="/ps4/images/thumb/d/d8/Ps4-controller-07.jpg/180px-Ps4-controller-07.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DualShock 4 - picture 7
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/ps4/File:DualShock4_-_3.65V_li-ion_1000mAh_LiOn_battery.jpg" class="image"><img alt="" src="/ps4/images/thumb/8/8e/DualShock4_-_3.65V_li-ion_1000mAh_LiOn_battery.jpg/120px-DualShock4_-_3.65V_li-ion_1000mAh_LiOn_battery.jpg" width="120" height="80" srcset="/ps4/images/thumb/8/8e/DualShock4_-_3.65V_li-ion_1000mAh_LiOn_battery.jpg/180px-DualShock4_-_3.65V_li-ion_1000mAh_LiOn_battery.jpg 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p><a class="mw-selflink selflink">DualShock 4</a> - 3.65V li-ion 1000mAh LiOn battery
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29px auto;"><a href="/ps4/File:DS4_Exploded_View_-_lr_7.png" class="image"><img alt="" src="/ps4/images/thumb/f/f0/DS4_Exploded_View_-_lr_7.png/120px-DS4_Exploded_View_-_lr_7.png" width="120" height="92" srcset="/ps4/images/thumb/f/f0/DS4_Exploded_View_-_lr_7.png/180px-DS4_Exploded_View_-_lr_7.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DS4 Exploded View
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29.5px auto;"><a href="/ps4/File:DS4_Board_JDM-001_-_lr_8.png" class="image"><img alt="" src="/ps4/images/thumb/1/1d/DS4_Board_JDM-001_-_lr_8.png/120px-DS4_Board_JDM-001_-_lr_8.png" width="120" height="91" srcset="/ps4/images/thumb/1/1d/DS4_Board_JDM-001_-_lr_8.png/180px-DS4_Board_JDM-001_-_lr_8.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DS4 Board JDM-001 - main componentside
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29px auto;"><a href="/ps4/File:DS4_Board_JDM-001_-_lr_9.png" class="image"><img alt="" src="/ps4/images/thumb/5/56/DS4_Board_JDM-001_-_lr_9.png/120px-DS4_Board_JDM-001_-_lr_9.png" width="120" height="92" srcset="/ps4/images/thumb/5/56/DS4_Board_JDM-001_-_lr_9.png/180px-DS4_Board_JDM-001_-_lr_9.png 1.5x" /></a></div></div>
+			<div class="gallerytext">
+<p>DS4 Board JDM-001 - bottomside
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><br />
+Board: <a href="/ps4/edit/JDM-001?redlink=1" class="new" title="JDM-001 (page does not exist)">JDM-001</a> New/current-&gt; <a href="/ps4/edit/JDM-011?redlink=1" class="new" title="JDM-011 (page does not exist)">JDM-011</a> (no image available currently)  <a href="/ps4/edit/JDM-020?redlink=1" class="new" title="JDM-020 (page does not exist)">JDM-020</a> (No image available currently)
+</p><p>Productcode: 1-889-300-11
+</p>
+<h4><span class="mw-headline" id="Pinout">Pinout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=7" title="Edit section: Pinout">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span class="mw-headline" id="earset_connector">earset connector</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=8" title="Edit section: earset connector">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>first 5 pins + pins 6-13
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Pin</th>
+<th>Usage</th>
+<th>Remark
+</th></tr>
+<tr>
+<td>1</td>
+<td>Microphone</td>
+<td>
+</td></tr>
+<tr>
+<td>2</td>
+<td>Right Speaker</td>
+<td>
+</td></tr>
+<tr>
+<td>3</td>
+<td>Left Speaker</td>
+<td>
+</td></tr>
+<tr>
+<td>4</td>
+<td>Headset Detect</td>
+<td>Connects to Ground when Headset is plugged in
+</td></tr>
+<tr>
+<td>5</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>6</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>7</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>8</td>
+<td>EXT Detect</td>
+<td>Pulled Hi internally with 10k
+</td></tr>
+<tr>
+<td>9</td>
+<td>SCL</td>
+<td>Pulled up internally with 4.7k
+</td></tr>
+<tr>
+<td>10</td>
+<td>N/C</td>
+<td>Not Connected to anything in the JDM-055. It is connected to the MCU thru a 33ohm on the JDM-001.
+</td></tr>
+<tr>
+<td>11</td>
+<td>SDA</td>
+<td>Pulled up internally with 4.7k
+</td></tr>
+<tr>
+<td>12</td>
+<td>5v Input</td>
+<td>External 5v Input, used for charging
+</td></tr>
+<tr>
+<td>13</td>
+<td>3.2v</td>
+<td>
+</td></tr>
+</tbody></table>
+<h5><span class="mw-headline" id="uP_board_connector">uP board connector</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=9" title="Edit section: uP board connector">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Pin</th>
+<th>Usage</th>
+<th>Remark
+</th></tr>
+<tr>
+<td>1</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>2</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>6</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>8</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>9</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>10</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>11</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>12</td>
+<td></td>
+<td>
+</td></tr>
+</tbody></table>
+<h5><span class="mw-headline" id="flat_ribbon_connector">flat ribbon connector</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=10" title="Edit section: flat ribbon connector">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Pin</th>
+<th>Usage</th>
+<th>Remark
+</th></tr>
+<tr>
+<td>1</td>
+<td>Ground</td>
+<td>Thru 0ohm Resistor
+</td></tr>
+<tr>
+<td>2</td>
+<td>Blue-</td>
+<td>Blue LED Ground
+</td></tr>
+<tr>
+<td>3</td>
+<td>Red-</td>
+<td>Red LED Ground
+</td></tr>
+<tr>
+<td>4</td>
+<td>Green-</td>
+<td>Green LED Ground
+</td></tr>
+<tr>
+<td>5</td>
+<td>LED+</td>
+<td>Power for LEDs, 4.25v
+</td></tr>
+<tr>
+<td>6</td>
+<td>USB 5v</td>
+<td>
+</td></tr>
+<tr>
+<td>7</td>
+<td>USB 5v</td>
+<td>
+</td></tr>
+<tr>
+<td>8</td>
+<td>USB 5v</td>
+<td>
+</td></tr>
+<tr>
+<td>9</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>10</td>
+<td>USB D-</td>
+<td>
+</td></tr>
+<tr>
+<td>11</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>12</td>
+<td>USB D+</td>
+<td>
+</td></tr>
+<tr>
+<td>13</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>14</td>
+<td>Ground</td>
+<td>Thru 0ohm Resistor
+</td></tr>
+</tbody></table>
+<h5><span class="mw-headline" id="skewed_button_connector">skewed button connector</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=11" title="Edit section: skewed button connector">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Pin</th>
+<th>Usage</th>
+<th>Remark
+</th></tr>
+<tr>
+<td>1</td>
+<td><a href="/ps4/File:Tex_guidepanel_L2.png" class="image" title="Dualshock L2 button"><img alt="Dualshock L2 button" src="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/23px-Tex_guidepanel_L2.png" width="23" height="23" srcset="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/35px-Tex_guidepanel_L2.png 1.5x, /ps4/images/e/e8/Tex_guidepanel_L2.png 2x" /></a>-common</td>
+<td>oscillating between 0 and 3.2V
+</td></tr>
+<tr>
+<td>2</td>
+<td><a href="/ps4/File:Tex_guidepanel_L1.png" class="image" title="Dualshock L1 button"><img alt="Dualshock L1 button" src="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/23px-Tex_guidepanel_L1.png" width="23" height="23" srcset="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/35px-Tex_guidepanel_L1.png 1.5x, /ps4/images/b/b3/Tex_guidepanel_L1.png 2x" /></a></td>
+<td>active High
+</td></tr>
+<tr>
+<td>3</td>
+<td><a href="/ps4/File:Tex_guidepanel_L1.png" class="image" title="Dualshock L1 button"><img alt="Dualshock L1 button" src="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/23px-Tex_guidepanel_L1.png" width="23" height="23" srcset="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/35px-Tex_guidepanel_L1.png 1.5x, /ps4/images/b/b3/Tex_guidepanel_L1.png 2x" /></a>-common</td>
+<td>fixed at 3.2V
+</td></tr>
+<tr>
+<td>4</td>
+<td><a href="/ps4/File:Tex_guidepanel_L2.png" class="image" title="Dualshock L2 button"><img alt="Dualshock L2 button" src="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/23px-Tex_guidepanel_L2.png" width="23" height="23" srcset="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/35px-Tex_guidepanel_L2.png 1.5x, /ps4/images/e/e8/Tex_guidepanel_L2.png 2x" /></a></td>
+<td>voltage divider output, active low
+</td></tr>
+<tr>
+<td>5</td>
+<td><a href="/ps4/File:Tex_cp_cursor_right.png" class="image" title="D-Pad right button"><img alt="D-Pad right button" src="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/23px-Tex_cp_cursor_right.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/35px-Tex_cp_cursor_right.png 1.5x, /ps4/images/c/c4/Tex_cp_cursor_right.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>6</td>
+<td><a href="/ps4/File:Tex_cp_cursor_up.png" class="image" title="D-Pad up button"><img alt="D-Pad up button" src="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/23px-Tex_cp_cursor_up.png" width="23" height="23" srcset="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/35px-Tex_cp_cursor_up.png 1.5x, /ps4/images/6/6f/Tex_cp_cursor_up.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>7</td>
+<td><a href="/ps4/File:Tex_cp_cursor_left.png" class="image" title="D-Pad left button"><img alt="D-Pad left button" src="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/23px-Tex_cp_cursor_left.png" width="23" height="23" srcset="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/35px-Tex_cp_cursor_left.png 1.5x, /ps4/images/8/84/Tex_cp_cursor_left.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>8</td>
+<td><a href="/ps4/File:Tex_cp_cursor_down.png" class="image" title="D-Pad down button"><img alt="D-Pad down button" src="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/23px-Tex_cp_cursor_down.png" width="23" height="23" srcset="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/35px-Tex_cp_cursor_down.png 1.5x, /ps4/images/3/34/Tex_cp_cursor_down.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>9</td>
+<td>Common</td>
+<td>ground
+</td></tr>
+<tr>
+<td>10</td>
+<td><a href="/ps4/File:Tex_guidepanel_PS.png" class="image" title="Dualshock PS button"><img alt="Dualshock PS button" src="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/23px-Tex_guidepanel_PS.png" width="23" height="23" srcset="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/35px-Tex_guidepanel_PS.png 1.5x, /ps4/images/1/16/Tex_guidepanel_PS.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>11</td>
+<td><a href="/ps4/File:Tex-guidepanel-Cross.png" class="image" title="Dualshock cross button"><img alt="Dualshock cross button" src="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/23px-Tex-guidepanel-Cross.png" width="23" height="23" srcset="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/35px-Tex-guidepanel-Cross.png 1.5x, /ps4/images/3/31/Tex-guidepanel-Cross.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>12</td>
+<td><a href="/ps4/File:Tex_guidepanel_Circle.png" class="image" title="Dualshock circle button"><img alt="Dualshock circle button" src="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/23px-Tex_guidepanel_Circle.png" width="23" height="23" srcset="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/35px-Tex_guidepanel_Circle.png 1.5x, /ps4/images/a/ad/Tex_guidepanel_Circle.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>13</td>
+<td><a href="/ps4/File:Tex_guidepanel_Triangle.png" class="image" title="Dualshock triangle button"><img alt="Dualshock triangle button" src="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/23px-Tex_guidepanel_Triangle.png" width="23" height="23" srcset="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/35px-Tex_guidepanel_Triangle.png 1.5x, /ps4/images/7/75/Tex_guidepanel_Triangle.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>14</td>
+<td><a href="/ps4/File:Tex_guidepanel_Square.png" class="image" title="Dualshock square button"><img alt="Dualshock square button" src="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/23px-Tex_guidepanel_Square.png" width="23" height="23" srcset="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/35px-Tex_guidepanel_Square.png 1.5x, /ps4/images/e/e9/Tex_guidepanel_Square.png 2x" /></a></td>
+<td>active low
+</td></tr>
+<tr>
+<td>15</td>
+<td><a href="/ps4/File:Tex_guidepanel_R2.png" class="image" title="Dualshock R2 button"><img alt="Dualshock R2 button" src="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/23px-Tex_guidepanel_R2.png" width="23" height="23" srcset="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/35px-Tex_guidepanel_R2.png 1.5x, /ps4/images/9/9a/Tex_guidepanel_R2.png 2x" /></a>-common</td>
+<td>oscillating between 0 and 3.2V
+</td></tr>
+<tr>
+<td>16</td>
+<td><a href="/ps4/File:Tex_guidepanel_R1.png" class="image" title="Dualshock R1 button"><img alt="Dualshock R1 button" src="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/23px-Tex_guidepanel_R1.png" width="23" height="23" srcset="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/35px-Tex_guidepanel_R1.png 1.5x, /ps4/images/a/ab/Tex_guidepanel_R1.png 2x" /></a></td>
+<td>active high
+</td></tr>
+<tr>
+<td>17</td>
+<td><a href="/ps4/File:Tex_guidepanel_R1.png" class="image" title="Dualshock R1 button"><img alt="Dualshock R1 button" src="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/23px-Tex_guidepanel_R1.png" width="23" height="23" srcset="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/35px-Tex_guidepanel_R1.png 1.5x, /ps4/images/a/ab/Tex_guidepanel_R1.png 2x" /></a>-common</td>
+<td>fixed at 3.2V
+</td></tr>
+<tr>
+<td>18</td>
+<td><a href="/ps4/File:Tex_guidepanel_R2.png" class="image" title="Dualshock R2 button"><img alt="Dualshock R2 button" src="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/23px-Tex_guidepanel_R2.png" width="23" height="23" srcset="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/35px-Tex_guidepanel_R2.png 1.5x, /ps4/images/9/9a/Tex_guidepanel_R2.png 2x" /></a></td>
+<td>voltage divider output, active low
+</td></tr>
+</tbody></table>
+<h5><span class="mw-headline" id="battery_connector">battery connector</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=12" title="Edit section: battery connector">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Pin</th>
+<th>Usage</th>
+<th>Remark
+</th></tr>
+<tr>
+<td>1</td>
+<td>Ground</td>
+<td>
+</td></tr>
+<tr>
+<td>2</td>
+<td>Battery +</td>
+<td>Silk on PCB is 1, so it's backwards
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Analysis">Analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=13" title="Edit section: Analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/ps4/DS4-USB" title="DS4-USB">Communication USB</a></li>
+<li><a href="/ps4/DS4-BT" title="DS4-BT">Wireless Communication Bluetooth</a></li></ul>
+<ul><li>see also <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://lxr.free-electrons.com/source/drivers/hid/hid-sony.c">http://lxr.free-electrons.com/source/drivers/hid/hid-sony.c</a></li></ul>
+<h2><span class="mw-headline" id="Mods">Mods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=14" title="Edit section: Mods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>See also <a href="/ps4/DS4_Mods" title="DS4 Mods">DS4_Mods page</a> (Replacing battery in DS4, Replace Thumbsticks in DS4, ...)</li></ul>
+<h3><span class="mw-headline" id="Projects">Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=15" title="Edit section: Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="UsbXlater">UsbXlater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=16" title="Edit section: UsbXlater">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A project by <a href="/ps4/User:Frank26080115" title="User:Frank26080115">Frank Zhao</a> of <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://eleccelerator.com/">eleccelerator.com</a> to allow use of mouse/keyboard on systems designed for gamepad only.
+</p><p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://eleccelerator.com/keyboard-and-mouse-for-playstation-4-games-second-prototype/">http://eleccelerator.com/keyboard-and-mouse-for-playstation-4-games-second-prototype/</a>
+</p>
+<h4><span class="mw-headline" id="GIMX">GIMX</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=17" title="Edit section: GIMX">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Control a video game console with a PC
+</p><p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://blog.gimx.fr/">http://blog.gimx.fr/</a>
+</p>
+<h4><span class="mw-headline" id="DS4_on_PS3">DS4 on PS3 <a href="/ps4/File:PS3_Slim.png" class="image"><img alt="PS3 Slim.png" src="/ps4/images/thumb/5/5b/PS3_Slim.png/35px-PS3_Slim.png" width="35" height="22" srcset="/ps4/images/thumb/5/5b/PS3_Slim.png/53px-PS3_Slim.png 1.5x, /ps4/images/thumb/5/5b/PS3_Slim.png/70px-PS3_Slim.png 2x" /></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=18" title="Edit section: DS4 on PS3">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Use your DS4 on PS3 by <b>OsirisX</b>
+</p><p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.ps3hax.net/2015/08/release-ps3xpad-plugin-v0-5/">http://www.ps3hax.net/2015/08/release-ps3xpad-plugin-v0-5/</a>
+</p>
+<h4><span class="mw-headline" id="DS4_on_PS2">DS4 on PS2 <a href="/ps4/File:PS2.png" class="image"><img alt="PS2.png" src="/ps4/images/thumb/4/45/PS2.png/35px-PS2.png" width="35" height="25" srcset="/ps4/images/thumb/4/45/PS2.png/53px-PS2.png 1.5x, /ps4/images/thumb/4/45/PS2.png/70px-PS2.png 2x" /></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=19" title="Edit section: DS4 on PS2">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Use your DS4 on PS2 by <b>Xerpi</b>
+</p><p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://github.com/xerpi/libds4ps2">https://github.com/xerpi/libds4ps2</a>
+</p>
+<h4><span class="mw-headline" id="DS4_on_WII">DS4 on WII <a href="/ps4/File:Wii_Drawing.png" class="image"><img alt="Wii Drawing.png" src="/ps4/images/thumb/c/c4/Wii_Drawing.png/35px-Wii_Drawing.png" width="35" height="40" srcset="/ps4/images/thumb/c/c4/Wii_Drawing.png/53px-Wii_Drawing.png 1.5x, /ps4/images/thumb/c/c4/Wii_Drawing.png/70px-Wii_Drawing.png 2x" /></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=20" title="Edit section: DS4 on WII">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Use your DS4 on WII by <b>Xerpi</b>
+</p><p><b>USB:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://github.com/xerpi/ds4wii_gyro_test">https://github.com/xerpi/ds4wii_gyro_test</a>
+</p><p><b>Bluetooth:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://github.com/xerpi/ds4wiibt">https://github.com/xerpi/ds4wiibt</a>
+</p><p><b>Forum:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://playstationhax.it/forums/topic/718-working-poc-ds4wiibt-connection-between-dualshock4-and-wii-through-bluetooth/">http://playstationhax.it/forums/topic/718-working-poc-ds4wiibt-connection-between-dualshock4-and-wii-through-bluetooth/</a>
+</p>
+<h4><span class="mw-headline" id="Carbon_Project">Carbon Project</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=21" title="Edit section: Carbon Project">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="embedvideo autoResize" style=""><div class="embedvideowrap" style="width: 640px;"><iframe src="//www.youtube.com/embed/jOj65-Za77Y?" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe></div></div>
+<p>(Video DS4 wired to keyboard &amp; mouse)
+</p><p><b>Source:</b> <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.softfactory.com.br/index.php/blog/entry/carbon-project-hardware-stuff">http://www.softfactory.com.br/index.php/blog/entry/carbon-project-hardware-stuff</a>
+</p>
+<h4><span class="mw-headline" id="DS4_To_X-Input_Wrapper">DS4 To X-Input Wrapper</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=22" title="Edit section: DS4 To X-Input Wrapper">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div style="float:right"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/ps4/File:DS4_to_XInput_Wrapper.png" class="image"><img alt="" src="/ps4/images/thumb/9/98/DS4_to_XInput_Wrapper.png/200px-DS4_to_XInput_Wrapper.png" width="200" height="141" class="thumbimage" srcset="/ps4/images/thumb/9/98/DS4_to_XInput_Wrapper.png/300px-DS4_to_XInput_Wrapper.png 1.5x, /ps4/images/thumb/9/98/DS4_to_XInput_Wrapper.png/400px-DS4_to_XInput_Wrapper.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4_to_XInput_Wrapper.png" class="internal" title="Enlarge"></a></div>DS4 to XInput Wrapper</div></div></div></div>
+<div class="embedvideo autoResize" style=""><div class="embedvideowrap" style="width: 640px;"><iframe src="//www.youtube.com/embed/pNk36TOQfuk?" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe></div></div> 
+<p>(DS4 to Xinput Mapping tool (Play any game with DS4 on PC))
+</p><p><b>Source:</b> 
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://forums.pcsx2.net/Thread-DS4-To-XInput-Wrapper">http://forums.pcsx2.net/Thread-DS4-To-XInput-Wrapper</a>
+</p><p><b>Download:</b>
+</p>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.dropbox.com/s/hmq1z4aak6sjeu6/DS4Tool.zip">https://www.dropbox.com/s/hmq1z4aak6sjeu6/DS4Tool.zip</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="https://www.mediafire.com/?ds6c4r911axi5t4">https://www.mediafire.com/?ds6c4r911axi5t4</a></li></ul>
+<h4><span class="mw-headline" id="PS4PC">PS4PC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=23" title="Edit section: PS4PC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>PS4 Controller touchpad to mouse adapter.
+</p><p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.ishgard.com/ps4pc">http://www.ishgard.com/ps4pc</a>
+</p>
+<h4><span id="Arduino_library_(with_USB_Host_Shield)"></span><span class="mw-headline" id="Arduino_library_.28with_USB_Host_Shield.29">Arduino library (with USB Host Shield)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=24" title="Edit section: Arduino library (with USB Host Shield)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>Source:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://blog.tkjelectronics.dk/2014/01/ps4-controller-now-supported-by-the-usb-host-library/#more-4247">http://blog.tkjelectronics.dk/2014/01/ps4-controller-now-supported-by-the-usb-host-library/#more-4247</a>
+</p>
+<h4><span class="mw-headline" id="Controllers_for_All">Controllers for All</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=25" title="Edit section: Controllers for All">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>DS3 / DS4 on iOS
+</p>
+<div class="embedvideo autoResize" style=""><div class="embedvideowrap" style="width: 640px;"><iframe src="//www.youtube.com/embed/3-wWNfUG58Qo?" width="640" height="360" frameborder="0" allowfullscreen="true"></iframe></div></div> 
+<p>(Video Play iOS games with Sony PlayStation Dual Shock 4 controller)
+</p><p><b>Forum:</b>
+<a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.ps3hax.net/showthread.php?t=69603">http://www.ps3hax.net/showthread.php?t=69603</a>
+</p>
+<h4><span class="mw-headline" id="Android">Android</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=26" title="Edit section: Android">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>DS4 on Android
+</p>
+<ul><li>USB/BT Joystick Center <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://play.google.com/store/apps/details?id=com.poke64738.usbjoygold">PAID</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://play.google.com/store/apps/details?id=com.poke64738.usbjoygolddemo">DEMO</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://play.google.com/store/apps/details?id=com.chimera.saturday.dualshock4tester">ps4 controller tester</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://play.google.com/store/apps/details?id=com.catalyst06.gamepadmappingime">Game Controller 2 Touch</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://play.google.com/store/apps/details?id=com.colten.dualshok">PS4 Controller</a> (virtual only / abandoned)</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://forum.xda-developers.com/showpost.php?p=66644357&amp;postcount=11">Key Layout</a> File for Android</li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://forum.xda-developers.com/android/apps-games/mod-ps4-remote-play-native-gamepad-t2975609">http://forum.xda-developers.com/android/apps-games/mod-ps4-remote-play-native-gamepad-t2975609</a></li></ul>
+<h4><span class="mw-headline" id="disable_leds">disable leds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=27" title="Edit section: disable leds">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.neogaf.com/forum/showthread.php?t=723148">http://www.neogaf.com/forum/showthread.php?t=723148</a>
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="End-user_products">End-user products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=28" title="Edit section: End-user products">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/ps4/ATEN" title="ATEN">ATEN</a> Phantom S</li>
+<li><a href="/ps4/Tuact" title="Tuact">Tuact</a> Venom-X</li>
+<li><a href="/ps4/XIM" title="XIM">XIM</a> XIM4</li>
+<li><a href="/ps4/TitanOne" title="TitanOne">TitanOne</a> - Titan One</li>
+<li><a href="/ps4/CronusMAX" title="CronusMAX">CronusMAX</a> - Cronus Max</li>
+<li><a href="/ps4/Splitfish" title="Splitfish">Splitfish</a> - NewGen</li></ul>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=29" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://ouyabrew.com/trick-ouya-using-ps4-controller/">http://ouyabrew.com/trick-ouya-using-ps4-controller/</a></li></ul>
+<h2><span class="mw-headline" id="PS3_compatibility">PS3 compatibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=30" title="Edit section: PS3 compatibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unless stated otherwise, any game working with DualShock 3 and not relying on functions of buttons only available on the DualShock 3, vibration or wireless, <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.ign.com/wikis/playstation-4/DualShock_4_Compatible_PlayStation_3_Games">should be compatible</a>.
+</p><p>Incompatible games (and buttons) should works with a DS4 emulated as a DS3 (e.g.: using GIMX)
+</p>
+<h3><span class="mw-headline" id="Wireless">Wireless</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=31" title="Edit section: Wireless">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li>Connect DS4 with wire to PS3 then turn on.</li>
+<li>Go to Accessory settings.</li>
+<li>Select Manage Bluetooth Devices, and scan for device.</li>
+<li>While scanning hold the PS &amp; Share buttons on the DS4.</li>
+<li>Select Wireless Controller. The DS4 light should now be white.</li>
+<li>Unplug wire and test it out.</li></ol>
+<p><small><b>Note:</b> <i>The DualShock 4 isn’t fully supported on PS3 so features such as vibrate, Six Axis and PS Button will not function.</i></small>
+</p><p>Source: <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://www.psu.com/a023889/How-to-use-the-DualShock-4-PS4-controller-wirelessly-on-PS3">http://www.psu.com/a023889/How-to-use-the-DualShock-4-PS4-controller-wirelessly-on-PS3</a>
+</p>
+<h3><span class="mw-headline" id="Incompatible_games">Incompatible games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=32" title="Edit section: Incompatible games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Gran Turismo 5</li>
+<li>Gran Turismo 6</li>
+<li>Grand Theft Auto V</li>
+<li>Jak and Daxter HD Collection (only the analog sticks work)</li>
+<li>Metal Gear Solid HD Collecion (Metal Gear Solid: Peace Walker works)</li>
+<li>Resistance 3</li>
+<li>Double Dragon Neon</li></ul>
+<h3><span class="mw-headline" id="Controller_Translation">Controller Translation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=33" title="Edit section: Controller Translation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="float:right"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/ps4/File:PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg" class="image"><img alt="" src="/ps4/images/thumb/a/ac/PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg/200px-PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg" width="200" height="133" class="thumbimage" srcset="/ps4/images/thumb/a/ac/PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg/300px-PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg 1.5x, /ps4/images/thumb/a/ac/PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg/400px-PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:PSVita_Rear_Touch_Pad_Sections_L2-R2-L3-R3.jpg" class="internal" title="Enlarge"></a></div>PSVita Rear Touch Pad Sections L2/R2/L3/R3</div></div></div></div>
+<table class="wikitable">
+
+<tbody><tr>
+<th><a class="mw-selflink selflink">DualShock 4</a></th>
+<th><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.psdevwiki.com/ps3/DualShock_3">DualShock 3</a></th>
+<th><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.vitadevwiki.com/">PSVita</a></th>
+<th>Vita TV / Playstation TV
+</th></tr>
+<tr>
+<td><a href="/ps4/File:Tex_cp_cursor_left.png" class="image" title="D-Pad left button"><img alt="D-Pad left button" src="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/23px-Tex_cp_cursor_left.png" width="23" height="23" srcset="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/35px-Tex_cp_cursor_left.png 1.5x, /ps4/images/8/84/Tex_cp_cursor_left.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_right.png" class="image" title="D-Pad right button"><img alt="D-Pad right button" src="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/23px-Tex_cp_cursor_right.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/35px-Tex_cp_cursor_right.png 1.5x, /ps4/images/c/c4/Tex_cp_cursor_right.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_up.png" class="image" title="D-Pad up button"><img alt="D-Pad up button" src="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/23px-Tex_cp_cursor_up.png" width="23" height="23" srcset="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/35px-Tex_cp_cursor_up.png 1.5x, /ps4/images/6/6f/Tex_cp_cursor_up.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_down.png" class="image" title="D-Pad down button"><img alt="D-Pad down button" src="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/23px-Tex_cp_cursor_down.png" width="23" height="23" srcset="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/35px-Tex_cp_cursor_down.png 1.5x, /ps4/images/3/34/Tex_cp_cursor_down.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_cp_cursor_left.png" class="image" title="D-Pad left button"><img alt="D-Pad left button" src="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/23px-Tex_cp_cursor_left.png" width="23" height="23" srcset="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/35px-Tex_cp_cursor_left.png 1.5x, /ps4/images/8/84/Tex_cp_cursor_left.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_right.png" class="image" title="D-Pad right button"><img alt="D-Pad right button" src="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/23px-Tex_cp_cursor_right.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/35px-Tex_cp_cursor_right.png 1.5x, /ps4/images/c/c4/Tex_cp_cursor_right.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_up.png" class="image" title="D-Pad up button"><img alt="D-Pad up button" src="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/23px-Tex_cp_cursor_up.png" width="23" height="23" srcset="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/35px-Tex_cp_cursor_up.png 1.5x, /ps4/images/6/6f/Tex_cp_cursor_up.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_down.png" class="image" title="D-Pad down button"><img alt="D-Pad down button" src="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/23px-Tex_cp_cursor_down.png" width="23" height="23" srcset="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/35px-Tex_cp_cursor_down.png 1.5x, /ps4/images/3/34/Tex_cp_cursor_down.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_cp_cursor_left.png" class="image" title="D-Pad left button"><img alt="D-Pad left button" src="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/23px-Tex_cp_cursor_left.png" width="23" height="23" srcset="/ps4/images/thumb/8/84/Tex_cp_cursor_left.png/35px-Tex_cp_cursor_left.png 1.5x, /ps4/images/8/84/Tex_cp_cursor_left.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_right.png" class="image" title="D-Pad right button"><img alt="D-Pad right button" src="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/23px-Tex_cp_cursor_right.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Tex_cp_cursor_right.png/35px-Tex_cp_cursor_right.png 1.5x, /ps4/images/c/c4/Tex_cp_cursor_right.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_up.png" class="image" title="D-Pad up button"><img alt="D-Pad up button" src="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/23px-Tex_cp_cursor_up.png" width="23" height="23" srcset="/ps4/images/thumb/6/6f/Tex_cp_cursor_up.png/35px-Tex_cp_cursor_up.png 1.5x, /ps4/images/6/6f/Tex_cp_cursor_up.png 2x" /></a> <a href="/ps4/File:Tex_cp_cursor_down.png" class="image" title="D-Pad down button"><img alt="D-Pad down button" src="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/23px-Tex_cp_cursor_down.png" width="23" height="23" srcset="/ps4/images/thumb/3/34/Tex_cp_cursor_down.png/35px-Tex_cp_cursor_down.png 1.5x, /ps4/images/3/34/Tex_cp_cursor_down.png 2x" /></a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex-guidepanel-Cross.png" class="image" title="Dualshock cross button"><img alt="Dualshock cross button" src="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/23px-Tex-guidepanel-Cross.png" width="23" height="23" srcset="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/35px-Tex-guidepanel-Cross.png 1.5x, /ps4/images/3/31/Tex-guidepanel-Cross.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Square.png" class="image" title="Dualshock square button"><img alt="Dualshock square button" src="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/23px-Tex_guidepanel_Square.png" width="23" height="23" srcset="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/35px-Tex_guidepanel_Square.png 1.5x, /ps4/images/e/e9/Tex_guidepanel_Square.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Circle.png" class="image" title="Dualshock circle button"><img alt="Dualshock circle button" src="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/23px-Tex_guidepanel_Circle.png" width="23" height="23" srcset="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/35px-Tex_guidepanel_Circle.png 1.5x, /ps4/images/a/ad/Tex_guidepanel_Circle.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Triangle.png" class="image" title="Dualshock triangle button"><img alt="Dualshock triangle button" src="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/23px-Tex_guidepanel_Triangle.png" width="23" height="23" srcset="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/35px-Tex_guidepanel_Triangle.png 1.5x, /ps4/images/7/75/Tex_guidepanel_Triangle.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex-guidepanel-Cross.png" class="image" title="Dualshock cross button"><img alt="Dualshock cross button" src="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/23px-Tex-guidepanel-Cross.png" width="23" height="23" srcset="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/35px-Tex-guidepanel-Cross.png 1.5x, /ps4/images/3/31/Tex-guidepanel-Cross.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Square.png" class="image" title="Dualshock square button"><img alt="Dualshock square button" src="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/23px-Tex_guidepanel_Square.png" width="23" height="23" srcset="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/35px-Tex_guidepanel_Square.png 1.5x, /ps4/images/e/e9/Tex_guidepanel_Square.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Circle.png" class="image" title="Dualshock circle button"><img alt="Dualshock circle button" src="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/23px-Tex_guidepanel_Circle.png" width="23" height="23" srcset="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/35px-Tex_guidepanel_Circle.png 1.5x, /ps4/images/a/ad/Tex_guidepanel_Circle.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Triangle.png" class="image" title="Dualshock triangle button"><img alt="Dualshock triangle button" src="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/23px-Tex_guidepanel_Triangle.png" width="23" height="23" srcset="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/35px-Tex_guidepanel_Triangle.png 1.5x, /ps4/images/7/75/Tex_guidepanel_Triangle.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex-guidepanel-Cross.png" class="image" title="Dualshock cross button"><img alt="Dualshock cross button" src="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/23px-Tex-guidepanel-Cross.png" width="23" height="23" srcset="/ps4/images/thumb/3/31/Tex-guidepanel-Cross.png/35px-Tex-guidepanel-Cross.png 1.5x, /ps4/images/3/31/Tex-guidepanel-Cross.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Square.png" class="image" title="Dualshock square button"><img alt="Dualshock square button" src="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/23px-Tex_guidepanel_Square.png" width="23" height="23" srcset="/ps4/images/thumb/e/e9/Tex_guidepanel_Square.png/35px-Tex_guidepanel_Square.png 1.5x, /ps4/images/e/e9/Tex_guidepanel_Square.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Circle.png" class="image" title="Dualshock circle button"><img alt="Dualshock circle button" src="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/23px-Tex_guidepanel_Circle.png" width="23" height="23" srcset="/ps4/images/thumb/a/ad/Tex_guidepanel_Circle.png/35px-Tex_guidepanel_Circle.png 1.5x, /ps4/images/a/ad/Tex_guidepanel_Circle.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_Triangle.png" class="image" title="Dualshock triangle button"><img alt="Dualshock triangle button" src="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/23px-Tex_guidepanel_Triangle.png" width="23" height="23" srcset="/ps4/images/thumb/7/75/Tex_guidepanel_Triangle.png/35px-Tex_guidepanel_Triangle.png 1.5x, /ps4/images/7/75/Tex_guidepanel_Triangle.png 2x" /></a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Stick_L_LEFT.png" class="image" title="Stick Left - Move left"><img alt="Stick Left - Move left" src="/ps4/images/thumb/0/03/Stick_L_LEFT.png/23px-Stick_L_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/0/03/Stick_L_LEFT.png/35px-Stick_L_LEFT.png 1.5x, /ps4/images/0/03/Stick_L_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_L_RIGHT.png" class="image" title="Stick Left - Move right"><img alt="Stick Left - Move right" src="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/23px-Stick_L_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/35px-Stick_L_RIGHT.png 1.5x, /ps4/images/7/7b/Stick_L_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_L_UP.png" class="image" title="Stick Left - Move up"><img alt="Stick Left - Move up" src="/ps4/images/thumb/2/27/Stick_L_UP.png/23px-Stick_L_UP.png" width="23" height="23" srcset="/ps4/images/thumb/2/27/Stick_L_UP.png/35px-Stick_L_UP.png 1.5x, /ps4/images/2/27/Stick_L_UP.png 2x" /></a> <a href="/ps4/File:Stick_L_DOWN.png" class="image" title="Stick Left - Move down"><img alt="Stick Left - Move down" src="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/23px-Stick_L_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/35px-Stick_L_DOWN.png 1.5x, /ps4/images/4/4a/Stick_L_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_L.png" class="image" title="Dualshock Left stick"><img alt="Dualshock Left stick" src="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/23px-Tex_guidepanel_L.png" width="23" height="23" srcset="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/35px-Tex_guidepanel_L.png 1.5x, /ps4/images/e/e5/Tex_guidepanel_L.png 2x" /></a></td>
+<td><a href="/ps4/File:Stick_L_LEFT.png" class="image" title="Stick Left - Move left"><img alt="Stick Left - Move left" src="/ps4/images/thumb/0/03/Stick_L_LEFT.png/23px-Stick_L_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/0/03/Stick_L_LEFT.png/35px-Stick_L_LEFT.png 1.5x, /ps4/images/0/03/Stick_L_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_L_RIGHT.png" class="image" title="Stick Left - Move right"><img alt="Stick Left - Move right" src="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/23px-Stick_L_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/35px-Stick_L_RIGHT.png 1.5x, /ps4/images/7/7b/Stick_L_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_L_UP.png" class="image" title="Stick Left - Move up"><img alt="Stick Left - Move up" src="/ps4/images/thumb/2/27/Stick_L_UP.png/23px-Stick_L_UP.png" width="23" height="23" srcset="/ps4/images/thumb/2/27/Stick_L_UP.png/35px-Stick_L_UP.png 1.5x, /ps4/images/2/27/Stick_L_UP.png 2x" /></a> <a href="/ps4/File:Stick_L_DOWN.png" class="image" title="Stick Left - Move down"><img alt="Stick Left - Move down" src="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/23px-Stick_L_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/35px-Stick_L_DOWN.png 1.5x, /ps4/images/4/4a/Stick_L_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_L.png" class="image" title="Dualshock Left stick"><img alt="Dualshock Left stick" src="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/23px-Tex_guidepanel_L.png" width="23" height="23" srcset="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/35px-Tex_guidepanel_L.png 1.5x, /ps4/images/e/e5/Tex_guidepanel_L.png 2x" /></a></td>
+<td><a href="/ps4/File:Stick_L_LEFT.png" class="image" title="Stick Left - Move left"><img alt="Stick Left - Move left" src="/ps4/images/thumb/0/03/Stick_L_LEFT.png/23px-Stick_L_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/0/03/Stick_L_LEFT.png/35px-Stick_L_LEFT.png 1.5x, /ps4/images/0/03/Stick_L_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_L_RIGHT.png" class="image" title="Stick Left - Move right"><img alt="Stick Left - Move right" src="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/23px-Stick_L_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/7/7b/Stick_L_RIGHT.png/35px-Stick_L_RIGHT.png 1.5x, /ps4/images/7/7b/Stick_L_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_L_UP.png" class="image" title="Stick Left - Move up"><img alt="Stick Left - Move up" src="/ps4/images/thumb/2/27/Stick_L_UP.png/23px-Stick_L_UP.png" width="23" height="23" srcset="/ps4/images/thumb/2/27/Stick_L_UP.png/35px-Stick_L_UP.png 1.5x, /ps4/images/2/27/Stick_L_UP.png 2x" /></a> <a href="/ps4/File:Stick_L_DOWN.png" class="image" title="Stick Left - Move down"><img alt="Stick Left - Move down" src="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/23px-Stick_L_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4a/Stick_L_DOWN.png/35px-Stick_L_DOWN.png 1.5x, /ps4/images/4/4a/Stick_L_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_L.png" class="image" title="Dualshock Left stick"><img alt="Dualshock Left stick" src="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/23px-Tex_guidepanel_L.png" width="23" height="23" srcset="/ps4/images/thumb/e/e5/Tex_guidepanel_L.png/35px-Tex_guidepanel_L.png 1.5x, /ps4/images/e/e5/Tex_guidepanel_L.png 2x" /></a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Stick_R_LEFT.png" class="image" title="Stick Right - Move left"><img alt="Stick Right - Move left" src="/ps4/images/thumb/2/26/Stick_R_LEFT.png/23px-Stick_R_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/2/26/Stick_R_LEFT.png/35px-Stick_R_LEFT.png 1.5x, /ps4/images/2/26/Stick_R_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_R_RIGHT.png" class="image" title="Stick Right - Move right"><img alt="Stick Right - Move right" src="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/23px-Stick_R_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/35px-Stick_R_RIGHT.png 1.5x, /ps4/images/c/c4/Stick_R_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_R_UP.png" class="image" title="Stick Right - Move up"><img alt="Stick Right - Move up" src="/ps4/images/thumb/9/90/Stick_R_UP.png/23px-Stick_R_UP.png" width="23" height="23" srcset="/ps4/images/thumb/9/90/Stick_R_UP.png/35px-Stick_R_UP.png 1.5x, /ps4/images/9/90/Stick_R_UP.png 2x" /></a> <a href="/ps4/File:Stick_R_DOWN.png" class="image" title="Stick Right - Move down"><img alt="Stick Right - Move down" src="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/23px-Stick_R_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/35px-Stick_R_DOWN.png 1.5x, /ps4/images/4/4d/Stick_R_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_R.png" class="image" title="Dualshock Right stick"><img alt="Dualshock Right stick" src="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/23px-Tex_guidepanel_R.png" width="23" height="23" srcset="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/35px-Tex_guidepanel_R.png 1.5x, /ps4/images/7/7a/Tex_guidepanel_R.png 2x" /></a></td>
+<td><a href="/ps4/File:Stick_R_LEFT.png" class="image" title="Stick Right - Move left"><img alt="Stick Right - Move left" src="/ps4/images/thumb/2/26/Stick_R_LEFT.png/23px-Stick_R_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/2/26/Stick_R_LEFT.png/35px-Stick_R_LEFT.png 1.5x, /ps4/images/2/26/Stick_R_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_R_RIGHT.png" class="image" title="Stick Right - Move right"><img alt="Stick Right - Move right" src="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/23px-Stick_R_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/35px-Stick_R_RIGHT.png 1.5x, /ps4/images/c/c4/Stick_R_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_R_UP.png" class="image" title="Stick Right - Move up"><img alt="Stick Right - Move up" src="/ps4/images/thumb/9/90/Stick_R_UP.png/23px-Stick_R_UP.png" width="23" height="23" srcset="/ps4/images/thumb/9/90/Stick_R_UP.png/35px-Stick_R_UP.png 1.5x, /ps4/images/9/90/Stick_R_UP.png 2x" /></a> <a href="/ps4/File:Stick_R_DOWN.png" class="image" title="Stick Right - Move down"><img alt="Stick Right - Move down" src="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/23px-Stick_R_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/35px-Stick_R_DOWN.png 1.5x, /ps4/images/4/4d/Stick_R_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_R.png" class="image" title="Dualshock Right stick"><img alt="Dualshock Right stick" src="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/23px-Tex_guidepanel_R.png" width="23" height="23" srcset="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/35px-Tex_guidepanel_R.png 1.5x, /ps4/images/7/7a/Tex_guidepanel_R.png 2x" /></a></td>
+<td><a href="/ps4/File:Stick_R_LEFT.png" class="image" title="Stick Right - Move left"><img alt="Stick Right - Move left" src="/ps4/images/thumb/2/26/Stick_R_LEFT.png/23px-Stick_R_LEFT.png" width="23" height="23" srcset="/ps4/images/thumb/2/26/Stick_R_LEFT.png/35px-Stick_R_LEFT.png 1.5x, /ps4/images/2/26/Stick_R_LEFT.png 2x" /></a> <a href="/ps4/File:Stick_R_RIGHT.png" class="image" title="Stick Right - Move right"><img alt="Stick Right - Move right" src="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/23px-Stick_R_RIGHT.png" width="23" height="23" srcset="/ps4/images/thumb/c/c4/Stick_R_RIGHT.png/35px-Stick_R_RIGHT.png 1.5x, /ps4/images/c/c4/Stick_R_RIGHT.png 2x" /></a> <a href="/ps4/File:Stick_R_UP.png" class="image" title="Stick Right - Move up"><img alt="Stick Right - Move up" src="/ps4/images/thumb/9/90/Stick_R_UP.png/23px-Stick_R_UP.png" width="23" height="23" srcset="/ps4/images/thumb/9/90/Stick_R_UP.png/35px-Stick_R_UP.png 1.5x, /ps4/images/9/90/Stick_R_UP.png 2x" /></a> <a href="/ps4/File:Stick_R_DOWN.png" class="image" title="Stick Right - Move down"><img alt="Stick Right - Move down" src="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/23px-Stick_R_DOWN.png" width="23" height="23" srcset="/ps4/images/thumb/4/4d/Stick_R_DOWN.png/35px-Stick_R_DOWN.png 1.5x, /ps4/images/4/4d/Stick_R_DOWN.png 2x" /></a> <a href="/ps4/File:Tex_guidepanel_R.png" class="image" title="Dualshock Right stick"><img alt="Dualshock Right stick" src="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/23px-Tex_guidepanel_R.png" width="23" height="23" srcset="/ps4/images/thumb/7/7a/Tex_guidepanel_R.png/35px-Tex_guidepanel_R.png 1.5x, /ps4/images/7/7a/Tex_guidepanel_R.png 2x" /></a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_L3.png" class="image" title="Dualshock L3 button"><img alt="Dualshock L3 button" src="/ps4/images/thumb/0/0b/Tex_guidepanel_L3.png/23px-Tex_guidepanel_L3.png" width="23" height="23" srcset="/ps4/images/thumb/0/0b/Tex_guidepanel_L3.png/35px-Tex_guidepanel_L3.png 1.5x, /ps4/images/0/0b/Tex_guidepanel_L3.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R3.png" class="image" title="Dualshock R3 button"><img alt="Dualshock R3 button" src="/ps4/images/thumb/0/0a/Tex_guidepanel_R3.png/23px-Tex_guidepanel_R3.png" width="23" height="23" srcset="/ps4/images/thumb/0/0a/Tex_guidepanel_R3.png/35px-Tex_guidepanel_R3.png 1.5x, /ps4/images/0/0a/Tex_guidepanel_R3.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_guidepanel_L3.png" class="image" title="Dualshock L3 button"><img alt="Dualshock L3 button" src="/ps4/images/thumb/0/0b/Tex_guidepanel_L3.png/23px-Tex_guidepanel_L3.png" width="23" height="23" srcset="/ps4/images/thumb/0/0b/Tex_guidepanel_L3.png/35px-Tex_guidepanel_L3.png 1.5x, /ps4/images/0/0b/Tex_guidepanel_L3.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R3.png" class="image" title="Dualshock R3 button"><img alt="Dualshock R3 button" src="/ps4/images/thumb/0/0a/Tex_guidepanel_R3.png/23px-Tex_guidepanel_R3.png" width="23" height="23" srcset="/ps4/images/thumb/0/0a/Tex_guidepanel_R3.png/35px-Tex_guidepanel_R3.png 1.5x, /ps4/images/0/0a/Tex_guidepanel_R3.png 2x" /></a></td>
+<td>rear touch pad section</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_L1.png" class="image" title="Dualshock L1 button"><img alt="Dualshock L1 button" src="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/23px-Tex_guidepanel_L1.png" width="23" height="23" srcset="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/35px-Tex_guidepanel_L1.png 1.5x, /ps4/images/b/b3/Tex_guidepanel_L1.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R1.png" class="image" title="Dualshock R1 button"><img alt="Dualshock R1 button" src="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/23px-Tex_guidepanel_R1.png" width="23" height="23" srcset="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/35px-Tex_guidepanel_R1.png 1.5x, /ps4/images/a/ab/Tex_guidepanel_R1.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_guidepanel_L1.png" class="image" title="Dualshock L1 button"><img alt="Dualshock L1 button" src="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/23px-Tex_guidepanel_L1.png" width="23" height="23" srcset="/ps4/images/thumb/b/b3/Tex_guidepanel_L1.png/35px-Tex_guidepanel_L1.png 1.5x, /ps4/images/b/b3/Tex_guidepanel_L1.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R1.png" class="image" title="Dualshock R1 button"><img alt="Dualshock R1 button" src="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/23px-Tex_guidepanel_R1.png" width="23" height="23" srcset="/ps4/images/thumb/a/ab/Tex_guidepanel_R1.png/35px-Tex_guidepanel_R1.png 1.5x, /ps4/images/a/ab/Tex_guidepanel_R1.png 2x" /></a></td>
+<td>L/R button</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_L2.png" class="image" title="Dualshock L2 button"><img alt="Dualshock L2 button" src="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/23px-Tex_guidepanel_L2.png" width="23" height="23" srcset="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/35px-Tex_guidepanel_L2.png 1.5x, /ps4/images/e/e8/Tex_guidepanel_L2.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R2.png" class="image" title="Dualshock R2 button"><img alt="Dualshock R2 button" src="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/23px-Tex_guidepanel_R2.png" width="23" height="23" srcset="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/35px-Tex_guidepanel_R2.png 1.5x, /ps4/images/9/9a/Tex_guidepanel_R2.png 2x" /></a> (analog)</td>
+<td><a href="/ps4/File:Tex_guidepanel_L2.png" class="image" title="Dualshock L2 button"><img alt="Dualshock L2 button" src="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/23px-Tex_guidepanel_L2.png" width="23" height="23" srcset="/ps4/images/thumb/e/e8/Tex_guidepanel_L2.png/35px-Tex_guidepanel_L2.png 1.5x, /ps4/images/e/e8/Tex_guidepanel_L2.png 2x" /></a>/<a href="/ps4/File:Tex_guidepanel_R2.png" class="image" title="Dualshock R2 button"><img alt="Dualshock R2 button" src="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/23px-Tex_guidepanel_R2.png" width="23" height="23" srcset="/ps4/images/thumb/9/9a/Tex_guidepanel_R2.png/35px-Tex_guidepanel_R2.png 1.5x, /ps4/images/9/9a/Tex_guidepanel_R2.png 2x" /></a> (analog)</td>
+<td>rear touch pad section (digital)</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_Option.png" class="image" title="Dualshock option button"><img alt="Dualshock option button" src="/ps4/images/thumb/6/67/Tex_guidepanel_Option.png/23px-Tex_guidepanel_Option.png" width="23" height="23" srcset="/ps4/images/thumb/6/67/Tex_guidepanel_Option.png/35px-Tex_guidepanel_Option.png 1.5x, /ps4/images/6/67/Tex_guidepanel_Option.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_guidepanel_Start.png" class="image" title="Dualshock start button"><img alt="Dualshock start button" src="/ps4/images/thumb/6/64/Tex_guidepanel_Start.png/23px-Tex_guidepanel_Start.png" width="23" height="23" srcset="/ps4/images/thumb/6/64/Tex_guidepanel_Start.png/35px-Tex_guidepanel_Start.png 1.5x, /ps4/images/6/64/Tex_guidepanel_Start.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_guidepanel_Start.png" class="image" title="Dualshock start button"><img alt="Dualshock start button" src="/ps4/images/thumb/6/64/Tex_guidepanel_Start.png/23px-Tex_guidepanel_Start.png" width="23" height="23" srcset="/ps4/images/thumb/6/64/Tex_guidepanel_Start.png/35px-Tex_guidepanel_Start.png 1.5x, /ps4/images/6/64/Tex_guidepanel_Start.png 2x" /></a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_Share.png" class="image" title="Dualshock share button"><img alt="Dualshock share button" src="/ps4/images/thumb/8/85/Tex_guidepanel_Share.png/23px-Tex_guidepanel_Share.png" width="23" height="23" srcset="/ps4/images/thumb/8/85/Tex_guidepanel_Share.png/35px-Tex_guidepanel_Share.png 1.5x, /ps4/images/8/85/Tex_guidepanel_Share.png 2x" /></a></td>
+<td><a href="/ps4/File:Tex_guidepanel_Select.png" class="image" title="Dualshock select button"><img alt="Dualshock select button" src="/ps4/images/thumb/5/5a/Tex_guidepanel_Select.png/23px-Tex_guidepanel_Select.png" width="23" height="23" srcset="/ps4/images/thumb/5/5a/Tex_guidepanel_Select.png/35px-Tex_guidepanel_Select.png 1.5x, /ps4/images/5/5a/Tex_guidepanel_Select.png 2x" /></a></td>
+<td>touchscreen menu section</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/ps4/File:Tex_guidepanel_PS.png" class="image" title="Dualshock PS button"><img alt="Dualshock PS button" src="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/23px-Tex_guidepanel_PS.png" width="23" height="23" srcset="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/35px-Tex_guidepanel_PS.png 1.5x, /ps4/images/1/16/Tex_guidepanel_PS.png 2x" /></a></td>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td>touchscreen menu section</td>
+<td>
+</td></tr>
+<tr>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td><a href="/ps4/File:Tex_guidepanel_PS.png" class="image" title="Dualshock PS button"><img alt="Dualshock PS button" src="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/23px-Tex_guidepanel_PS.png" width="23" height="23" srcset="/ps4/images/thumb/1/16/Tex_guidepanel_PS.png/35px-Tex_guidepanel_PS.png 1.5x, /ps4/images/1/16/Tex_guidepanel_PS.png 2x" /></a></td>
+<td>touchscreen menu section</td>
+<td>
+</td></tr>
+<tr>
+<td>Motion sensors</td>
+<td>Motion sensors</td>
+<td>Motion sensors</td>
+<td>
+</td></tr>
+<tr>
+<td>Touchpad</td>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td>rear touch pad section</td>
+<td>
+</td></tr>
+<tr>
+<td>Vibration</td>
+<td>Vibration</td>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td>
+</td></tr>
+<tr>
+<td>Light bar</td>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td style="background:lightgrey; color:#ff0000; text-align: center;">NA</td>
+<td>
+</td></tr>
+</tbody></table>
+<p>For DS3/DS4 on PS TV: <a target="_blank" rel="nofollow noreferrer noopener" class="external free" href="http://manuals.playstation.net/document/en/pstv/game/touchpointer.html">http://manuals.playstation.net/document/en/pstv/game/touchpointer.html</a>
+</p>
+<h2><span class="mw-headline" id="Web_Browser">Web Browser</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=34" title="Edit section: Web Browser">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="float:right"><div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/ps4/File:DS4-diagram-controller-web.png" class="image"><img alt="" src="/ps4/images/thumb/1/16/DS4-diagram-controller-web.png/200px-DS4-diagram-controller-web.png" width="200" height="95" class="thumbimage" srcset="/ps4/images/thumb/1/16/DS4-diagram-controller-web.png/300px-DS4-diagram-controller-web.png 1.5x, /ps4/images/thumb/1/16/DS4-diagram-controller-web.png/400px-DS4-diagram-controller-web.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/ps4/File:DS4-diagram-controller-web.png" class="internal" title="Enlarge"></a></div>DS4 layout web browser</div></div></div></div>
+<p><strike>Despite having a whopping great trackpad on the new PS4 controller, it can't be used in the browser, so you're stuck with the thumbsticks and d-pad.</strike>
+</p><p>The touchpad has also been updated (FW <a href="/ps4/1.700.000" title="1.700.000">1.70</a>), allowing you to navigate the on-screen keyboard using the DUALSHOCK 4 touchpad.
+</p><p>When the on-screen keyboard is open, pushing in the right thumbstick puts it into a motion-based mode where you can select keys by tilting the controller. This can be surprisingly accurate.
+</p><p>Pushing in The D-pad acts like the TAB key on a keyboard, focusing on links.
+</p><p>The browser can be used while a game is in progress.
+</p>
+<h2><span class="mw-headline" id="Generic">Generic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/ps4/edit/DualShock_4?section=35" title="Edit section: Generic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><abbr title="SCE International (worldwide)"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.playstation.com/">SCEI</a></abbr> Patent:</li></ul>
+<p><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.google.co.uk/patents/US8491388">Game system and game controller</a> (sensor unit detects vibration caused by the vibrator)
+</p>
+<ul><li><abbr title="SCE America (Argentina, Brazil, Canada, Chile, Colombia, Mexico, Peru, United States)"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.companyregistration.playstation.com/SCEInternetApplications/AreaNewLicensee/MainSystem/CFModules/NewLicensee/snl_master_template.cfm?v_which_region=scea">SCEA</a></abbr> Patent:</li></ul>
+<p><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://patentimages.storage.googleapis.com/pdfs/US8368753.pdf">US008368753B2</a> / <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.google.co.uk/patents/US8368753">Controller with an integrated depth camera</a>
+</p>
+<table class="navbox" cellspacing="0" style=";"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;"><tbody><tr><th scope="col" style=";" class="navbox-title" colspan="3"><div class="noprint plainlinks hlist navbar" style=""><ul><li class="nv-view"><a href="/ps4/Template:Peripherals" title="Template:Peripherals"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li><li class="nv-edit"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.psdevwiki.com/ps4/edit/Template:Peripherals"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li></ul></div><div class="" style="font-size:110%;">
+<a href="/ps4/Peripherals" title="Peripherals">Peripherals</a></div></th></tr><tr style="height:2px;"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;">Retail</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+<a href="/ps4/Charging_Station" title="Charging Station">Charging Station</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Collectables" title="Collectables">Collectables</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a class="mw-selflink selflink">DualShock 4</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Earset" title="Earset">Earset</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Game_Control_Mount" title="Game Control Mount">Game Control Mount</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Gold_Wireless_Stereo_Headset" title="Gold Wireless Stereo Headset">Gold Wireless Stereo Headset</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/HDD_Bay_Cover" title="HDD Bay Cover">HDD Bay Cover</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/In-ear_Stereo_Headset" title="In-ear Stereo Headset">In-ear Stereo Headset</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PlayStation_4_Camera" title="PlayStation 4 Camera">PlayStation 4 Camera</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PlayStation_VR" title="PlayStation VR">PlayStation VR</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PULSE_-_Wireless_Stereo_Headset_-_Elite_Edition" title="PULSE - Wireless Stereo Headset - Elite Edition">PULSE - Wireless Stereo Headset - Elite Edition</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PULSE_-_Wireless_7.1_Headset_-_Elite_Edition" title="PULSE - Wireless 7.1 Headset - Elite Edition">PULSE - Wireless 7.1 Headset - Elite Edition</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Silver_Wired_Stereo_Headset" title="Silver Wired Stereo Headset">Silver Wired Stereo Headset</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Vertical_Stand" title="Vertical Stand">Vertical Stand</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Wireless_Stereo_Headset" title="Wireless Stereo Headset">Wireless Stereo Headset</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Wireless_Surround_Headset" title="Wireless Surround Headset">Wireless Surround Headset</a></div></td><td class="navbox-image" style="width:0%;padding:0px 0px 0px 2px;" rowspan="7"><div>
+<img alt="" src="/ps4/images/thumb/a/ab/Peripherals.jpg/50px-Peripherals.jpg" width="50" height="50" srcset="/ps4/images/thumb/a/ab/Peripherals.jpg/75px-Peripherals.jpg 1.5x, /ps4/images/thumb/a/ab/Peripherals.jpg/100px-Peripherals.jpg 2x" /></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;">NonRetail</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<a href="/ps4/JDX-1000x_series" title="JDX-1000x series">JDX-1000x series</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CAP-ZCT1x_series" title="CAP-ZCT1x series">CAP-ZCT1x series</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CAP-ZEY1x_series" title="CAP-ZEY1x series">CAP-ZEY1x series</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160;</div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;">Cables</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist"><div style="padding:0em 0.25em">
+<a href="/ps4/HDMI_Cable" title="HDMI Cable">HDMI Cable</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/GbLAN_Cable" title="GbLAN Cable">GbLAN Cable</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/USB_3.0_Cable" title="USB 3.0 Cable">USB 3.0 Cable</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/TOSLINK_Cable" title="TOSLINK Cable">TOSLINK Cable</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style=";;">3rd Party</th><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist"><div style="padding:0em 0.25em">
+<a href="/ps4/258Stickers" title="258Stickers">258Stickers</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/247Skins" title="247Skins">247Skins</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/4Gamers" title="4Gamers">4Gamers</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/AGPtek" title="AGPtek">AGPtek</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/ARDOR_Designs" title="ARDOR Designs">ARDOR Designs</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/ATEN" title="ATEN">ATEN</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Big_Ben" title="Big Ben">Big Ben</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Calibur11" title="Calibur11">Calibur11</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Century_Accessory" title="Century Accessory">Century Accessory</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CnMemory" title="CnMemory">CnMemory</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/ColorWare" title="ColorWare">ColorWare</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CommonByte" title="CommonByte">CommonByte</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Cosmos" title="Cosmos">Cosmos</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CronusMAX" title="CronusMAX">CronusMAX</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/CTA_Digital" title="CTA Digital">CTA Digital</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Dezaegg" title="Dezaegg">Dezaegg</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/DHSHOP" title="DHSHOP">DHSHOP</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/DigitalDeckCovers" title="DigitalDeckCovers">DigitalDeckCovers</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Donaldsons" title="Donaldsons">Donaldsons</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/DreamGEAR" title="DreamGEAR">DreamGEAR</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/EaseIcon" title="EaseIcon">EaseIcon</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/EForCity" title="EForCity">eForCity</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Epower_Mall" title="Epower Mall">Epower Mall</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Everydaysource" title="Everydaysource">Everydaysource</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/ExtremeRate" title="ExtremeRate">ExtremeRate</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Fanatec" title="Fanatec">Fanatec</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Foamy_Lizard" title="Foamy Lizard">Foamy Lizard</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/GAEMS" title="GAEMS">GAEMS</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Gametech" title="Gametech">Gametech</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Gator_Claw" title="Gator Claw">Gator Claw</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Geniusmods" title="Geniusmods">Geniusmods</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Gimika" title="Gimika">Gimika</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Gioteck" title="Gioteck">Gioteck</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/GT-Controller" title="GT-Controller">GT-Controller</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160;  <a href="/ps4/Guitammer" title="Guitammer">Guitammer</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Hama" title="Hama">hama</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Hori" title="Hori">Hori</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/HQ_Cables" title="HQ Cables">HQ Cables</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Insignia" title="Insignia">Insignia</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Importer520" title="Importer520">Importer520</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/InterWorks" title="InterWorks">InterWorks</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Konig" title="Konig">Konig</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/KontrolFreek" title="KontrolFreek">KontrolFreek</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Kushina_Shop" title="Kushina Shop">Kushina Shop</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/LETECK" title="LETECK">LETECK</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Letek" title="Letek">Letek</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Logitech" title="Logitech">Logitech</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Madcatz" title="Madcatz">Madcatz</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Matrix" title="Matrix">Matrix</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Mighty_Ape" class="mw-redirect" title="Mighty Ape">Mighty Ape</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/MightySkins" title="MightySkins">MightySkins</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Numskull" title="Numskull">Numskull</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Nyko" title="Nyko">Nyko</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/ORB" title="ORB">ORB</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PDP" title="PDP">PDP</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Playseat" title="Playseat">Playseat</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/PowerA" title="PowerA">PowerA</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Project_Sustain" title="Project Sustain">Project Sustain</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Pythons" title="Pythons">Pythons</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/RDS_Industries" title="RDS Industries">RDS Industries</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Redback" title="Redback">Redback</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Rocketfish" title="Rocketfish">Rocketfish</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/SCUF_Gaming" title="SCUF Gaming">SCUF Gaming</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Seagate" title="Seagate">Seagate</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Skque" title="Skque">Skque</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Skullcandy" title="Skullcandy">Skullcandy</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Slick-Blue" title="Slick-Blue">Slick-Blue</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Speedlink" title="Speedlink">Speedlink</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Splitfish" title="Splitfish">Splitfish</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Subsonic" title="Subsonic">Subsonic</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/System_Skins" title="System Skins">System Skins</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Thrustmaster" title="Thrustmaster">Thrustmaster</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/TitanOne" title="TitanOne">TitanOne</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/TOSA" title="TOSA">TOSA</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Total_Control" title="Total Control">Total Control</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Tritton" title="Tritton">Tritton</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Trust" title="Trust">Trust</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Tuact" title="Tuact">Tuact</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Turtle_Beach" title="Turtle Beach">Turtle Beach</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/USkins" class="mw-redirect" title="USkins">USkins</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/Venom" title="Venom">Venom</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/WantMall" title="WantMall">WantMall</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/WraptorSkinz" class="mw-redirect" title="WraptorSkinz">WraptorSkinz</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160; <a href="/ps4/XIM" title="XIM">XIM</a>&#160;&#32;<span style="font-weight:bold;">&#183;</span>&#32;&#160;</div></td></tr></tbody></table></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20220712124229
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 1.007 seconds
+Real time usage: 4.962 seconds
+Preprocessor visited node count: 1952/1000000
+Preprocessor generated node count: 12263/1000000
+Post‐expand include size: 54298/2097152 bytes
+Template argument size: 31052/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 19226/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 4439.713      1 -total
+  1.07%   47.394      1 Template:Peripherals
+  1.00%   44.443      1 Template:Navbox
+  0.40%   17.855      5 Template:HoverImage
+  0.28%   12.622      5 Template:Colour
+  0.22%    9.719      1 Template:Date
+  0.21%    9.516      1 Template:Navbar
+  0.18%    8.020      5 Template:Insertonly
+  0.18%    7.804      1 Template:Wikify
+  0.11%    4.664      1 Template:Ambox
+-->
+</div>
+<!-- Saved in parser cache with key psdevwiki_ps4:pcache:idhash:1244-0!canonical and timestamp 20220712124301 and revision id 285527
+ -->
+</div>					<div class="printfooter">
+						Retrieved from ‘<a dir="ltr" href="http://www.psdevwiki.com/ps4/index.php?title=DualShock_4&amp;oldid=285527">http://www.psdevwiki.com/ps4/index.php?title=DualShock_4&amp;oldid=285527</a>’					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/ps4/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/ps4/Category:Wikify_needed" title="Category:Wikify needed">Wikify needed</a></li><li><a href="/ps4/Category:Peripherals" title="Category:Peripherals">Peripherals</a></li><li><a href="/ps4/Category:Main" title="Category:Main">Main</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/ps4/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/ps4/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-login"><a href="/ps4/index.php?title=Special:UserLogin&amp;returnto=DualShock+4" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/ps4/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/ps4/DualShock_4" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/ps4/Talk:DualShock_4" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/ps4/DualShock_4">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/ps4/edit/DualShock_4" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/ps4/history/DualShock_4" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/ps4/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search PS4 Developer wiki" title="Search PS4 Developer wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/ps4/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-playstation_dev_wikis" aria-labelledby="p-playstation_dev_wikis-label">
+			<h3 id="p-playstation_dev_wikis-label">playstation dev wikis</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Home"><a href="http://www.psdevwiki.com" rel="nofollow" target="_blank">Home</a></li><li id="n-PS1-Dev-Wiki"><a href="https://playstationdev.wiki/ps1devwiki" rel="nofollow" target="_blank">PS1 Dev Wiki</a></li><li id="n-PocketStation-Dev-Wiki"><a href="https://playstationdev.wiki/pocketstationdevwiki" rel="nofollow" target="_blank">PocketStation Dev Wiki</a></li><li id="n-PS2-Dev-Wiki"><a href="https://playstationdev.wiki/ps2devwiki" rel="nofollow" target="_blank">PS2 Dev Wiki</a></li><li id="n-PSP-Dev-Wiki"><a href="https://playstationdev.wiki//pspdevwiki" rel="nofollow" target="_blank">PSP Dev Wiki</a></li><li id="n-PSP-PRX-Libraries"><a href="https://playstationdev.wiki/pspprxlibraries/" rel="nofollow" target="_blank">PSP PRX Libraries</a></li><li id="n-PS3-Dev-Wiki"><a href="http://www.psdevwiki.com/ps3/" rel="nofollow" target="_blank">PS3 Dev Wiki</a></li><li id="n-PS-Vita-Dev-Wiki"><a href="https://playstationdev.wiki/psvitadevwiki" rel="nofollow" target="_blank">PS Vita Dev Wiki</a></li><li id="n-HENkaku-Dev-Wiki"><a href="http://wiki.henkaku.xyz/" rel="nofollow" target="_blank">HENkaku Dev Wiki</a></li><li id="n-PS4-Dev-Wiki"><a href="http://www.psdevwiki.com/ps4/" rel="nofollow" target="_blank">PS4 Dev Wiki</a></li><li id="n-PS-Classic-Dev-Wiki"><a href="https://playstationdev.wiki/psclassicdevwiki" rel="nofollow" target="_blank">PS Classic Dev Wiki</a></li><li id="n-PS5-Dev-Wiki"><a href="https://playstationdev.wiki/ps5devwiki" rel="nofollow" target="_blank">PS5 Dev Wiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Other_Dev_Wikis" aria-labelledby="p-Other_Dev_Wikis-label">
+			<h3 id="p-Other_Dev_Wikis-label">Other Dev Wikis</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Blu-Play-Dev-Wiki"><a href="https://playstationdev.wiki/bluplaydevwiki" rel="nofollow" target="_blank">Blu-Play Dev Wiki</a></li><li id="n-Xbox-Dev-Wiki"><a href="https://playstationdev.wiki/xboxdevwiki" rel="nofollow" target="_blank">Xbox Dev Wiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-consolehistories" aria-labelledby="p-consolehistories-label">
+			<h3 id="p-consolehistories-label">consolehistories</h3>
+			<div class="body">
+								<ul>
+					<li id="n-PS3History"><a href="https://consolehistories.net/ps3history" rel="nofollow" target="_blank">PS3History</a></li><li id="n-PS4History"><a href="https://consolehistories.net/ps4history" rel="nofollow" target="_blank">PS4History</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/ps4/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/ps4/PS4_Developer_wiki:Community_portal" title="About the project, what you can do, and where to find things">Community portal</a></li><li id="n-currentevents"><a href="/ps4/PS4_Developer_wiki:Current_events" title="Find background information on current events">Current events</a></li><li id="n-recentchanges"><a href="/ps4/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/ps4/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-All-Pages"><a href="/ps4/Special:AllPages">All Pages</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" target="_blank" title="The place to find out">Help</a></li><li id="n-Donate"><a href="/ps4/Donations">Donate</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/ps4/Special:WhatLinksHere/DualShock_4" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/ps4/Special:RecentChangesLinked/DualShock_4" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/ps4/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/ps4/index.php?title=DualShock_4&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/ps4/index.php?title=DualShock_4&amp;oldid=285527" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/ps4/index.php?title=DualShock_4&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last modified on 12 July 2022, at 12:43.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt">GNU Free Documentation License 1.2</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/ps4/PS4_Developer_wiki:Privacy_policy" title="PS4 Developer wiki:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/ps4/PS4_Developer_wiki:About" title="PS4 Developer wiki:About">About PS4 Developer wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/ps4/PS4_Developer_wiki:General_disclaimer" title="PS4 Developer wiki:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt" target="_blank"><img src="/ps4/resources/assets/licenses/gnu-fdl.png" alt="GNU Free Documentation License 1.2" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/" target="_blank"><img src="/ps4/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/ps4/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /ps4/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.007","walltime":"4.962","ppvisitednodes":{"value":1952,"limit":1000000},"ppgeneratednodes":{"value":12263,"limit":1000000},"postexpandincludesize":{"value":54298,"limit":2097152},"templateargumentsize":{"value":31052,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":19226,"limit":5000000},"timingprofile":["100.00% 4439.713      1 -total","  1.07%   47.394      1 Template:Peripherals","  1.00%   44.443      1 Template:Navbox","  0.40%   17.855      5 Template:HoverImage","  0.28%   12.622      5 Template:Colour","  0.22%    9.719      1 Template:Date","  0.21%    9.516      1 Template:Navbar","  0.18%    8.020      5 Template:Insertonly","  0.18%    7.804      1 Template:Wikify","  0.11%    4.664      1 Template:Ambox"]},"cachereport":{"timestamp":"20220712124229","ttl":2592000,"transientcontent":false}}});});</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-127383156-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91});});</script>
+	</body>
+<!-- Cached 20220712124301 -->
+</html>

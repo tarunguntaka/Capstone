@@ -1,0 +1,1904 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US" xml:lang="en-US" dir="ltr">
+
+<head>
+
+        
+             <title>How to use DUALSHOCK 4 wireless controllers with PC, Mac, Android, and iOS </title>
+           <meta name="searchtitle" content="How to use DUALSHOCK 4 wireless controllers with PC, Mac, Android, and iOS"/>
+         
+        
+        
+    
+    <link rel="preconnect" href="https://static.playstation.com" crossorigin/>
+    <link rel="preconnect" href="https://gmedia.playstation.com"/>
+    
+    <link rel="dns-prefetch" href="https://static.playstation.com"/>
+    <link rel="dns-prefetch" href="https://gmedia.playstation.com"/>
+    <link rel="preconnect" href="https://web-toolbar.playstation.com" crossorigin/>
+	<link rel="dns-prefetch" href="https://web-toolbar.playstation.com"/>
+	<link rel="preconnect" href="https://assets.adobedtm.com" crossorigin/>
+	<link rel="dns-prefetch" href="https://assets.adobedtm.com"/>
+	<link rel="preconnect" href="https://fast.fonts.net" crossorigin/>
+	<link rel="dns-prefetch" href="https://fast.fonts.net"/>
+    
+	<link rel="icon" type="image/png" href="https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-16-16--t$" sizes="16x16"/>
+	<link rel="icon" type="image/png" href="https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-32-32--t$" sizes="32x32"/>
+	<link rel="icon" type="image/png" href="https://gmedia.playstation.com/is/image/SIEPDC/ps-logo-favicon?$icon-96-96--t$" sizes="96x96"/>
+
+    
+
+<meta charset="UTF-8"/>
+<meta name="keywords" content="DUALSHOCK, 4, wireless, controller, compatible, games, PC, Mac, computer, Bluetooth, USB, mobile, phone, mac, ipad, ios, iphone, ipad, mac, apple, ios, android, samsung, cell, xperia"/>
+
+
+    <meta name="description" content="If you&#39;d like to use your DUALSHOCK®4 wireless controller with compatible games and applications away from your PS4™ console, you can connect via Bluetooth® or USB in a few steps."/>
+
+<meta name="template" content="pdc-cx-article"/>
+<meta name="title" content="How to use DUALSHOCK 4 wireless controllers with PC, Mac, Android, and iOS"/>
+<meta name="publish_date_timestamp" content="1660604760"/>
+<meta name="platforms" content="PS4"/>
+<meta name="pageType" content="support"/>
+<meta name="supportType" content="article"/>
+
+
+    <meta name="image" content="https://gmedia.playstation.com/is/image/SIEPDC/game-grid-16-9-default-image-01-us-24apr18"/>
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<link rel="canonical" href="https://www.playstation.com/en-us/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/"/>
+<meta name="search_id" content="support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac"/>
+
+
+<meta name="google-site-verification" content="jvlMmfTRRTE3uPjvMTN9tBdat6DrAF6_bIxyrSVBisc"/>
+
+        <link rel="alternate" hreflang="ar-sa" href="https://www.playstation.com/ar-sa/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-om" href="https://www.playstation.com/ar-om/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-qa" href="https://www.playstation.com/ar-qa/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-lb" href="https://www.playstation.com/ar-lb/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-ae" href="https://www.playstation.com/ar-ae/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-pa" href="https://www.playstation.com/es-pa/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-hn" href="https://www.playstation.com/es-hn/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-uy" href="https://www.playstation.com/es-uy/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-py" href="https://www.playstation.com/es-py/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-ni" href="https://www.playstation.com/es-ni/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-pe" href="https://www.playstation.com/es-pe/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-mx" href="https://www.playstation.com/es-mx/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-ec" href="https://www.playstation.com/es-ec/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-cr" href="https://www.playstation.com/es-cr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-co" href="https://www.playstation.com/es-co/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-sv" href="https://www.playstation.com/es-sv/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-gt" href="https://www.playstation.com/es-gt/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-cl" href="https://www.playstation.com/es-cl/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-bo" href="https://www.playstation.com/es-bo/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="pt-br" href="https://www.playstation.com/pt-br/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-bh" href="https://www.playstation.com/ar-bh/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ar-kw" href="https://www.playstation.com/ar-kw/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-hr" href="https://www.playstation.com/en-hr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-bg" href="https://www.playstation.com/en-bg/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-gb" href="https://www.playstation.com/en-gb/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-au" href="https://www.playstation.com/en-au/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-ae" href="https://www.playstation.com/en-ae/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-ar" href="https://www.playstation.com/es-ar/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fr-ca" href="https://www.playstation.com/fr-ca/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="nl-nl" href="https://www.playstation.com/nl-nl/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="th-th" href="https://www.playstation.com/th-th/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ja-jp" href="https://www.playstation.com/ja-jp/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="ko-kr" href="https://www.playstation.com/ko-kr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-id" href="https://www.playstation.com/en-id/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="zh-hans-hk" href="https://www.playstation.com/zh-hans-hk/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-hk" href="https://www.playstation.com/en-hk/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="zh-hant-hk" href="https://www.playstation.com/zh-hant-hk/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-my" href="https://www.playstation.com/en-my/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-vn" href="https://www.playstation.com/en-vn/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-ph" href="https://www.playstation.com/en-ph/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-sg" href="https://www.playstation.com/en-sg/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-th" href="https://www.playstation.com/en-th/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="zh-hant-tw" href="https://www.playstation.com/zh-hant-tw/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="no-no" href="https://www.playstation.com/no-no/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="he-il" href="https://www.playstation.com/he-il/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-nz" href="https://www.playstation.com/en-nz/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="pl-pl" href="https://www.playstation.com/pl-pl/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-sk" href="https://www.playstation.com/en-sk/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-ro" href="https://www.playstation.com/en-ro/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-za" href="https://www.playstation.com/en-za/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-si" href="https://www.playstation.com/en-si/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="sv-se" href="https://www.playstation.com/sv-se/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fr-be" href="https://www.playstation.com/fr-be/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-in" href="https://www.playstation.com/en-in/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-ie" href="https://www.playstation.com/en-ie/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="el-gr" href="https://www.playstation.com/el-gr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="pt-pt" href="https://www.playstation.com/pt-pt/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="es-es" href="https://www.playstation.com/es-es/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="it-it" href="https://www.playstation.com/it-it/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="de-de" href="https://www.playstation.com/de-de/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="uk-ua" href="https://www.playstation.com/uk-ua/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fi-fi" href="https://www.playstation.com/fi-fi/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-hu" href="https://www.playstation.com/en-hu/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="cs-cz" href="https://www.playstation.com/cs-cz/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="da-dk" href="https://www.playstation.com/da-dk/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fr-ch" href="https://www.playstation.com/fr-ch/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="it-ch" href="https://www.playstation.com/it-ch/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="de-ch" href="https://www.playstation.com/de-ch/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="nl-be" href="https://www.playstation.com/nl-be/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fr-fr" href="https://www.playstation.com/fr-fr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="de-lu" href="https://www.playstation.com/de-lu/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="fr-lu" href="https://www.playstation.com/fr-lu/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="tr-tr" href="https://www.playstation.com/tr-tr/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="de-at" href="https://www.playstation.com/de-at/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="zh-hans-cn" href="https://www.playstation.com/zh-hans-cn/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-ca" href="https://www.playstation.com/en-ca/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+<link rel="alternate" hreflang="en-us" href="https://www.playstation.com/en-us/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/">
+
+
+
+    
+        
+        
+            <link rel="stylesheet" href="https://static.playstation.com/font-stack/v1/css/font-all.css"/>
+        
+            <link rel="stylesheet" href="https://static.playstation.com/font-stack/v1/css/font-sst-condensed.css"/>
+        
+    
+     
+   <script id="targetSegments" type="application/json">
+        [{"name":"8201390A","id":0},{"name":"5BBEF5AB","id":1},{"name":"C5DA6008","id":2},{"name":"2CB9C53D","id":3},{"name":"B2DD509E","id":4},{"name":"0DE4522D","id":5},{"name":"7B27409A","id":6},{"name":"0A899634","id":7},{"name":"7D8EA6A2","id":8},{"name":"ED31BB33","id":9},{"name":"7AE362BB","id":10},{"name":"E487F718","id":11},{"name":"9380C78E","id":12},{"name":"5CD331B2","id":13},{"name":"2BD40124","id":14},{"name":"BB6B1CB5","id":15},{"name":"CC6C2C23","id":16},{"name":"FAF10240","id":17},{"name":"8DF632D6","id":18},{"name":"14FF636C","id":19},{"name":"63F853FA","id":20},{"name":"FD9CC659","id":21},{"name":"8A9BF6CF","id":22},{"name":"1392A775","id":23},{"name":"649597E3","id":24},{"name":"B0B108AF","id":25},{"name":"2ED59D0C","id":26},{"name":"59D2AD9A","id":27},{"name":"0D0CF3E2","id":28},{"name":"EBF6AFE3","id":29},{"name":"72FFFE59","id":30},{"name":"9B9C5B6C","id":31},{"name":"05F8CECF","id":32},{"name":"E2248F0D","id":33},{"name":"059CA20A","id":34},{"name":"82E306E8","id":35},{"name":"F5E4367E","id":36},{"name":"6CED67C4","id":37},{"name":"1BEA5752","id":38},{"id":39}]
+    </script>
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.vendor.min.f055745af588669eb5bf4a0c91898e06.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/global_pdc/clientlibs/clientlibs-jetstream.min.c4d8a7494664c17b0ea30086fdfeb5a0.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit.min.dc9b417a46427a0c0060dc82d90b0f2f.css" type="text/css">
+
+
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.jquery.min.8fb8fee4fcc3cc86ff6c724154c49c42.js"></script>
+
+
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.prelaunch.min.e4d45b7491752ed51c01553036ddeef5.js"></script>
+
+
+
+
+       
+<script src="//assets.adobedtm.com/3dc13bcabc29/e1d3c7e41fac/launch-c1f03f5b4bc6.min.js"></script>
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.vendor.min.2d0460f7851f4b706035cda06ef8f945.js" defer></script>
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/global_pdc/clientlibs/clientlibs-inaemvendor.min.b4adf65b332c3614dbd8d80dddb61019.js" defer></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.customer-experience.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.search-vendor.min.8d8521c2f109b2ef9f496b207dd6253b.js"></script>
+
+
+
+    
+
+    
+    	
+
+   
+
+    
+    
+
+
+        
+
+    
+    <meta name="wca-ssr-version" content="2.66.0"/><meta name="wca-locale" content="en-US"/><meta name="wca-theme" content="light"/><script id="wca-config-overrides" type="application/json">
+    {"client":{"feature":{"evidonNoticeEnabled":true},"webCheckout":{"clientId":"2dec2b13-57dc-4966-8294-6df0d627e109"}}}</script>
+  <link rel="preconnect" href="https://static.playstation.com" crossorigin>
+    <link rel="dns-prefetch" href="https://static.playstation.com">
+    <link rel="preconnect" href="https://web.np.playstation.com/api/graphql/v1">
+    <link rel="dns-prefetch" href="https://web.np.playstation.com/api/graphql/v1">
+    <link rel="preconnect" href="https://image.api.playstation.com" crossorigin>
+    <link rel="dns-prefetch" href="https://image.api.playstation.com">
+    <link rel="dns-prefetch" href="https://id.sonyentertainmentnetwork.com">
+    <link rel="dns-prefetch" href="https://checkout.playstation.com">
+    
+    <link rel="stylesheet" href="https://static.playstation.com/base-styles/v0/psw-styles.css"/>
+    <script id="wca-config" type="application/json">
+      {"env":"production","name":"@sie-private/web-commerce-anywhere","version":"2.66.0","gitBranch":"master","gitSha":"ca45fc8159cacdf9ebe77a01002d648f0831ea30","psnAppVersion":"@sie-private/web-commerce-anywhere/2.66.0-ca45fc8159cacdf9ebe77a01002d648f0831ea30","isoenv":"psnnp/np","client":{"downloadHref":"https://library.playstation.com/recently-purchased","activateConsoleHref":"https://id.sonyentertainmentnetwork.com/id/management_ca/#/p/device_management","wishlistHref":"https://library.playstation.com/wishlist","webStore":{"origin":"https://store.playstation.com"},"cookieMonster":{"origin":"https://id.sonyentertainmentnetwork.com"},"productUrlSchema":"https://store.playstation.com/{locale}/product/{productId}","publicPath":"https://static.playstation.com/wca/v2/","manifest":{"src":{"core":{"js":["https://static.playstation.com/wca/v2/js/common.6ae0db7c059cadf8c7d6.js","https://static.playstation.com/wca/v2/js/ui-components.a2469379137f489b08d6.js","https://static.playstation.com/wca/v2/js/main.aad73f446c9f11690615.js","https://static.playstation.com/wca/v2/js/network.117d5ed9ac1accc3cedd.js","https://static.playstation.com/wca/v2/js/telemetry.41e5af5a6d120e6df7d3.js","https://static.playstation.com/wca/v2/js/ui-framework.97cc29098495fb41831e.js"],"css":[]},"addOns":{"js":["https://static.playstation.com/wca/v2/js/addOns.7af0cc5381eb13035cf6.js"],"css":[]},"compatibilityNotices":{"js":["https://static.playstation.com/wca/v2/js/compatibilityNotices.9dd16af0ab8ea4c5911d.js"],"css":[]},"contentRating":{"js":["https://static.playstation.com/wca/v2/js/contentRating.0aa6a6974a4fbc75e7fd.js"],"css":[]},"ctaWithPrice":{},"footer":{"js":["https://static.playstation.com/wca/v2/js/footer.2038c303d54ac6d8c0da.js"],"css":[]},"gameBackgroundImage":{"js":["https://static.playstation.com/wca/v2/js/gameBackgroundImage.95117c9891937b64b05a.js"],"css":[]},"gameInfo":{"js":["https://static.playstation.com/wca/v2/js/gameInfo.2a8dfceca302384887a1.js"],"css":[]},"gameOverview":{},"gameTitle":{"js":["https://static.playstation.com/wca/v2/js/gameTitle.3231649b36c1e381832c.js"],"css":[]},"legalText":{"js":["https://static.playstation.com/wca/v2/js/legalText.853ca406b52256a0c972.js"],"css":[]},"upsell":{"js":["https://static.playstation.com/wca/v2/js/upsell.7e16a7fc3a362b860ace.js"],"css":[]},"tierDiscountBadge":{"js":["https://static.playstation.com/wca/v2/js/tierDiscountBadge.9c597d20860d106de570.js"],"css":[]},"tierSelector":{"js":["https://static.playstation.com/wca/v2/js/tierSelector.a699dfa7d1b9a3f9c06b.js"],"css":[]}},"gensen":{"ar-ae":"https://static.playstation.com/wca/v2/gensen/ar-ae.f9fc2058.json","en-us":"https://static.playstation.com/wca/v2/gensen/en-us.bc483ffe.json","en-gb":"https://static.playstation.com/wca/v2/gensen/en-gb.1a46c4ba.json","bg-bg":"https://static.playstation.com/wca/v2/gensen/bg-bg.2df53cad.json","cs-cz":"https://static.playstation.com/wca/v2/gensen/cs-cz.374a4859.json","da-dk":"https://static.playstation.com/wca/v2/gensen/da-dk.edeb0843.json","de-de":"https://static.playstation.com/wca/v2/gensen/de-de.8a5799de.json","el-gr":"https://static.playstation.com/wca/v2/gensen/el-gr.a6192762.json","es-419":"https://static.playstation.com/wca/v2/gensen/es-419.3f449211.json","es-es":"https://static.playstation.com/wca/v2/gensen/es-es.4cc5bab0.json","fi-fi":"https://static.playstation.com/wca/v2/gensen/fi-fi.53dc1dca.json","fr-ca":"https://static.playstation.com/wca/v2/gensen/fr-ca.7fcd36b0.json","fr-fr":"https://static.playstation.com/wca/v2/gensen/fr-fr.103dc770.json","he-il":"https://static.playstation.com/wca/v2/gensen/he-il.3bc29bf0.json","hr-hr":"https://static.playstation.com/wca/v2/gensen/hr-hr.c5c184d7.json","hu-hu":"https://static.playstation.com/wca/v2/gensen/hu-hu.9c55b4de.json","id-id":"https://static.playstation.com/wca/v2/gensen/id-id.97ba86d3.json","it-it":"https://static.playstation.com/wca/v2/gensen/it-it.00bc0d0d.json","ja-jp":"https://static.playstation.com/wca/v2/gensen/ja-jp.f37e36b4.json","ko-kr":"https://static.playstation.com/wca/v2/gensen/ko-kr.1da30c70.json","nl-nl":"https://static.playstation.com/wca/v2/gensen/nl-nl.d31fffef.json","no-no":"https://static.playstation.com/wca/v2/gensen/no-no.ec452efc.json","pl-pl":"https://static.playstation.com/wca/v2/gensen/pl-pl.317abe7f.json","pt-br":"https://static.playstation.com/wca/v2/gensen/pt-br.c48a995c.json","pt-pt":"https://static.playstation.com/wca/v2/gensen/pt-pt.b69ed836.json","ro-ro":"https://static.playstation.com/wca/v2/gensen/ro-ro.e3cd856e.json","ru-ru":"https://static.playstation.com/wca/v2/gensen/ru-ru.29ab70a9.json","sk-sk":"https://static.playstation.com/wca/v2/gensen/sk-sk.5ad458f9.json","sl-si":"https://static.playstation.com/wca/v2/gensen/sl-si.52a10158.json","sr-rs":"https://static.playstation.com/wca/v2/gensen/sr-rs.f857d2df.json","sv-se":"https://static.playstation.com/wca/v2/gensen/sv-se.79951f04.json","th-th":"https://static.playstation.com/wca/v2/gensen/th-th.8c2d5f0a.json","tr-tr":"https://static.playstation.com/wca/v2/gensen/tr-tr.570ccb8d.json","uk-ua":"https://static.playstation.com/wca/v2/gensen/uk-ua.32083bfe.json","vi-vn":"https://static.playstation.com/wca/v2/gensen/vi-vn.8096b8d7.json","zh-hans":"https://static.playstation.com/wca/v2/gensen/zh-hans.489f0e26.json","zh-hant":"https://static.playstation.com/wca/v2/gensen/zh-hant.b846557f.json","zz-zz":"https://static.playstation.com/wca/v2/gensen/zz-zz.50f3fdbc.json"}},"session":{"isSignedInCookie":"isSignedIn"},"webCheckout":{"name":"embeddedcart","clientId":"2dec2b13-57dc-4966-8294-6df0d627e109","origin":"https://checkout.playstation.com","loadTimeout":30000}},"staticAsset":{"iconOrigin":"https://static.playstation.com/icons/v0/","imageOrigin":"https://static.playstation.com/images/v0/","imageManagerOrigin":"https://image.api.playstation.com","fontsMain":"https://static.playstation.com/font-stack/v1/css/font-all-no-italic.css","stylesMain":"https://static.playstation.com/base-styles/v0/psw-styles.css"},"feature":{"queryWhitelist":true,"telemetryReporting":true,"enableUpsellCtas":true,"enableWishlistCta":true,"telemetrySamplingThreshold":10,"evidonNoticeEnabled":false},"service":{"gql":{"origin":"https://web.np.playstation.com/api/graphql/v1"},"sbahn":{"proxyUrl":null}}}
+    </script>
+    <script defer crossorigin src="https://static.playstation.com/wca/v2/js/common.6ae0db7c059cadf8c7d6.js" type="application/javascript"></script><script defer crossorigin src="https://static.playstation.com/wca/v2/js/ui-components.a2469379137f489b08d6.js" type="application/javascript"></script><script defer crossorigin src="https://static.playstation.com/wca/v2/js/main.aad73f446c9f11690615.js" type="application/javascript"></script><script defer crossorigin src="https://static.playstation.com/wca/v2/js/network.117d5ed9ac1accc3cedd.js" type="application/javascript"></script><script defer crossorigin src="https://static.playstation.com/wca/v2/js/telemetry.41e5af5a6d120e6df7d3.js" type="application/javascript"></script><script defer crossorigin src="https://static.playstation.com/wca/v2/js/ui-framework.97cc29098495fb41831e.js" type="application/javascript"></script>
+    
+    
+ 
+    
+
+    
+
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Z89JV-B4H77-WDW7R-K2W38-LRWDC",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"Z89JV-B4H77-WDW7R-K2W38-LRWDC";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="giporbyx2wluoy3mffca-f-470b7c835-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"33","ak.cp":"1109863","ak.ai":parseInt("608489",10),"ak.ol":"0","ak.cr":19,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5cce6dc","ak.r":43557,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"50.30.232.0","ak.cport":64111,"ak.gh":"23.33.43.215","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1668032836","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==6fjkFxGkWmNib5K3I7jwVk/R0kjRG+pq2J28AauC8EBXmVCSCPPoda71iOCSKbbKdMkbpsxBdJYpMbHw9k6OLJASbvpyExvKTvGn5WUKxZsJzY/WpBfiBg0uytNB/oxt6oDSCGTKYZgPbDCQ3qgiiTCR3Jn3QODCyiRba2hW8e+Tifmf6Huv5q7yvmQbiEJZcCmm2Bz6hudHBQPklB+0QAPHY834rgsHSUABQLJdwhVqO4+scEAcTjQ9OqAYS+4/ZzheQAerYs2tbhOWDclf/OVd7sYCdutrWXiY7CU3xByp6s73LaVL3sxetSLljgx2qy1vXW1V9OwVpBhJaFMuftyABir55Gj7ANivXa1+lFz3zGR7wLlszPBhqZ2CPwASclCiyt7cKR3nd8RQJuCcozMsoOg40HV1lmPdgXddAPw=","ak.pv":"481","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body class="cxbasepage basepage page basicpage cx" data-template="pdc-cx-article" data-region="AMER" data-locale="en-us" data-mercury-locale="en-US" data-page-category="Other" data-age-gate-type="DOB" data-date-format="MM/dd/YYYY" data-age-threshold="18" data-cookie-timeout="30" data-base-io-url="https://io.playstation.com" data-wc-api="https://checkout.playstation.com" data-arkham-api="https://web.np.playstation.com" data-store-disabled="false" data-store-lang="en" data-store-locale="us" data-advanced-age-gate="false" data-rating-age-threshold="0" data-auto-trigger-gated-page="false" data-sf-custom-domain="https://sie-calypso.my.salesforce.com" data-sf-env-1="https://playstation-calypso.force.com" data-sf-env-2="https://service.force.com" data-sf-id="00D3h00000669Bv" data-sf-base-live-agent-content-url="https://c.la4-c2-ph2.salesforceliveagent.com/content" data-sf-base-live-agent-url="https://d.la4-c2-ph2.salesforceliveagent.com/chat" data-run-mode="publish">
+    
+    
+        
+        
+ <!-- /*
+* Adding the preload file here as Jetstream doesnot wait for dom ready before referring the methods defined in preload
+*/-->
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.preload.min.fd8e0b8c9d6d90849765a4bbae0772b1.js"></script>
+
+
+
+
+
+
+<section id="shared-nav-root">
+	<div id="shared-nav-container">
+	   <header id="shared-nav">
+		   
+		   <div id='sb-social-toolbar-root'></div>
+	   </header>
+	</div>
+</section>
+	
+        
+            <section id="jetstream-tertiary-nav">
+
+<div class="tertiary-container">
+	<div class="tertiary-container-inner">
+		<span class="tertiary-logo">
+			<span class="tertiary-logo-content">
+				
+				
+					<a class="tertiary-logo__text" href="/en-us/support/" data-track="{&quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Support Home&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;&quot;, &quot;userActionFlag&quot;: true } }">
+					  Support Home
+					</a>
+				
+            </span>
+		</span>
+		<div class="tertiary-carousels">
+			<div class="carousel__overlay carousel__overlay--prev hide">
+				<button class="carousel__button carousel__button--prev hide" id="prev-button" aria-label="Previous page"></button>
+			</div>
+			<ul class="carousel-tertiary-tabs" id="tertiary-menu-toggle">
+			    
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/account/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Account&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;1&quot;, &quot;userActionFlag&quot;: true } }">Account</a>
+					</li>
+				
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/store/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;PS Store &amp; Refunds&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;2&quot;, &quot;userActionFlag&quot;: true } }">PS Store &amp; Refunds</a>
+					</li>
+				
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/subscriptions/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Tiered Services&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;3&quot;, &quot;userActionFlag&quot;: true } }">Tiered Services</a>
+					</li>
+				
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/hardware/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Hardware &amp; Repairs&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;4&quot;, &quot;userActionFlag&quot;: true } }">Hardware &amp; Repairs</a>
+					</li>
+				
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/safety/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Online Safety&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;5&quot;, &quot;userActionFlag&quot;: true } }">Online Safety</a>
+					</li>
+				
+					<li class="tertiary-tab">
+						<a class="tertiary-tab__link " href="/en-us/support/connectivity/" data-track="{ &quot;eventInfo&quot;: { &quot;eventAction&quot;: &quot;click&quot;, &quot;eventName&quot;: &quot;select subnav&quot; }, &quot;attributes&quot;: { &quot;moduleName&quot;: &quot;subnav&quot;, &quot;label&quot;: &quot;Connectivity&quot;, &quot;assetName&quot;: &quot;empty&quot;, &quot;elementType&quot;: &quot;button&quot;, &quot;position&quot;: &quot;6&quot;, &quot;userActionFlag&quot;: true } }">Connectivity</a>
+					</li>
+				
+			</ul>
+			<div class="carousel__overlay carousel__overlay--next hide">
+				<button class="carousel__button carousel__button--next" id="next-button" aria-label="Next page"></button>
+			</div>
+
+		</div>
+		
+	</div>
+ </div>
+<!-- ./Jetstream tertiary nav HTML End--></section>
+        
+        
+<div class="gdk root container responsivegrid" id="gdk__content">
+
+    
+    
+    
+    <div class="cmp-container">
+        
+        <div class="gdk root container responsivegrid cx" id="gdk__content">
+
+    
+    
+    
+    <div class="cmp-container">
+        
+        <div class="section">
+
+
+
+
+
+<section style="background-color:#00439c;" class="gpdc-section theme--dark   ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="titleblock">
+
+
+
+<div class="title-block text-align--center display@tablet--hidden display@desktop--hidden    " data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+    
+    
+    <div><p>Use DUALSHOCK®4 wireless controllers with other devices</p>
+</div>
+    
+</div>
+
+    <div class="title-block text-align--center display@mobile--hidden    " data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+        
+        
+         <div><h1>How to use DUALSHOCK 4 wireless controllers with PC, Mac, Android, and iOS</h1>
+</div>
+        <p>If you'd like to use your DUALSHOCK®4 wireless controller with compatible games and applications away from your console, you can connect via Bluetooth® or USB in a few steps.</p>
+
+    </div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--light  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block   column-width--2      " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<ul>
+<li><a href="#connect" rel="nofollow">Supported connections<br />
+</a></li>
+<li><a href="#blue" rel="nofollow">Bluetooth pairing<br />
+</a></li>
+<li><a href="#usb" rel="nofollow">USB connection<br />
+</a></li>
+<li><a href="#compat" rel="nofollow">Compatible games</a><br />
+</li>
+<li><a href="#reconnect" rel="nofollow">Reconnect with PS4 console<br />
+</a></li>
+<li><a href="#issues" rel="nofollow">Having issues?</a><br />
+</li>
+</ul>
+
+	</div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--lightAlt mt-ls@mobile--neg-sm mt-ls@tablet--neg-sm mt-ls@desktop--neg-sm  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h4><a id="connect" rel="nofollow"></a>DUALSHOCK 4 wireless controller compatible devices</h4>
+<p>Devices using the operating systems listed below or later support DUALSHOCK 4 wireless controller <a href="#blue" rel="nofollow">Bluetooth</a> and USB connections. Once connected, you can use your wireless controller to control compatible games and applications.</p>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block   column-width--2      " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<ul>
+<li>Android™ 10</li>
+<li>iOS 13<br />
+</li>
+<li>iPadOS 13<br />
+</li>
+<li>macOS Catalina<br />
+</li>
+<li>tvOS 13 <a id="usb" rel="nofollow"></a></li>
+</ul>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="inlineAccordion">
+
+
+
+   
+<div class="accordion " data-component="accordion">
+  
+    <div>
+      <a href="javascript:void(0);" id="accordion-section-1" data-item-title="accordion-section-1" class="accordion__item-title" data-dtm-label="Connect controller to a Windows PC via USB" aria-expanded="false" aria-controls="sect1" rel="nofollow">
+        <span class="link">Connect controller to a Windows PC via USB</span>
+        <div class="chevron chevron-down icon-block">
+          <svg class="" viewBox="0 0 50 50" role="img" aria-label="Chevron down">
+            <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_chevron-down"></use>
+          </svg>
+        </div>
+        <span class="accordion__item-icons">
+            </svg>
+          <svg class="accordion__item-icon--plus" viewBox="0 0 50 50" role="img" aria-label="Open">
+               <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_plus"></use>
+            </svg>
+            <svg class="accordion__item-icon--minus" viewBox="0 0 50 50" role="img" aria-label="Close">
+               <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_minus"></use>
+            </svg>
+         </span>
+      </a>
+      <div data-item="accordion-section-1" class="accordion__item-description" role="region" aria-labeledby="accordion-section-1">
+        
+        <div>
+          
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<p>You can connect a DUALSHOCK 4 wireless controller to a Windows PC using a DUALSHOCK®4 USB wireless adaptor or a compatible micro USB cable. </p>
+
+	</div>
+
+</div>
+
+
+
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--light  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  +thin-row-gap  +thin-col-gap  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h4><a id="blue" rel="nofollow"></a>How to pair a DUALSHOCK 4 wireless controller with a supported device </h4>
+<p>To pair your wireless controller with a supported device using Bluetooth for the first time, turn on pairing mode.</p>
+<ol>
+<li><p>Make sure the player indicator on the controller is off.<br />
+If the player indicator is on, press and hold the PS button until it turns off. If a USB is connected to the controller, disconnect it. </p>
+</li>
+<li><p>While pressing and holding the SHARE button, press and hold the PS Button until the light bar flashes.</p>
+</li>
+<li><p>Enable Bluetooth on your device, and then select the controller from the list of Bluetooth devices. When pairing is complete, the light bar blinks, and then the player indicator lights up.</p>
+</li>
+</ol>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="imageblock">
+
+
+
+ <div class="media-block media-block--image  align-self@mobile--center align-self@tablet--center align-self@desktop--center " target="_self" data-uuid="6d22817a-2095-3c89-8798-f1cc2132b432" data-component="image-block" tabindex="-1" data-lightbox="false" data-age-gated="false" data-lightbox-theme="dark" data-src="https://gmedia.playstation.com/is/image/SIEPDC/ds4-bluetooth-pair-01-en-12oct20" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="40%">
+
+
+ <div class="media-block__inner">
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="media-block__figure object-position--c object-position@tablet--c object-position@desktop--c" aria-labelledby="fig-caption-6d22817a-2095-3c89-8798-f1cc2132b432">
+        
+            
+    <picture class="media-block__img lozad" data-alt="Pair DUALSHOCK 4 wireless controller">
+        
+            <source srcset="https://gmedia.playstation.com/is/image/SIEPDC/ds4-bluetooth-pair-01-en-12oct20?$1600px--t$" media="(min-width: 1024px)"/>
+            
+        
+            <source srcset="https://gmedia.playstation.com/is/image/SIEPDC/ds4-bluetooth-pair-01-en-12oct20?$1200px--t$" media="(min-width: 768px)"/>
+        
+        <source srcset="https://gmedia.playstation.com/is/image/SIEPDC/ds4-bluetooth-pair-01-en-12oct20?$800px--t$" media="(min-width: 320px)"/>
+        <noscript><img itemprop="contentUrl" src="https://gmedia.playstation.com/is/image/SIEPDC/ds4-bluetooth-pair-01-en-12oct20?$100px--t$" alt="Pair DUALSHOCK 4 wireless controller"/></noscript>
+    </picture>
+
+        
+  </figure>
+        
+  </div>
+    
+
+    </div>
+
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--lightAlt  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h4><a id="compat" rel="nofollow"></a>DUALSHOCK 4 wireless controller compatible games and applications</h4>
+<p>You can use your wireless controller to play games streamed from your PS5™ console or PS4™ console to your compatible device using the PS Remote Play app.</p>
+<p>Your wireless controller can also be used to play games that support DUALSHOCK 4 wireless controllers. </p>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="buttonblock">
+
+<div class="btn-block      " data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+    <div>
+
+
+
+
+    
+    
+    <div class="button">
+
+
+
+
+
+
+
+
+
+    
+        <a data-uuid="21a0916a-aa84-3472-8dc2-152cc08763f7" href="/en-us/support/games/playstation-remote-play-on-pc-and-mac/" class="text-link +iconized" role="button" target="_blank" target-tag="NONE|" data-dtm-label="PS Remote Play on PC and Mac" data-dtm-label-override="PS Remote Play on PC and Mac" data-age-gated="false" data-force-age-gate="false">
+            <svg class="text-link__icon" viewBox="0 0 50 50" role="img" aria-label="Chevron right">
+                <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_chevron-right"></use>
+            </svg>
+            <div class="cta__inner">
+                
+                <span>PS Remote Play on PC and Mac</span>
+                
+                
+                
+            </div>
+        </a>
+        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="button">
+
+
+
+
+
+
+
+
+
+    
+        <a data-uuid="aca8d169-1fe4-3901-b749-db4f6d5e5e00" href="/en-us/support/games/playstation-remote-play-on-mobile-devices/" class="text-link +iconized" role="button" target="_self" target-tag="NONE|" data-dtm-label="PS Remote Play on mobile devices" data-dtm-label-override="PS Remote Play on mobile devices" data-age-gated="false" data-force-age-gate="false">
+            <svg class="text-link__icon" viewBox="0 0 50 50" role="img" aria-label="Chevron right">
+                <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_chevron-right"></use>
+            </svg>
+            <div class="cta__inner">
+                
+                <span>PS Remote Play on mobile devices</span>
+                
+                
+                
+            </div>
+        </a>
+        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+</div></div>
+
+
+    
+    
+    <div class="inlineAccordion">
+
+
+
+   
+<div class="accordion " data-component="accordion">
+  
+    <div>
+      <a href="javascript:void(0);" id="accordion-section-1" data-item-title="accordion-section-1" class="accordion__item-title" aria-expanded="false" aria-controls="sect1" rel="nofollow">
+        <span class="link">Bluetooth limitations</span>
+        <div class="chevron chevron-down icon-block">
+          <svg class="" viewBox="0 0 50 50" role="img" aria-label="Chevron down">
+            <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_chevron-down"></use>
+          </svg>
+        </div>
+        <span class="accordion__item-icons">
+            </svg>
+          <svg class="accordion__item-icon--plus" viewBox="0 0 50 50" role="img" aria-label="Open">
+               <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_plus"></use>
+            </svg>
+            <svg class="accordion__item-icon--minus" viewBox="0 0 50 50" role="img" aria-label="Close">
+               <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_minus"></use>
+            </svg>
+         </span>
+      </a>
+      <div data-item="accordion-section-1" class="accordion__item-description" role="region" aria-labeledby="accordion-section-1">
+        
+        <div>
+          
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<p>If you are connecting a DUALSHOCK 4 wireless controller to a compatible Sony Xperia device, all functions are available. </p>
+<p>For other devices, some wireless controller features are not available when connected via Bluetooth.</p>
+<ul>
+<li>Touchpad is not supported.<br />
+</li>
+<li>The color of the light bar cannot be changed. <br />
+</li>
+<li>Rumble, motion sensor, and headphone jack audio connection are not supported. <br />
+</li>
+</ul>
+
+	</div>
+
+</div>
+
+
+
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--light  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  +thin-row-gap  +thin-col-gap  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h4><a id="reconnect" rel="nofollow"></a>Reconnect DUALSHOCK 4 wireless controller to your console</h4>
+<p>To reconnect your wireless controller to your PS5 console or PS4 console, connect it with a compatible USB cable and press the PS button on the wireless controller. You can then remove the USB cable and use the controller wirelessly.</p>
+
+	</div>
+
+</div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--lightAlt  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--c  +thin-row-gap  +thin-col-gap  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h4><a id="issues" rel="nofollow"></a>Need more help with your DUALSHOCK 4 wireless controller?</h4>
+<p>If you have followed the above instructions but believe your controller is not connecting properly, please visit the PlayStation Repairs diagnostic tool.</p>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="buttonblock">
+
+<div class="btn-block        " data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+    <div class="justify-content@tablet--flex-start justify-content@desktop--flex-start align-items@tablet--flex-start align-items@desktop--flex-start justify-content@mobile--flex-start align-items@mobile--flex-start ">
+
+
+
+
+    
+    
+    <div class="button">
+
+
+
+
+
+
+
+
+
+    
+        
+        <a data-uuid="d4b4edee-ae28-3013-a512-e8b492302511" href="https://playstation.com/repairs" class="text-link +iconized" role="button" target="_self" target-tag="NONE|" data-dtm-label="PlayStation Repairs" data-dtm-label-override="PlayStation Repairs" data-age-gated="false" data-force-age-gate="false">
+            <svg class="text-link__icon" viewBox="0 0 50 50" role="img" aria-label="Chevron right">
+                <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_chevron-right"></use>
+            </svg>
+            <div class="cta__inner">
+                
+                
+                    <span>PlayStation Repairs</span>
+                
+            </div>
+        </a>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+</div></div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+<div class="rawhtml parbase">
+
+<div id="limitless-root" 
+ data-client-key="4DeWOJWvKmNgHIN55yhB42l7ytMY6mo4WGstNPYj" 
+ data-tenant-name="SonyPS" 
+ data-group-name="SonyPS-US-en-LLM" 
+ data-locale="en-US" 
+ data-how-it-works="mandatory" 
+ data-min-question-char-count="10" 
+ data-history-enabled="false" 
+ data-persistence="false" 
+data-powered-by="false" 
+data-fab-text="Ask a PlayStation® Expert"
+ data-app-visible="true"
+data-llm-height="550"
+ data-rating-system="star">
+</div>
+ <script async src="https://prod.limitlesslivemessenger.com/ga/live-messenger.js" type="text/javascript"></script></div>
+<div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--light  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--a  ">
+		
+<div class="box ">
+    
+
+
+
+
+    
+    
+    <div class="feedback">
+
+<form class="form form--feedback +center " data-component="form-feedback">
+    <div class="form__body">
+        <div class="form__view form__view--1">
+            <div class="form__heading">
+                <h4>Was this article helpful?
+</h4>
+            </div>
+            <div class="form__item form__item--radio">
+                <div class="input input--horizontal">
+                    <div class="input__item input__item--icon input__item--icon-smile">
+                        <input name="group1" class="input__field" type="radio" id="smile" value="1" data-dtm-position="1" data-dtm-label="Smile
+"/>
+                        <label class="input__label" for="smile">Smile
+</label>
+                    </div>
+                    <div class="input__item input__item--icon input__item--icon-frown">
+                        <input name="group1" class="input__field" type="radio" id="frown" value="2" data-dtm-position="2" data-dtm-label="Frown
+"/>
+                        <label class="input__label" for="frown">Frown
+</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form__view form__view--2 +hide">
+            <div class="form__subtitle">
+                <h5>What went wrong?
+</h5>
+            </div>
+            <div class="form__item form__item--radio">
+                <div class="input input--horizontal">
+                    <div class="input__item input__item--tag">
+                        <input name="group" class="input__field" type="radio" id="radio1" value="3" data-dtm-position="3" data-dtm-label="The article didn’t answer my question
+"/>
+                        <label class="input__label" for="radio1">
+                            The article didn’t answer my question
+
+                        </label>
+                    </div>
+                    <div class="input__item input__item--tag">
+                        <input name="group" class="input__field" type="radio" id="radio2" value="4" data-dtm-position="4" data-dtm-label="I found the article confusing 
+"/>
+                        <label class="input__label" for="radio2">
+                            I found the article confusing 
+
+                        </label>
+                    </div>
+                    <div class="input__item input__item--tag">
+                        <input name="group" class="input__field" type="radio" id="radio3" value="3" data-dtm-position="5" data-dtm-label="The article is out of date
+"/>
+                        <label class="input__label" for="radio3">
+                            The article is out of date
+
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form__view form__view--3 form__view--icon +hide">
+            <div class="form__heading">
+                <h4>Thank you!
+</h4>
+            </div>
+            <p>Your feedback will help us to keep improving.
+</p>
+        </div>
+    </div>
+</form></div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="experiencefragment">
+<div class="cmp-experiencefragment cmp-experiencefragment--contact-us-cta"><div class="xfpage page basicpage"><div class="xf-content-height">
+    
+
+    
+    
+    
+    <div class="cmp-container">
+        
+        <div class="section">
+
+
+
+
+
+<section class="gpdc-section theme--lightAlt  ">
+	<div>
+
+
+
+
+    
+    
+    <div class="contentgrid">
+
+	
+	<div class="content-grid layout__1--a  ">
+		
+<div class="box justify-content--center ">
+    
+
+
+
+
+    
+    
+    <div class="textblock parbase">
+
+ 
+ 
+   <div class="text-block         " data-ol-order-start="1" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+		<h3 style="text-align: center;">Need help? </h3>
+<p style="text-align: center;">Contact our support specialists</p>
+
+	</div>
+
+</div>
+
+
+    
+    
+    <div class="buttonblock">
+
+<div class="btn-block      align-self@mobile--center  align-self@desktop--center" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false">
+    <div class="justify-content@tablet--center justify-content@desktop--center align-items@tablet--center align-items@desktop--center justify-content@mobile--center align-items@mobile--center ">
+
+
+
+
+    
+    
+    <div class="button">
+
+
+
+
+
+    <a data-uuid="a11fa993-d220-3d9c-9272-b741e8be2a9a" href="/en-us/support/contact-us/" class="cta__primary" role="button" target="_self" target-tag="NONE|" data-dtm-label="Contact PlayStation Support" data-dtm-label-override="Contact PlayStation Support" rel="nofollow">
+        <div class="cta__inner">
+            
+            <span>Contact PlayStation Support</span>
+            
+            
+            
+        </div>
+    </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+</div></div>
+
+
+
+</div>
+	</div>
+
+</div>
+
+
+</div>
+</section>
+</div>
+
+        
+    </div>
+
+
+</div></div>
+</div>
+
+    
+</div>
+
+
+</div>
+</section>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="experiencefragment">
+<div class="cmp-experiencefragment cmp-experiencefragment--footer"><div class="xfpage page basicpage"><div class="xf-content-height">
+    
+
+    
+    
+    
+    <div class="cmp-container">
+        
+        <div class="footer">
+
+
+   <footer class="site-footer">
+        <div class="content-grid">
+            
+            <div class="site-footer__brand-area">
+                <figure itemscope itemtype="http://schema.org/ImageObject" class="ps-bug">
+                    <img itemprop="contentUrl" src="/etc.clientlibs/global_pdc/clientlibs/clientlib-base/resources/ps-bug.svg" alt="Sony PlayStation"/>
+                </figure>
+                <!-- Please ensure each a tag click under a list element is tracked -->
+                <ul>
+                    
+                    <li>
+                        <a href="https://www.playstation.com/country-selector/"><svg class="site-footer__network" viewBox="0 0 50 50" role="img" aria-label="Network">
+
+                        <use href="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit/resources/ps-icons-map.svg#ps-icon_network"></use></svg> Country / Region: United States</a>
+                    </li>
+                    
+                    
+                </ul>
+            </div>
+            
+            <div class="site-footer__categories">
+          		 
+
+
+<ul>
+    <li>
+        <a href="https://www.playstation.com/en-us/support/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Support&quot;,&quot;position&quot;:&quot;1&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/support/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Support</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/legal/privacy-policy/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Privacy policy&quot;,&quot;position&quot;:&quot;2&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/legal/privacy-policy/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Privacy policy</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/legal/terms-of-use/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Website terms of use&quot;,&quot;position&quot;:&quot;3&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/legal/terms-of-use/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Website terms of use</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/corporate/playstation-studios/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;PlayStation Studios&quot;,&quot;position&quot;:&quot;4&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/corporate/playstation-studios/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">PlayStation Studios</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/legal/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Legal&quot;,&quot;position&quot;:&quot;5&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/legal/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Legal</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/corporate/about/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;About SIE&quot;,&quot;position&quot;:&quot;6&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/corporate/about/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">About SIE</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/corporate/playstation-and-the-environment/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;PlayStation and the environment&quot;,&quot;position&quot;:&quot;7&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/corporate/playstation-and-the-environment/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">PlayStation and the environment</a>
+    </li>
+</ul>
+            </div>
+            
+            <div class="site-footer__categories">
+				 
+
+
+<ul>
+    <li>
+        <a href="https://www.playstation.com/en-us/legal/psn-terms-of-service/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;PSN terms of service&quot;,&quot;position&quot;:&quot;1&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/legal/psn-terms-of-service/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">PSN terms of service</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/network/legal/cancellation-policy/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;PS Store cancellation policy&quot;,&quot;position&quot;:&quot;2&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/network/legal/cancellation-policy/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">PS Store cancellation policy</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/network/legal/health-warnings/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Health warning&quot;,&quot;position&quot;:&quot;3&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/network/legal/health-warnings/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Health warning</a>
+    </li>
+
+    <li>
+        <a href="https://www.esrb.org/ratings-guide/" target="_blank" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;About ratings&quot;,&quot;position&quot;:&quot;4&quot;,&quot;linkUrl&quot;:&quot;https://www.esrb.org/ratings-guide/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">About ratings</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/corporate/press-releases/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Press release&quot;,&quot;position&quot;:&quot;5&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/corporate/press-releases/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Press release</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/corporate/about/careers/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Careers&quot;,&quot;position&quot;:&quot;6&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/corporate/about/careers/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Careers</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/develop/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Developers&quot;,&quot;position&quot;:&quot;7&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/develop/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Developers</a>
+    </li>
+
+    <li>
+        <a href="https://www.playstation.com/en-us/site-map/" target="_self" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;Site map&quot;,&quot;position&quot;:&quot;8&quot;,&quot;linkUrl&quot;:&quot;https://www.playstation.com/en-us/site-map/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}">Site map</a>
+    </li>
+</ul>
+            </div>
+            
+            <div class="site-footer__categories">
+ 				 
+
+
+<ul>
+    <li>
+        <a href="https://www.facebook.com/playstation/" target="_blank" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;&quot;,&quot;position&quot;:&quot;1&quot;,&quot;linkUrl&quot;:&quot;https://www.facebook.com/playstation/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">Facebook</a>
+    </li>
+
+    <li>
+        <a href="https://twitter.com/PlayStation" target="_blank" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;&quot;,&quot;position&quot;:&quot;2&quot;,&quot;linkUrl&quot;:&quot;https://twitter.com/PlayStation&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">Twitter</a>
+    </li>
+
+    <li>
+        <a href="https://www.youtube.com/user/playstation" target="_blank" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;&quot;,&quot;position&quot;:&quot;3&quot;,&quot;linkUrl&quot;:&quot;https://www.youtube.com/user/playstation&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">YouTube</a>
+    </li>
+
+    <li>
+        <a href="https://www.instagram.com/PlayStation/" target="_blank" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select footer link&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;footer&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;label&quot;:&quot;&quot;,&quot;position&quot;:&quot;4&quot;,&quot;linkUrl&quot;:&quot;https://www.instagram.com/PlayStation/&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">Instagram</a>
+    </li>
+</ul>
+            </div>
+            <div class="site-footer__badges">
+                <div>
+
+
+
+
+ <div class="media-block__inner">
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="media-block__figure null null" aria-labelledby="fig-caption-24ffe7bd-5bdd-303d-aa8f-81ef389bbed8">
+        
+  </figure>
+        
+  </div>
+    
+
+
+</div>
+                <div>
+
+
+
+
+
+    <a class="media-block media-block--image  media-block--style-override     +interactive" href="https://www.esrb.org/EPCConfirm/901/" tabindex="0" target="_self" data-component="image-block" data-lightbox="false" data-age-gated="false" data-lightbox-theme="dark" data-src="/content/dam/global_pdc/en/external-resources/age-ratings/esrb/esrb.svg" data-custom-mobile-width="false" data-custom-tablet-width="false" data-custom-desktop-width="false" rel="nofollow">
+
+ <div class="media-block__inner">
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="media-block__figure object-position--c object-position@tablet--c object-position@desktop--c" aria-labelledby="fig-caption-1a877b90-81cb-34f6-85ab-69499b2ba657">
+        
+            
+    <picture class="media-block__img lozad" data-alt="ESRB">
+            
+        
+            <source srcset="/content/dam/global_pdc/en/external-resources/age-ratings/esrb/esrb.svg" media="(min-width: 768px)"/>
+        
+        <source srcset="/content/dam/global_pdc/en/external-resources/age-ratings/esrb/esrb.svg" media="(min-width: 320px)"/>
+        <noscript><img itemprop="contentUrl" src="/content/dam/global_pdc/en/external-resources/age-ratings/esrb/esrb.svg" alt="ESRB"/></noscript>
+    </picture>
+
+        
+  </figure>
+        
+  </div>
+    
+
+
+</a>
+
+</div>
+            </div>
+            <div class="site-footer__legal">
+                <figure itemscope itemtype="http://schema.org/ImageObject" class="sie-logo">
+                    <img itemprop="contentUrl" src="/etc.clientlibs/global_pdc/clientlibs/clientlib-base/resources/sie.svg" alt="Sony Interactive Entertainment"/>
+                </figure>
+                <div class="text-block">
+               	 
+ 
+
+
+<p>© 2022 Sony Interactive Entertainment LLC</p>
+
+
+
+                </div>
+    		</div>
+    	</div>
+    </footer></div>
+
+        
+    </div>
+
+
+</div></div>
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+        
+        <div class="gdk">
+	<div class="alerts theme--light" data-component="alerts">
+		
+		
+	</div> 
+</div>
+        
+
+ 
+     
+   
+      <template id="age-gate__user-input-required">
+         <div class="age-gate" role="dialog" aria-modal="true">
+            <div class="age-gate__header">
+               <a class="icon-block age-gate__close display--hidden" role="button" tabindex="1" rel="nofollow">
+                  <svg id="ps-icon_close" viewBox="0 0 50 50" role="button" aria-label="Close">
+                     <defs>
+                        <style>.cls-1{fill-rule:evenodd}</style>
+                     </defs>
+                     <path class="cls-1" d="M28 25.5l14.1-14.1a2 2 0 0 0 0-2.84l-.65-.65a2 2 0 0 0-2.84 0L24.5 22 10.4 7.9a2 2 0 0 0-2.84 0l-.65.65a2 2 0 0 0 0 2.84L21 25.5 6.9 39.6a2 2 0 0 0 0 2.84l.65.65a2 2 0 0 0 2.84 0L24.5 29l14.1 14.1a2 2 0 0 0 2.84 0l.65-.65a2 2 0 0 0 0-2.84z" id="close"></path>
+                  </svg>
+               </a>
+               <a href="/" class="text-link +iconized display--hidden" role="button" tabindex="1" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select back age-gate&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;age-gate&quot;,&quot;label&quot;:&quot;back to playstation&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">
+                  <svg id="ps-icon_chevron-left" viewBox="0 0 50 50" class="text-link__icon" aria-label="Back arrow">
+                     <path d="M32.483 43.12l-16.66-16.185a2.007 2.007 0 0 1 0-2.879l16.66-16.18a2.007 2.007 0 0 1 2.823.026l.617.622a2.007 2.007 0 0 1-.027 2.853l-13.058 12.68a2.007 2.007 0 0 0 0 2.878L35.896 39.62a2.007 2.007 0 0 1 .027 2.852l-.617.622a2.007 2.007 0 0 1-2.823.027z"></path>
+                  </svg>
+                  Back to PlayStation
+               </a>
+            </div>
+            <div class="gpdc-section theme--dark age-gate__body">
+               <div class="content-grid">
+                  <div class="box">
+                     <div class="text-block">
+                        <svg id="ps-icon_locked" class="lock" viewBox="0 0 50 50" role="img" aria-label="Lock">
+                           <path d="M20.5 13a4.43 4.43 0 0 1 4.42-4.43h.15A4.43 4.43 0 0 1 29.5 13v9.52h3V13a7.43 7.43 0 0 0-7.42-7.43h-.15A7.43 7.43 0 0 0 17.5 13v9.52h3zM11 24.47v17a3 3 0 0 0 3 3h22a3 3 0 0 0 3-3v-17zm16 14h-4v-8h4z"></path>
+                        </svg>
+                        <div class="accent">Age restricted</div>
+                        
+                        <h3>How to use DUALSHOCK 4 wireless controllers with PC, Mac, Android, and iOS</h3>
+                        <p>Enter your date of birth.</p>
+                     </div>
+                     <div class="age-gate__forms">
+                        <label class="age-gate__form-field month">
+                           <input type="number" id="age-gate-month" name="month" min="1" max="12" minlength="1" maxlength="2" aria-required="true" aria-invalid="false" aria-label="Enter your month of birth" class="age-gate__input-field"/>
+                           <span class="age-gate__input-placeholder">MM</span>
+                           <span class="age-gate__input-error-icon">
+                              <svg id="ps-icon_error-message" viewBox="0 0 50 50" role="img" aria-label="Error Message">
+                                 <path d="M48.211 40.513L28.351 6.101a4.157 4.157 0 0 0-3.346-2.403 4.156 4.156 0 0 0-3.348 2.403L1.794 40.513a5.27 5.27 0 0 0-.794 2.6 2.899 2.899 0 0 0 .383 1.507 4.146 4.146 0 0 0 3.761 1.682h39.723a4.144 4.144 0 0 0 3.763-1.693 3.001 3.001 0 0 0 .37-1.495 5.386 5.386 0 0 0-.789-2.6zm-23.243 1.488a3.097 3.097 0 1 1 3.14-3.091A3.077 3.077 0 0 1 24.967 42zM27.26 29.41c0 1.707-.526 3.095-2.293 3.095-1.678 0-2.227-1.388-2.227-3.095l-.843-13.933a3.084 3.084 0 0 1 3.07-3.065 3.046 3.046 0 0 1 3.14 3.065z"></path>
+                              </svg>
+                           </span>
+                        </label>
+                        <label class="age-gate__form-field day">
+                           <input type="number" id="age-gate-day" name="day" min="1" max="31" minlength="1" maxlength="2" aria-required="true" aria-invalid="false" aria-label="Enter your day of birth" class="age-gate__input-field"/>
+                           <span class="age-gate__input-placeholder">DD</span>
+                           <span class="age-gate__input-error-icon">
+                              <svg id="ps-icon_error-message" viewBox="0 0 50 50" role="img" aria-label="Error Message">
+                                 <path d="M48.211 40.513L28.351 6.101a4.157 4.157 0 0 0-3.346-2.403 4.156 4.156 0 0 0-3.348 2.403L1.794 40.513a5.27 5.27 0 0 0-.794 2.6 2.899 2.899 0 0 0 .383 1.507 4.146 4.146 0 0 0 3.761 1.682h39.723a4.144 4.144 0 0 0 3.763-1.693 3.001 3.001 0 0 0 .37-1.495 5.386 5.386 0 0 0-.789-2.6zm-23.243 1.488a3.097 3.097 0 1 1 3.14-3.091A3.077 3.077 0 0 1 24.967 42zM27.26 29.41c0 1.707-.526 3.095-2.293 3.095-1.678 0-2.227-1.388-2.227-3.095l-.843-13.933a3.084 3.084 0 0 1 3.07-3.065 3.046 3.046 0 0 1 3.14 3.065z"></path>
+                              </svg>
+                           </span>
+                        </label>
+                        <label class="age-gate__form-field year">
+                           <input type="number" id="age-gate-year" name="year" min="1776" max="9999" minlength="4" maxlength="4" aria-required="true" aria-invalid="false" aria-label="Enter your year of birth" class="age-gate__input-field"/>
+                           <span class="age-gate__input-placeholder">YYYY</span>
+                           <span class="age-gate__input-error-icon">
+                              <svg id="ps-icon_error-message" viewBox="0 0 50 50" role="img" aria-label="Error Message">
+                                 <path d="M48.211 40.513L28.351 6.101a4.157 4.157 0 0 0-3.346-2.403 4.156 4.156 0 0 0-3.348 2.403L1.794 40.513a5.27 5.27 0 0 0-.794 2.6 2.899 2.899 0 0 0 .383 1.507 4.146 4.146 0 0 0 3.761 1.682h39.723a4.144 4.144 0 0 0 3.763-1.693 3.001 3.001 0 0 0 .37-1.495 5.386 5.386 0 0 0-.789-2.6zm-23.243 1.488a3.097 3.097 0 1 1 3.14-3.091A3.077 3.077 0 0 1 24.967 42zM27.26 29.41c0 1.707-.526 3.095-2.293 3.095-1.678 0-2.227-1.388-2.227-3.095l-.843-13.933a3.084 3.084 0 0 1 3.07-3.065 3.046 3.046 0 0 1 3.14 3.065z"></path>
+                              </svg>
+                           </span>
+                        </label>
+                     </div>
+                     <small class="age-gate__error-notice visibility--hidden">
+                     Please enter a valid date
+                     </small>
+                     <div class="btn-block">
+                        <div>
+                           <a data-dtm-label="Confirm age" href="javascript:void(0);" role="button" class="cta__primary cta__disabled age-gate__input-btn" aria-disabled="true" rel="nofollow"> <div class="cta__inner">Confirm age</div></a>
+                        </div>
+                     </div>
+                     <div class="text-block">
+                     <a data-dtm-label="Sign In" data-sign-in-link="true" href="javascript:void(0);" rel="nofollow">Sign In</a>
+                         to your Sony account and we&#39;ll remember your age next time.
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </template>
+   
+   <template id="age-gate__user-shall-not-pass">
+      <div class="age-gate user-shall-not-pass" role="dialog" aria-modal="true">
+         <div class="age-gate__header">
+            <a class="icon-block age-gate__close display--hidden" role="button" tabindex="1" rel="nofollow">
+               <svg id="ps-icon_close" viewBox="0 0 50 50" role="button" aria-label="Close">
+                  <defs>
+                     <style>.cls-1{fill-rule:evenodd}</style>
+                  </defs>
+                  <path class="cls-1" d="M28 25.5l14.1-14.1a2 2 0 0 0 0-2.84l-.65-.65a2 2 0 0 0-2.84 0L24.5 22 10.4 7.9a2 2 0 0 0-2.84 0l-.65.65a2 2 0 0 0 0 2.84L21 25.5 6.9 39.6a2 2 0 0 0 0 2.84l.65.65a2 2 0 0 0 2.84 0L24.5 29l14.1 14.1a2 2 0 0 0 2.84 0l.65-.65a2 2 0 0 0 0-2.84z" id="close"></path>
+               </svg>
+            </a>
+            <a href="/" class="text-link +iconized display--hidden" role="button" tabindex="1" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select back age-gate&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;age-gate&quot;,&quot;label&quot;:&quot;back to playstation&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;position&quot;:&quot;1&quot;,&quot;linkURL&quot;:&quot;#buynow&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">
+               <svg id="ps-icon_chevron-left" viewBox="0 0 50 50" class="text-link__icon" aria-label="Back arrow">
+                  <path d="M32.483 43.12l-16.66-16.185a2.007 2.007 0 0 1 0-2.879l16.66-16.18a2.007 2.007 0 0 1 2.823.026l.617.622a2.007 2.007 0 0 1-.027 2.853l-13.058 12.68a2.007 2.007 0 0 0 0 2.878L35.896 39.62a2.007 2.007 0 0 1 .027 2.852l-.617.622a2.007 2.007 0 0 1-2.823.027z"></path>
+               </svg>
+               Back to PlayStation
+            </a>
+         </div>
+         <div class="gpdc-section theme--dark age-gate__body">
+            <div class="content-grid">
+               <div class="box">
+                  <div class="text-block">
+                     <svg id="ps-icon_locked" class="lock" viewBox="0 0 50 50" role="img" aria-label="Lock">
+                        <path d="M20.5 13a4.43 4.43 0 0 1 4.42-4.43h.15A4.43 4.43 0 0 1 29.5 13v9.52h3V13a7.43 7.43 0 0 0-7.42-7.43h-.15A7.43 7.43 0 0 0 17.5 13v9.52h3zM11 24.47v17a3 3 0 0 0 3 3h22a3 3 0 0 0 3-3v-17zm16 14h-4v-8h4z"></path>
+                     </svg>
+                     <div class="accent">Age restricted</div>
+                     <h3>Sorry, you are not eligible to view this content.</h3>
+                  </div>
+                  <div class="text-block">
+                      Back to <a href="/" data-track="{&quot;eventInfo&quot;:{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventName&quot;:&quot;select back age-gate&quot;},&quot;attributes&quot;:{&quot;moduleName&quot;:&quot;age-gate&quot;,&quot;label&quot;:&quot;back to playstation&quot;,&quot;assetName&quot;:&quot;empty&quot;,&quot;elementType&quot;:&quot;link&quot;,&quot;position&quot;:&quot;1&quot;,&quot;linkURL&quot;:&quot;#buynow&quot;,&quot;userActionFlag&quot;:true}}" rel="nofollow">PlayStation.com.</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </template>
+
+        
+
+
+        
+
+  
+   <template id="custom-btn-template">
+        <svg data-btn-id="play-video" class="icon-block__icon-play-video" viewBox="0 0 50 50" role="img" aria-label="Play">
+            <defs><style>.cls-1{fill-rule:evenodd}</style></defs>
+            <path class="cls-1" d="M9 6l32 19L9 44z"></path>
+        </svg>
+        <svg data-btn-id="pause-video" class="icon-block__icon-pause-video" viewBox="0 0 50 50" role="img" aria-label="Pause">
+            <path d="M3.885 48h15.554V2H3.885zM30.582 2v46h15.533V2z"></path>
+        </svg>
+        <svg data-btn-id="replay-video" class="icon-block__icon-replay-video" viewBox="0 0 50 50" role="img" aria-label="Replay">
+            <path d="M41.609 26.309c-.611-10.287-8.963-18.69-19.25-19.454V1.05c0-.866-1.018-1.375-1.68-.815L8.864 9.605a1.06 1.06 0 0 0 0 1.63l11.815 9.319c.662.56 1.68.05 1.68-.815v-5.602c7.232.815 12.732 7.385 11.917 14.972-.662 6.213-5.704 11.255-11.917 11.917-7.74.866-14.411-4.838-15.074-12.273a1.276 1.276 0 0 0-1.273-1.171H1.276c-.764 0-1.324.61-1.273 1.375C.767 39.804 9.781 48.41 20.832 48.41c11.865 0 21.49-10.032 20.777-22.101z"></path>
+        </svg>
+        <svg data-btn-id="back-to-start" class="icon-block__icon-back-to-start" viewBox="0 0 50 50" role="img" aria-label="Back to start">
+            <path d="M9.923 25.008L48 46.21V3.791zM2 3.898v42.275h7.923V3.898z"></path>
+        </svg>
+        <svg data-btn-id="full-screen" class="icon-block__icon-full-screen" viewBox="0 0 50 50" role="img" aria-label="Full screen">
+            <path d="M12.805 7H1v11.81h3.373v-6.048l6.05 6.048 2.382-2.386-6.048-6.049h6.048V7zM12.805 33.569l-2.382-2.384-6.05 6.051v-6.051H1V43h11.805v-3.376H6.753l6.052-6.055zM37.193 7v3.375h6.051l-6.051 6.049 2.386 2.386 6.048-6.051v6.051H49V7H37.193zM45.627 31.185v6.053l-6.048-6.053-2.386 2.384 6.053 6.055h-6.053V43H49V31.185h-3.373z"></path>
+        </svg>
+        <svg data-btn-id="close-full-screen" class="icon-block__icon-close-full-screen" viewBox="0 0 50 50" role="img" aria-label="Close full screen">
+            <defs><style>.cls-1{fill-rule:evenodd}</style></defs>
+            <path class="cls-1" d="M28 25.5l14.1-14.1a2 2 0 0 0 0-2.84l-.65-.65a2 2 0 0 0-2.84 0L24.5 22 10.4 7.9a2 2 0 0 0-2.84 0l-.65.65a2 2 0 0 0 0 2.84L21 25.5 6.9 39.6a2 2 0 0 0 0 2.84l.65.65a2 2 0 0 0 2.84 0L24.5 29l14.1 14.1a2 2 0 0 0 2.84 0l.65-.65a2 2 0 0 0 0-2.84z"></path>
+        </svg>
+    </template>
+    
+
+        
+
+
+   <template id="media-lightbox__template">
+      <div class="media-lightbox" aria-modal="true" data-close-label="Close" data-close-fullscreen-label="Close full screen">
+
+         <div class="media-lightbox__topbar">
+            <div role="button" class="icon media-lightbox__close" tabindex="1">
+               <svg viewBox="0 0 64 64" role="button" aria-label="Close">
+                    <path fill-rule="evenodd" d="M36,32.5 L50.1,18.4 C50.4786253,18.0244668 50.6915966,17.5132751 50.6915966,16.98 C50.6915966,16.4467249 50.4786253,15.9355332 50.1,15.56 L49.45,14.91 C49.0744668,14.5313747 48.5632751,14.3184034 48.03,14.3184034 C47.4967249,14.3184034 46.9855332,14.5313747 46.61,14.91 L32.5,29 L18.4,14.9 C18.0244668,14.5213747 17.5132751,14.3084034 16.98,14.3084034 C16.4467249,14.3084034 15.9355332,14.5213747 15.56,14.9 L14.91,15.55 C14.5313747,15.9255332 14.3184034,16.4367249 14.3184034,16.97 C14.3184034,17.5032751 14.5313747,18.0144668 14.91,18.39 L29,32.5 L14.9,46.6 C14.5213747,46.9755332 14.3084034,47.4867249 14.3084034,48.02 C14.3084034,48.5532751 14.5213747,49.0644668 14.9,49.44 L15.55,50.09 C15.9255332,50.4686253 16.4367249,50.6815966 16.97,50.6815966 C17.5032751,50.6815966 18.0144668,50.4686253 18.39,50.09 L32.5,36 L46.6,50.1 C46.9755332,50.4786253 47.4867249,50.6915966 48.02,50.6915966 C48.5532751,50.6915966 49.0644668,50.4786253 49.44,50.1 L50.09,49.45 C50.4686253,49.0744668 50.6815966,48.5632751 50.6815966,48.03 C50.6815966,47.4967249 50.4686253,46.9855332 50.09,46.61 L36,32.5 Z"/>
+               </svg>
+            </div>
+         </div>
+         <div class="media-lightbox__fullscreen-image"></div>
+         <div class="media-lightbox__main carousel--lightbox--main"></div>
+         <div class="media-lightbox__lower carousel carousel--lightbox--lower">
+         </div>
+         <div tabindex="0" data-component="image-block" class="media-block media-block--image toCloneImage cloner">
+            <div class="media-block__inner">
+               <figure class="media-block__figure">
+                  <picture class="media-block__img"></picture>
+               </figure>
+               <div class="media-block__overlay">
+                  <div class="icon">
+                     <svg class="media-block__icon media-block__icon--full-screen" viewBox="0 0 64 64" role="img" aria-label="Full screen">
+                        <path fill-rule="evenodd" d="M14.1562,37.3501 L14.1562,42.5851 L19.3892,37.3501 L21.4512,39.4131 L16.2152,44.6501 L21.4512,44.6501 L21.4512,47.5711 L11.2392,47.5711 L11.2392,37.3501 L14.1562,37.3501 Z M52.7618,37.3501 L52.7618,47.5711 L42.5478,47.5711 L42.5478,44.6501 L47.7828,44.6501 L42.5478,39.4131 L44.6118,37.3501 L49.8438,42.5861 L49.8438,37.3501 L52.7618,37.3501 Z M21.4512,16.4292 L21.4512,19.3482 L16.2192,19.3482 L21.4512,24.5812 L19.3892,26.6452 L14.1562,21.4132 L14.1562,26.6452 L11.2392,26.6452 L11.2392,16.4292 L21.4512,16.4292 Z M52.7619,16.4292 L52.7619,26.6452 L49.8439,26.6452 L49.8439,21.4102 L44.6109,26.6452 L42.5479,24.5812 L47.7819,19.3482 L42.5479,19.3482 L42.5479,16.4292 L52.7619,16.4292 Z"/>
+                     </svg>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div tabindex="0" class="media-block media-block--video toCloneVideo cloner" data-component="video-block">
+            <div class="media-block__inner">
+               <figure class="media-block__figure">
+                  <video class="media-block__video">
+                     <source src="" data-srcset=""/>
+                  </video>
+               </figure>
+            </div>
+         </div>
+         <div class="embed-video pseudo-anchor cloner toCloneYoutubeVideo" data-video-id="" data-age-gated="false" data-autoplay="false" data-loop="false" data-playlist="">
+            <div class="embed-video__inner">
+                <iframe sandbox="allow-scripts allow-same-origin" frameborder="0" allowfullscreen=""></iframe>
+            </div>
+         </div>
+      </div>
+   </template>
+   
+
+
+        <template id="video-playlist__template">
+
+   <div role="button" tabindex="0" class="media-block media-block--video +interactive playlist-clone" data-component="video-block">
+      <div class="media-block__inner">
+         <figure class="media-block__figure">
+            <video class="media-block__video video-js">
+               <source src="" data-srcset=""/>
+            </video>
+         </figure>
+      </div>
+   </div>
+
+   <div role="button" tabindex="0" class="media-block media-block--video media-block--video--youtube +interactive playlist-clone-youtube" data-component="video-block">
+      <div class="media-block__inner">
+         <div class="embed-video__inner">
+            <iframe sandbox="allow-scripts allow-same-origin" frameborder="0" allowfullscreen></iframe>
+         </div>
+      </div>
+   </div>
+
+</template>
+
+        
+ 
+<template id="modal-template">
+    <div class="modal" aria-modal="true">
+        <div class="modal__body">
+            <div class="modal__grid">
+                <header class="modal__header">
+                    <button class="modal__close" tabindex="1">
+                        <svg viewBox="0 0 50 50" role="button" aria-label="Close">
+                          <defs><style>.cls-1{fill-rule:evenodd}</style></defs>
+                          <path class="cls-1" d="M28 25.5l14.1-14.1a2 2 0 0 0 0-2.84l-.65-.65a2 2 0 0 0-2.84 0L24.5 22 10.4 7.9a2 2 0 0 0-2.84 0l-.65.65a2 2 0 0 0 0 2.84L21 25.5 6.9 39.6a2 2 0 0 0 0 2.84l.65.65a2 2 0 0 0 2.84 0L24.5 29l14.1 14.1a2 2 0 0 0 2.84 0l.65-.65a2 2 0 0 0 0-2.84z"></path>
+                       </svg>
+                    </button>
+                </header>
+                <div class="modal__content"></div>
+            </div>
+        </div>
+    </div>
+</template>
+
+        
+        
+            <template id="video-autoload__template">
+                <div class="video-autoload-template hidden">
+                    <div class="btn-block">
+                        
+                    </div>
+                </div>
+            </template>
+
+        <input type="hidden" name="lastcodedeployed-releaseversion" value="Last Deployed Time: Nov 7, 2022 11:43 AM - Release Version: 2022.110"/>
+	        <script>
+		        let revisionNumber = "Last Deployed Time: Nov 7, 2022 11:43 AM \u002D Release Version: 2022.110"
+		        revisionNumber = revisionNumber.split("Release Version: ")[1]
+		        window.revisionNumber = revisionNumber
+	       </script>
+        
+    
+    
+
+
+
+
+    <!-- GPDCM-5046 - When header is disabled, do not load the Jetstream clientlibs -->
+    <script id="jetstream-main" type="text/javascript" src="/etc.clientlibs/global_pdc/clientlibs/clientlibs-jetstream.f226aa1c5c23f328e025f793f7a1c202.js"></script>
+    
+    <script>
+        window.sharedNav = window.sharedNav || {};
+        sharedNav.setPublicUrl("/etc.clientlibs/global_pdc/clientlibs/clientlibs-jetstream/resources")
+    </script>
+
+
+
+    
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.designkit.min.dbb1bfd88ef009a3a0243ad6bcb4e3e3.js" defer></script>
+
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.customer-experience.min.f3d73313fda29410db2365aee96a26ad.js"></script>
+
+
+
+
+    
+<script src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.search-integration.min.2a498b65969ef6d431537d48da91113a.js"></script>
+
+
+
+
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/global_pdc/clientlibs/auto-clientlibs/pdc.accordions.min.451c6e07429d12d1fbca965ecae0f789.js" defer></script>
+
+
+
+    
+
+    
+
+
+        
+
+
+
+
+
+
+
+    
+    
+	 
+    <script type="text/javascript">
+    _satellite.pageBottom();
+    </script>
+    
+    
+        
+<script type="text/javascript">
+    $(document).ready(function () {
+       window._gpdc.listenForUserConsent( () => {
+            var tagjs = document.createElement("script");
+            var s = document.getElementsByTagName("script")[0];
+            tagjs.async = true;
+            tagjs.src = "//cdn.evgnet.com/beacon/sonyinteractiveent/sie_prod/scripts/evergage.min.js";
+            s.parentNode.insertBefore(tagjs, s);
+        });
+    });
+</script>
+
+    
+    
+</body>
+
+</html>
